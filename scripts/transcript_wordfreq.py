@@ -14,7 +14,8 @@ TOKEN_KEEP_PUNCT = re.compile(r"[A-Za-z0-9]+(?:'[A-Za-z0-9]+)?|[^\w\s]", re.UNIC
 _WORD_FREQ_HEADER = re.compile(r"== Word Frequency ==")
 _TOKEN_COUNT_LINE_RE = re.compile(r"^(.*?)\t(\d+)\s*$")
 
-# Reads a speaker-formatted transcript and produces a .txt output containing word frequencies for a specified speaker.
+# Reads a speaker-formatted transcript and produces a .txt output containing word frequencies 
+# for a specified speaker.
 def speaker_word_frequency_from_transcript(
     transcript_path: Union[str, Path],
     speaker: str,
@@ -76,7 +77,8 @@ def speaker_word_frequency_from_transcript(
 
     return out_path
 
-# Reads a speaker-formatted transcript and produces a .txt output containing word frequencies for all speakers, along with summary stats.
+# Reads a speaker-formatted transcript and produces a .txt output containing word frequencies 
+# for all speakers, along with summary stats.
 def merge_word_frequency_txt_files(
     freq_txt_paths: Iterable[Union[str, Path]],
     *,
@@ -94,7 +96,8 @@ def merge_word_frequency_txt_files(
     merged = Counter()
     sources_used: list[Path] = []
 
-    # For each input file, look for the "== Word Frequency ==" section and parse token/count lines until the next blank line or end of file.
+    # For each input file, look for the "== Word Frequency ==" section and parse token/count lines 
+    # until the next blank line or end of file.
     for p in paths:
         in_freq_section = False
         saw_header = False
