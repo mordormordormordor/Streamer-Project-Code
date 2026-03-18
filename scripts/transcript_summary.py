@@ -150,3 +150,136 @@ def speaker_summary_freqs_transcripts_txt(
             pass
 
     return out_path
+
+
+TRANSCRIPTS_NAMES = [
+
+    # "HasanAbi 11-12-2025 PART 2 transcript.txt" #Too much overlap
+    "HasanAbi 11-24-2025 transcript.txt",
+    "HasanAbi 11-25-2025 transcript.txt",
+    # "HasanAbi 11-26-2025 PART 2 transcript.txt",
+    # "HasanAbi 11-26-2025 PART 1 transcript.txt",
+    # "HasanAbi 11-27-2025 transcript.txt",
+    "HasanAbi 11-28-2025 transcript.txt",
+    "HasanAbi 11-29-2025 transcript.txt",
+
+    # "HasanAbi 11-30-2025 transcript.txt",
+    "HasanAbi 12-01-2025 transcript.txt",
+    "HasanAbi 12-02-2025 transcript.txt",
+    "HasanAbi 12-03-2025 transcript.txt",
+    "HasanAbi 12-04-2025 transcript.txt",
+    "HasanAbi 12-06-2025 transcript.txt",
+
+    "HasanAbi 12-08-2025 transcript.txt",
+    "HasanAbi 12-09-2025 transcript.txt",
+    "HasanAbi 12-10-2025 transcript.txt",
+    "HasanAbi 12-11-2025 transcript.txt",
+    "HasanAbi 12-12-2025 transcript.txt",
+
+    "HasanAbi 12-13-2025 transcript.txt",
+    "HasanAbi 12-14-2025 transcript.txt",
+    # "HasanAbi 12-15-2025 transcript.txt",
+    "HasanAbi 12-16-2025 transcript.txt",
+    # "HasanAbi 12-17-2025 transcript.txt",
+    "HasanAbi 12-18-2025 transcript.txt",
+    "HasanAbi 12-19-2025 transcript.txt",
+    # "HasanAbi 12-20-2025 transcript.txt",
+    "HasanAbi 12-22-2025 transcript.txt",
+    # "HasanAbi 12-23-2025 transcript.txt",
+    # "HasanAbi 12-24-2025 transcript.txt",
+
+    "HasanAbi 12-25-2025 transcript.txt",
+    "HasanAbi 12-26-2025 transcript.txt",
+    "HasanAbi 12-27-2025 transcript.txt",
+    "HasanAbi 12-28-2025 transcript.txt",
+    "HasanAbi 12-29-2025 transcript.txt",
+    # "HasanAbi 12-30-2025 transcript.txt",
+    "HasanAbi 12-31-2025 transcript.txt",
+    "HasanAbi 01-01-2026 transcript.txt",
+    "HasanAbi 01-02-2026 transcript.txt",
+
+    # "HasanAbi 01-03-2026 transcript.txt",
+    "HasanAbi 01-05-2026 transcript.txt",
+    "HasanAbi 01-06-2026 transcript.txt",
+    "HasanAbi 01-07-2026 transcript.txt",
+    "HasanAbi 01-08-2026 transcript.txt",
+    "HasanAbi 01-09-2026 transcript.txt",
+    "HasanAbi 01-12-2026 transcript.txt",
+    # "HasanAbi 01-13-2026 transcript.txt",
+    # "HasanAbi 01-14-2026 transcript.txt",
+    "HasanAbi 01-15-2026 transcript.txt",
+
+    "HasanAbi 01-16-2026 transcript.txt",
+    "HasanAbi 01-17-2026 transcript.txt",
+    "HasanAbi 01-18-2026 transcript.txt",
+    "HasanAbi 01-19-2026 transcript.txt",
+    "HasanAbi 01-20-2026 transcript.txt",
+    "HasanAbi 01-21-2026 transcript.txt",
+    "HasanAbi 01-22-2026 transcript.txt",
+    "HasanAbi 01-25-2026 transcript.txt",
+    "HasanAbi 01-26-2026 transcript.txt",
+    "HasanAbi 01-27-2026 transcript.txt",
+]
+
+TRANSCRIPTS_A = [
+    "HasanAbi 11-24-2025 transcript.txt",
+    "HasanAbi 11-28-2025 transcript.txt",
+
+    "HasanAbi 12-02-2025 transcript.txt",
+    "HasanAbi 12-06-2025 transcript.txt",
+
+    "HasanAbi 12-08-2025 transcript.txt",
+    "HasanAbi 12-09-2025 transcript.txt",
+    "HasanAbi 12-11-2025 transcript.txt",
+    "HasanAbi 12-12-2025 transcript.txt",
+    "HasanAbi 12-14-2025 transcript.txt",
+    "HasanAbi 12-19-2025 transcript.txt",
+
+    "HasanAbi 12-25-2025 transcript.txt",
+    "HasanAbi 12-26-2025 transcript.txt",
+    "HasanAbi 12-27-2025 transcript.txt",
+    "HasanAbi 12-28-2025 transcript.txt",
+    "HasanAbi 12-29-2025 transcript.txt",
+    "HasanAbi 12-31-2025 transcript.txt",
+
+    "HasanAbi 01-01-2026 transcript.txt",
+    "HasanAbi 01-06-2026 transcript.txt",
+    "HasanAbi 01-08-2026 transcript.txt",
+    "HasanAbi 01-16-2026 transcript.txt",
+    "HasanAbi 01-17-2026 transcript.txt",
+    "HasanAbi 01-19-2026 transcript.txt",
+    "HasanAbi 01-22-2026 transcript.txt",
+    "HasanAbi 01-25-2026 transcript.txt"
+]
+
+
+TRANSCRIPTS_B = [
+    "HasanAbi 11-25-2025 transcript.txt",
+    "HasanAbi 11-29-2025 transcript.txt",
+
+    "HasanAbi 12-03-2025 transcript.txt",
+
+    "HasanAbi 12-13-2025 transcript.txt",
+    "HasanAbi 12-16-2025 transcript.txt",
+    "HasanAbi 12-18-2025 transcript.txt",
+    "HasanAbi 12-22-2025 transcript.txt",
+
+    "HasanAbi 01-02-2026 transcript.txt",
+    "HasanAbi 01-05-2026 transcript.txt",
+    "HasanAbi 01-07-2026 transcript.txt",
+    "HasanAbi 01-12-2026 transcript.txt",
+    "HasanAbi 01-18-2026 transcript.txt",
+    "HasanAbi 01-20-2026 transcript.txt",
+    "HasanAbi 01-21-2026 transcript.txt",
+    "HasanAbi 01-26-2026 transcript.txt",
+    "HasanAbi 01-27-2026 transcript.txt",
+]
+
+TRANSCRIPTS_C = [
+    "HasanAbi 12-01-2025 transcript.txt",
+    "HasanAbi 12-04-2025 transcript.txt",
+
+    "HasanAbi 12-10-2025 transcript.txt",
+    "HasanAbi 01-09-2026 transcript.txt",
+    "HasanAbi 01-15-2026 transcript.txt",
+]
