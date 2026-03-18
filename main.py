@@ -2,6 +2,10 @@ from scripts.lexical_metrics import (
     jensen_shannon_distance_from_files,
 )
 
+from scripts.transcript_wordfreq import (
+    merge_word_frequency_txt_files,
+)
+
 transcript_file = "/Users/sanji/Desktop/Visual Studio/Streamer Project Code/data/wordfreq/HasanAbi 1-2-2026 transcript_wf.txt"
 merge_file = "/Users/sanji/Desktop/Visual Studio/Streamer Project Code/data/merged/merged_file.txt"
 subtlex_file = "/Users/sanji/Desktop/Visual Studio/Streamer Project Code/data/ref_corpora/subtlex_us_wf.txt"

@@ -79,6 +79,7 @@ def speaker_word_frequency_from_transcript(
 
 # Reads a speaker-formatted transcript and produces a .txt output containing word frequencies 
 # for all speakers, along with summary stats.
+# Add later: keep speaker labels next to source transcript name in merged file
 def merge_word_frequency_txt_files(
     freq_txt_paths: Iterable[Union[str, Path]],
     *,

@@ -37,7 +37,6 @@ transcript_names = [
     "HasanAbi 11-28-2025 transcript.txt",
     "HasanAbi 11-29-2025 transcript.txt",
 
-
     # "HasanAbi 11-30-2025 transcript.txt",
     "HasanAbi 12-1-2025 transcript.txt",
     "HasanAbi 12-2-2025 transcript.txt",
@@ -158,75 +157,6 @@ transcriptsC = [
     "HasanAbi 1-15-2026 transcript.txt",
 ]
 
-
-merged_inputs = [
-    # "HasanAbi 11-12-2025 PART 2 transcript.txt_wf" #Too much overlap
-    "HasanAbi 11-24-2025 transcript_wf.txt",
-    "HasanAbi 11-25-2025 transcript_wf.txt",
-    # "HasanAbi 11-26-2025 PART 2 transcript_wf.txt",
-    # "HasanAbi 11-26-2025 PART 1 transcript_wf.txt",
-    # "HasanAbi 11-27-2025 transcript_wf.txt",
-    "HasanAbi 11-28-2025 transcript_wf.txt",
-    "HasanAbi 11-29-2025 transcript_wf.txt",
-
-    # "HasanAbi 11-30-2025 transcript_wf.txt",
-    "HasanAbi 12-1-2025 transcript_wf.txt",
-    "HasanAbi 12-2-2025 transcript_wf.txt",
-    "HasanAbi 12-3-2025 transcript_wf.txt",
-    "HasanAbi 12-4-2025 transcript_wf.txt",
-    "HasanAbi 12-6-2025 transcript_wf.txt",
-
-    "HasanAbi 12-8-2025 transcript_wf.txt",
-    "HasanAbi 12-9-2025 transcript_wf.txt",
-    "HasanAbi 12-10-2025 transcript_wf.txt",
-    "HasanAbi 12-11-2025 transcript_wf.txt",
-    "HasanAbi 12-12-2025 transcript_wf.txt",
-
-    "HasanAbi 12-13-2025 transcript_wf.txt",
-    "HasanAbi 12-14-2025 transcript_wf.txt",
-    # "HasanAbi 12-15-2025 transcript_wf.txt",
-    "HasanAbi 12-16-2025 transcript_wf.txt",
-    # "HasanAbi 12-17-2025 transcript_wf.txt",
-    "HasanAbi 12-18-2025 transcript_wf.txt",
-    "HasanAbi 12-19-2025 transcript_wf.txt",
-    # "HasanAbi 12-20-2025 transcript_wf.txt",
-    "HasanAbi 12-22-2025 transcript_wf.txt",
-    # "HasanAbi 12-23-2025 transcript_wf.txt",
-    # "HasanAbi 12-24-2025 transcript_wf.txt",
-
-    "HasanAbi 12-25-2025 transcript_wf.txt",
-    "HasanAbi 12-26-2025 transcript_wf.txt",
-    "HasanAbi 12-27-2025 transcript_wf.txt",
-    "HasanAbi 12-28-2025 transcript_wf.txt",
-    "HasanAbi 12-29-2025 transcript_wf.txt",
-    # "HasanAbi 12-30-2025 transcript_wf.txt",
-    "HasanAbi 12-31-2025 transcript_wf.txt",
-    "HasanAbi 1-1-2026 transcript_wf.txt",
-    "HasanAbi 1-2-2026 transcript_wf.txt",
-
-    # "HasanAbi 1-3-2026 transcript_wf.txt",
-    "HasanAbi 1-5-2026 transcript_wf.txt",
-    "HasanAbi 1-6-2026 transcript_wf.txt",
-    "HasanAbi 1-7-2026 transcript_wf.txt",
-    "HasanAbi 1-8-2026 transcript_wf.txt",
-    "HasanAbi 1-9-2026 transcript_wf.txt",
-    "HasanAbi 1-12-2026 transcript_wf.txt",
-    # "HasanAbi 1-13-2026 transcript_wf.txt",
-    # "HasanAbi 1-14-2026 transcript_wf.txt",
-    "HasanAbi 1-15-2026 transcript_wf.txt",
-
-    "HasanAbi 1-16-2026 transcript_wf.txt",
-    "HasanAbi 1-17-2026 transcript_wf.txt",
-    "HasanAbi 1-18-2026 transcript_wf.txt",
-    "HasanAbi 1-19-2026 transcript_wf.txt",
-    "HasanAbi 1-20-2026 transcript_wf.txt",
-    "HasanAbi 1-21-2026 transcript_wf.txt",
-    "HasanAbi 1-22-2026 transcript_wf.txt",
-    "HasanAbi 1-25-2026 transcript_wf.txt",
-    "HasanAbi 1-26-2026 transcript_wf.txt",
-    "HasanAbi 1-27-2026 transcript_wf.txt",
-]
-
 # Speaker summaries
 for ts in transcript_names:
     input_path = TRANSCRIPTS_DIR / ts
@@ -293,7 +223,7 @@ for ts in transcriptsC:
 
 merged_inputs = [
     WORDFREQ_DIR / f"{Path(ts).stem}_wf.txt"
-    for ts in transcriptsA
+    for ts in transcript_names
 ]
 
 merged_path = merge_word_frequency_txt_files(
