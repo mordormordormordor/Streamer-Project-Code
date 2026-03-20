@@ -104,3 +104,79 @@ def jensen_shannon_distance_from_files(
     counts_a = load_counts_from_wf_txt(file_a)
     counts_b = load_counts_from_wf_txt(file_b)
     return jensen_shannon_distance(counts_a, counts_b, alpha=alpha)
+
+
+# Computes log-odds ratios with an optional prior, identifies words that are significantly 
+# overrepresented or underrepresented in one corpus compared to another.
+def log_odds_with_prior(
+    counts_a: Counter,
+    counts_b: Counter,
+    prior: Counter | None = None,
+    top_n: int = 30,
+) -> Tuple[pd.DataFrame, pd.DataFrame]:
+
+    # If a prior is provided, it is added to the counts of both corpora.
+    prior = prior or Counter()
+    # The vocabulary is the set of all unique words that appear in either corpus or the prior.
+    vocab = set(counts_a) | set(counts_b) | set(prior)
+
+    # Total number of tokens in each corpus, used for normalization in the log-odds calculation.
+    n_a = total_tokens(counts_a)
+    n_b = total_tokens(counts_b)
+    a0 = float(sum(prior.values()))
+
+    # Calculate log-odds ratios and their corresponding z-scores for each word in the vocabulary.
+    rows = []
+    for w in vocab:
+        # Add the prior count to each word's count in both corpora.
+        a_w = counts_a.get(w, 0) + prior.get(w, 0)
+        b_w = counts_b.get(w, 0) + prior.get(w, 0)
+
+        # Compute complement counts.
+        a_not = (n_a + a0) - a_w
+        b_not = (n_b + a0) - b_w
+
+        # Skip words that have zero counts in either corpus after adding the prior.
+        if a_w <= 0 or b_w <= 0 or a_not <= 0 or b_not <= 0:
+            continue
+
+        # log-odds ratio calculation
+        log_odds = math.log(a_w / a_not) - math.log(b_w / b_not)
+        var = (1 / a_w) + (1 / b_w) + (1 / a_not) + (1 / b_not)
+        
+        # z-score gives a standardized measure of how extreme the log-odds ratio is, 
+        # accounting for the variability in the counts.
+        z = log_odds / math.sqrt(var)
+
+        rows.append((w, log_odds, z))
+
+    df = pd.DataFrame(rows, columns=["word", "log_odds", "z"])
+
+    if df.empty:
+        empty = pd.DataFrame(columns=["word", "log_odds", "z"])
+        return empty, empty
+
+    # Sort the DataFrame by z-score to identify the most significantly overrepresented and underrepresented words.
+    df_over = df.sort_values("z", ascending=False).head(top_n).reset_index(drop=True)
+    df_under = df.sort_values("z", ascending=True).head(top_n).reset_index(drop=True)
+    return df_over, df_under
+
+
+# Wrapper function to compute log-odds ratios directly from file paths, loads the counts and then computes the ratios.
+def log_odds_with_prior_from_files(
+    file_a: str | Path,
+    file_b: str | Path,
+    prior_file: str | Path | None = None,
+    top_n: int = 30,
+) -> Tuple[pd.DataFrame, pd.DataFrame]:
+
+    counts_a = load_counts_from_wf_txt(file_a)
+    counts_b = load_counts_from_wf_txt(file_b)
+    prior = load_counts_from_wf_txt(prior_file) if prior_file is not None else Counter()
+
+    return log_odds_with_prior(
+        counts_a=counts_a,
+        counts_b=counts_b,
+        prior=prior,
+        top_n=top_n,
+    )

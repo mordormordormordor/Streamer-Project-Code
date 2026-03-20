@@ -4,6 +4,7 @@ print(sys.executable)
 
 from scripts.lexical_metrics import (
     jensen_shannon_distance_from_files,
+    log_odds_with_prior_from_files,
 )
 
 from scripts.transcript_wordfreq import (
@@ -12,9 +13,6 @@ from scripts.transcript_wordfreq import (
 
 from scripts.transcript_summary import (
     TRANSCRIPTS_NAMES,
-    TRANSCRIPTS_A,
-    TRANSCRIPTS_B,
-    TRANSCRIPTS_C,
 )
 
 PROJECT_ROOT = Path(__file__).resolve().parents[0]
@@ -60,3 +58,17 @@ for i, wf_path in enumerate(merged_inputs):
     print(f"JSD: Merged-1 vs {file_id}:    {round(jsd_subtlex, 4)}\n")
     count += 1
 print(f"Total comparisons: {count}")
+
+
+over_subtlex, under_subtlex = log_odds_with_prior_from_files(
+    merge_file,
+    subtlex_file,
+    prior_file=subtlex_file, # define the prior as the reference corpus itself.
+    top_n=30,
+)
+
+print("Overrepresented: Merged vs SUBTLEX")
+print(over_subtlex.head(30))
+
+print("\nUnderrepresented: Merged vs SUBTLEX")
+print(under_subtlex.head(30))
