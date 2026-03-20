@@ -1,4 +1,5 @@
 from pathlib import Path
+import pandas as pd
 import sys
 print(sys.executable)
 
@@ -39,6 +40,7 @@ print("JSD: Merged vs OpenSubtitles:", jsd_opensub)
 # This way we can compare each individual transcript's word frequency distribution to the merged distribution 
 # of all the other transcripts, to see how similar each one is to the overall "average" distribution.
 count=0
+jsd_rows = []
 for i, wf_path in enumerate(merged_inputs):
     # Create a list of all files except the current one
     other_files = merged_inputs[:i] + merged_inputs[i+1:]
@@ -54,10 +56,19 @@ for i, wf_path in enumerate(merged_inputs):
         strict=True,
     )
 
-    jsd_subtlex = jensen_shannon_distance_from_files(merged_path, wf_path)
-    print(f"JSD: Merged-1 vs {file_id}:    {round(jsd_subtlex, 4)}\n")
+    jsd_val = jensen_shannon_distance_from_files(merged_path, wf_path)
+    jsd_rows.append({
+        "comparison": f"Merged-1 vs {file_id}",
+        "jsd_val": jsd_val,
+    })
     count += 1
-print(f"Total comparisons: {count}")
+
+jsd_df = pd.DataFrame(jsd_rows)
+jsd_df = jsd_df.sort_values("jsd_val", ascending=False).reset_index(drop=True)
+
+print("JSD: Merged-1 vs each individual transcript:")
+print(jsd_df.head(count))
+print(f"Total comparisons: {count}\n")
 
 
 over_subtlex, under_subtlex = log_odds_with_prior_from_files(

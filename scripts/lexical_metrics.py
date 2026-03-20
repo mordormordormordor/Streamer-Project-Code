@@ -108,6 +108,7 @@ def jensen_shannon_distance_from_files(
 
 # Computes log-odds ratios with an optional prior, identifies words that are significantly 
 # overrepresented or underrepresented in one corpus compared to another.
+#  DataFrame columns: word, count_txt, count_ref, log_odds, z
 def log_odds_with_prior(
     counts_a: Counter,
     counts_b: Counter,
@@ -148,12 +149,12 @@ def log_odds_with_prior(
         # accounting for the variability in the counts.
         z = log_odds / math.sqrt(var)
 
-        rows.append((w, log_odds, z))
+        rows.append((w, counts_a.get(w, 0), counts_b.get(w, 0), log_odds, z))
 
-    df = pd.DataFrame(rows, columns=["word", "log_odds", "z"])
+    df = pd.DataFrame(rows, columns=["word", "transcript_count", "reference_count", "log_odds", "z"])
 
     if df.empty:
-        empty = pd.DataFrame(columns=["word", "log_odds", "z"])
+        empty = pd.DataFrame(columns=["word", "transcript_count", "reference_count", "log_odds", "z"])
         return empty, empty
 
     # Sort the DataFrame by z-score to identify the most significantly overrepresented and underrepresented words.
