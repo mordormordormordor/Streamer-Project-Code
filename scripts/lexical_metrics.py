@@ -92,8 +92,24 @@ def jensen_shannon_distance(counts_a: Counter, counts_b: Counter, alpha: float =
         return s
 
     # Compare both distributions to the average distribution M, measures how much P and Q differ from their average.
-    js = math.sqrt(0.5 * kl(P, M) + 0.5 * kl(Q, M))
-    return js
+    jsd = math.sqrt(0.5 * kl(P, M) + 0.5 * kl(Q, M))
+
+
+    # Shared / unique vocab counts
+    shared_words = len(set(counts_a) & set(counts_b))
+    unique_to_a = len(set(counts_a) - set(counts_b))
+    unique_to_b = len(set(counts_b) - set(counts_a))
+    unique_words = len(vocab)
+
+    # Percent shared out of total union vocab
+    pct_shared_words = 100.0 * shared_words / unique_words
+
+    # Percent of each corpus vocab that is shared
+    pct_shared_of_a = 100.0 * shared_words / len(set(counts_a)) if set(counts_a) else 0.0
+    pct_shared_of_b = 100.0 * shared_words / len(set(counts_b)) if set(counts_b) else 0.0
+
+
+    return jsd, unique_words, shared_words, pct_shared_words, unique_to_a, unique_to_b, pct_shared_of_a, pct_shared_of_b, n_a, n_b
 
 # Wrapper function to compute JSD directly from file paths, loads the counts and then computes the distance.
 def jensen_shannon_distance_from_files(
@@ -122,8 +138,7 @@ def log_odds_with_prior(
     vocab = set(counts_a) | set(counts_b) | set(prior)
 
     # Total number of tokens in each corpus, used for normalization in the log-odds calculation.
-    n_a = total_tokens(counts_a)
-    n_b = total_tokens(counts_b)
+    n_a, n_b = total_tokens(counts_a), total_tokens(counts_b)
     a0 = float(sum(prior.values()))
 
     # Calculate log-odds ratios and their corresponding z-scores for each word in the vocabulary.
