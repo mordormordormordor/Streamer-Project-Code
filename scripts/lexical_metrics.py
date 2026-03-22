@@ -96,10 +96,10 @@ def jensen_shannon_distance(counts_a: Counter, counts_b: Counter, alpha: float =
 
 
     # Shared / unique vocab counts
-    shared_words = len(set(counts_a) & set(counts_b))
-    unique_to_a = len(set(counts_a) - set(counts_b))
-    unique_to_b = len(set(counts_b) - set(counts_a))
-    unique_words = len(vocab)
+    shared_words = len(set(counts_a) & set(counts_b))   # in both A and B
+    unique_to_a = len(set(counts_a) - set(counts_b))    # in A but not in B
+    unique_to_b = len(set(counts_b) - set(counts_a))    # in B but not in A
+    unique_words = len(vocab)                           # total unique words across both corpora
 
     # Percent shared out of total union vocab
     pct_shared_words = 100.0 * shared_words / unique_words
