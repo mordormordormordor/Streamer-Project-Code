@@ -9,7 +9,7 @@ def total_tokens(c: Counter) -> int:
     return int(sum(c.values()))
 
 # Load word counts from a .txt file
-def load_counts_from_wf_txt(path: str | Path) -> Counter:
+def load_counts_from_wf_txt(path: str | Path, lowercase: bool = False) -> Counter:
     path = Path(path)
     if not path.exists():
         raise FileNotFoundError(f"File not found: {path}")
@@ -47,12 +47,15 @@ def load_counts_from_wf_txt(path: str | Path) -> Counter:
             if not word:
                 continue
 
+            # Optionally convert the word to lowercase for case-insensitive counting
+            if lowercase:
+                word = word.lower()
+
             # Try to convert the count to an integer, skip if it's not a valid number
             try:
                 counts[word] = int(count_str)
             except ValueError:
                 continue
-
     return counts
 
 
@@ -116,8 +119,9 @@ def jensen_shannon_distance_from_files(
     file_a: str | Path,
     file_b: str | Path,
     alpha: float = 1e-9,
+    lowercase: bool = False,
 ) -> float:
-    counts_a = load_counts_from_wf_txt(file_a)
+    counts_a = load_counts_from_wf_txt(file_a, lowercase=lowercase)
     counts_b = load_counts_from_wf_txt(file_b)
     return jensen_shannon_distance(counts_a, counts_b, alpha=alpha)
 
@@ -184,11 +188,12 @@ def log_odds_with_prior_from_files(
     file_b: str | Path,
     prior_file: str | Path | None = None,
     top_n: int = 30,
+    lowercase: bool = False,
 ) -> Tuple[pd.DataFrame, pd.DataFrame]:
 
-    counts_a = load_counts_from_wf_txt(file_a)
-    counts_b = load_counts_from_wf_txt(file_b)
-    prior = load_counts_from_wf_txt(prior_file) if prior_file is not None else Counter()
+    counts_a = load_counts_from_wf_txt(file_a, lowercase=lowercase)
+    counts_b = load_counts_from_wf_txt(file_b, lowercase=lowercase)
+    prior = load_counts_from_wf_txt(prior_file, lowercase=lowercase) if prior_file is not None else Counter()
 
     return log_odds_with_prior(
         counts_a=counts_a,
