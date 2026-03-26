@@ -113,7 +113,7 @@ if run_jsd_calculation:
 
             row = {
                 "ref_file": ref_name,
-                "transcript": wf_path.stem,
+                "transcript": wf_path.stem[9:19],
                 "jsd_val": round(jsd_val, 4),
                 "shared_words": shared_words,
                 "pct_shared_words": round(pct_shared_words, 3),
@@ -142,7 +142,7 @@ if run_jsd_calculation:
                 })
 
             row_list.append(row)
-            count += 1
+        count += 1
 else:
     print("Skipping JSD calculations.")
 
@@ -169,23 +169,23 @@ print(DATA_DIR / "results" / "jsd_merged.csv")
 print(DATA_DIR / "results" / "jsd_subtlex.csv")
 print(DATA_DIR / "results" / "jsd_opensub.csv")
 
-jsd_df.to_html(DATA_DIR / "results" / "jsd_merged.html", index=False)
-subtlex_df.to_html(DATA_DIR / "results" / "jsd_subtlex.html", index=False)
-opensub_df.to_html(DATA_DIR / "results" / "jsd_opensub.html", index=False)
-print(DATA_DIR / "results" / "jsd_merged.html")
-print(DATA_DIR / "results" / "jsd_subtlex.html")
-print(DATA_DIR / "results" / "jsd_opensub.html")
+# jsd_df.to_html(DATA_DIR / "results" / "jsd_merged.html", index=False)
+# subtlex_df.to_html(DATA_DIR / "results" / "jsd_subtlex.html", index=False)
+# opensub_df.to_html(DATA_DIR / "results" / "jsd_opensub.html", index=False)
+# print(DATA_DIR / "results" / "jsd_merged.html")
+# print(DATA_DIR / "results" / "jsd_subtlex.html")
+# print(DATA_DIR / "results" / "jsd_opensub.html")
 
 if print_jsd_values:
     jsd_val, unique_words, shared_words, pct_shared_words, unique_to_a, unique_to_b, pct_shared_of_a, pct_shared_of_b, n_a, n_b = jensen_shannon_distance(merge_file_counts, subtlex_counts)
     print("\nMerged vs SUBTLEX:")
     print("JSD:", round(jsd_val, 4))
     print("Union vocab size:", unique_words)
-    print("Percent shared (union):", round(pct_shared_words, 3))
+    print("Percent shared (union):", round(pct_shared_words, 3), "%")
     print("Unique to Merged:", unique_to_a)
     print("Unique to SUBTLEX:", unique_to_b)
-    print("Percent of Merged vocab shared:", round(pct_shared_of_a, 3))
-    print("Percent of SUBTLEX vocab shared:", round(pct_shared_of_b, 3))
+    print("Percent of Merged vocab shared:", round(pct_shared_of_a, 3), "%")
+    print("Percent of SUBTLEX vocab shared:", round(pct_shared_of_b, 3), "%")
     print("Total tokens A:", n_a)
     print("Total tokens B:", n_b)
 
@@ -193,21 +193,31 @@ if print_jsd_values:
     print("\nMerged vs OpenSubtitles:")
     print("JSD:", round(jsd_val, 4))
     print("Union vocab size:", unique_words)
-    print("Percent shared (union):", round(pct_shared_words, 3))
+    print("Percent shared (union):", round(pct_shared_words, 3), "%")
     print("Unique to Merged:", unique_to_a)
     print("Unique to OpenSubtitles:", unique_to_b)
-    print("Percent of Merged vocab shared:", round(pct_shared_of_a, 3))
-    print("Percent of OpenSubtitles vocab shared:", round(pct_shared_of_b, 3))
+    print("Percent of Merged vocab shared:", round(pct_shared_of_a, 3), "%")
+    print("Percent of OpenSubtitles vocab shared:", round(pct_shared_of_b, 3), "%")
     print("Total tokens A:", n_a)
     print("Total tokens B:", n_b, "\n")
 
-    print(f"\nJSD: Merged-1 vs each individual, transcript, unique/shared vocab stats: {jsd_df['unique_to_merged'].iloc[0]}, Total comparisons: {count}:")
-    print(jsd_df.head(count))
-    print(f"\nJSD: SUBTLEX vs each individual transcript, unique/shared vocab stats: {subtlex_df['unique_to_subtlex'].iloc[0]}, Total comparisons: {count}:")
-    print(subtlex_df.head(count))
-    print(f"\nJSD: OpenSubtitles vs each individual transcript, unique/shared vocab stats: {opensub_df['unique_to_opensub'].iloc[0]}, Total comparisons: {count}:")
-    print(opensub_df.head(count))
+    print(f"\nJSD: Merged-1 vs each individual transcript. Total comparisons: {count}")
+    print(f"JSD: {jsd_df['jsd_val'].min()} - {jsd_df['jsd_val'].max()}")
+    print(f"% Shared of Transcript: {jsd_df['pct_shared_of_transcript'].min()}% - {jsd_df['pct_shared_of_transcript'].max()}%")
+    print(f"% Shared of Merged-1: {jsd_df['pct_shared_of_merged'].min()}% - {jsd_df['pct_shared_of_merged'].max()}%\n")
+    print(jsd_df[['transcript', 'jsd_val', 'shared_words', 'unique_to_transcript', 'pct_shared_words', 'pct_shared_of_transcript', 'pct_shared_of_merged']])
 
+    print(f"\nJSD: SUBTLEX vs each individual transcript. Total comparisons: {count}")
+    print(f"JSD: {subtlex_df['jsd_val'].min()} - {subtlex_df['jsd_val'].max()}")
+    print(f"% Shared of Transcript: {subtlex_df['pct_shared_of_transcript'].min()}% - {subtlex_df['pct_shared_of_transcript'].max()}%")
+    print(f"% Shared of SUBTLEX: {subtlex_df['pct_shared_of_subtlex'].min()}% - {subtlex_df['pct_shared_of_subtlex'].max()}%\n")
+    print(subtlex_df[['transcript', 'jsd_val', 'shared_words', 'unique_to_transcript', 'pct_shared_words', 'pct_shared_of_transcript', 'pct_shared_of_subtlex']])
+
+    print(f"\nJSD: OpenSubtitles vs each individual transcript. Total comparisons: {count}:")
+    print(f"JSD: {opensub_df['jsd_val'].min()} - {opensub_df['jsd_val'].max()}")
+    print(f"% Shared of Transcript: {opensub_df['pct_shared_of_transcript'].min()}% - {opensub_df['pct_shared_of_transcript'].max()}%")
+    print(f"% Shared of OpenSubtitles: {opensub_df['pct_shared_of_opensub'].min()}% - {opensub_df['pct_shared_of_opensub'].max()}%\n")
+    print(opensub_df[['transcript', 'jsd_val', 'shared_words', 'unique_to_transcript', 'pct_shared_words', 'pct_shared_of_transcript', 'pct_shared_of_opensub']])
 
 # ------- Log-Odds Ratios with Prior -------
 over_subtlex, under_subtlex = log_odds_with_prior_from_files(
@@ -216,12 +226,6 @@ over_subtlex, under_subtlex = log_odds_with_prior_from_files(
     prior_file=subtlex_file, # define the prior as the reference corpus itself.
     top_n=30,
 )
-
-print("Overrepresented: Merged vs SUBTLEX")
-print(over_subtlex.head(30))
-
-print("\nUnderrepresented: Merged vs SUBTLEX")
-print(under_subtlex.head(30))
 
 # Top 3:
 # Merge HasanAbi 12-03-2025 transcript_wf	0.2839
@@ -302,7 +306,7 @@ for wf_path, merged_path in top_3_list:
     else:
         lowercase = False
     # log-odds for the top 5 transcript with the highest JSD values
-    over_subtlex, under_subtlex = log_odds_with_prior_from_files(
+    over_df, under_df = log_odds_with_prior_from_files(
         wf_path,
         merged_path,
         prior_file=merged_path, # define the prior as the reference corpus itself.
@@ -311,7 +315,7 @@ for wf_path, merged_path in top_3_list:
     )
 
     print(f"\nOverrepresented: {wf_path[23:33]} vs {label_list[count]}")
-    print(over_subtlex.head(30))
+    print(over_df.head(30))
     count += 1
 
 count = 0
@@ -322,7 +326,7 @@ for wf_path, merged_path in bottom_3_list:
     else:
         lowercase = False
     # log-odds for the top 5 transcript with the highest JSD values
-    over_subtlex, under_subtlex = log_odds_with_prior_from_files(
+    over_df, under_df = log_odds_with_prior_from_files(
         wf_path,
         merged_path,
         prior_file=merged_path, # define the prior as the reference corpus itself.
@@ -330,5 +334,5 @@ for wf_path, merged_path in bottom_3_list:
         lowercase=lowercase,
     )
     print(f"\nOverrepresented: {wf_path[23:33]} vs {label_list[count]}")
-    print(over_subtlex.head(30))
+    print(over_df.head(30))
     count += 1

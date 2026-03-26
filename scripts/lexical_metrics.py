@@ -64,7 +64,7 @@ def load_counts_from_wf_txt(path: str | Path, lowercase: bool = False) -> Counte
 def jensen_shannon_distance(counts_a: Counter, counts_b: Counter, alpha: float = 1e-9) -> float:
     # Creates the union of all words appearing in either corpus, ensures both corpora are 
     # compared over the same vocabulary space.
-    vocab = set(counts_a) | set(counts_b)
+    vocab = set(counts_a) | set(counts_b) # the union of both corpora’s vocabulary
     n_a, n_b = total_tokens(counts_a), total_tokens(counts_b)
 
     if n_a == 0 or n_b == 0 or len(vocab) == 0:

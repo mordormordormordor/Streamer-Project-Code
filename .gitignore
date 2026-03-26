@@ -1,4 +1,5 @@
 data/merged/merged_file.txt
+create_transcripts.py
 data/one_grams/HasanAbi 1-1-2026 transcript__1gram.txt
 data/one_grams/HasanAbi 1-2-2026 transcript__1gram.txt
 data/one_grams/HasanAbi 1-5-2026 transcript__1gram.txt
