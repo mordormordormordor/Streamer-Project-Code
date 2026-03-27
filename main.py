@@ -1,7 +1,13 @@
 from pathlib import Path
 import pandas as pd
 import sys
-print(sys.executable)
+
+from typing import Dict, Union
+import matplotlib.axis as maxis
+import matplotlib.pyplot as plt
+import collections
+import collections.abc
+import shifterator as sh
 
 from scripts.lexical_metrics import (
     jensen_shannon_distance,
@@ -18,11 +24,16 @@ from scripts.transcript_summary import (
     TRANSCRIPTS_NAMES,
 )
 
+from scripts.wordshift import (
+    unique_counts_file_to_dict,
+)
+
 PROJECT_ROOT = Path(__file__).resolve().parents[0]
 DATA_DIR = PROJECT_ROOT / "data"
 WORDFREQ_DIR = DATA_DIR / "wordfreq"
 MERGED_DIR = DATA_DIR / "merged"
-
+RESULTS_DIR = DATA_DIR / "results"
+RESULTS_DIR.mkdir(parents=True, exist_ok=True)
 
 wordfreq_file_paths = [
     WORDFREQ_DIR / f"{Path(ts).stem}_wf.txt"
@@ -44,6 +55,7 @@ opensub_file = DATA_DIR / "ref_corpora" / "opensubtitles2018_wf.txt"
 run_merge_file_creation = False # Set to True to create the merged files
 run_jsd_calculation = True # Set to True to run the JSD calculations
 print_jsd_values = True # Set to True to print the JSD values
+run_create_shift_graphs = True # Set to True to create the JSD shift graphs
 
 # Merge all the word frequency .txt files into separate merged files, each excluding one of the original files
 # This way we can compare each individual transcript's word frequency distribution to the merged distribution 
@@ -148,32 +160,25 @@ else:
 
 jsd_df = pd.DataFrame(jsd_rows)
 jsd_df = jsd_df.sort_values("jsd_val", ascending=False).reset_index(drop=True)
-jsd_df.to_html("jsd_merged.html", index=False)
-jsd_df.to_html("jsd_merged.html", index=False)
+jsd_df.to_csv(DATA_DIR / "results" / "jsd_merged.csv", index=False)
+# jsd_df.to_html(DATA_DIR / "results" / "jsd_merged.html", index=False)
 
 subtlex_df = pd.DataFrame(subtlex_rows)
 subtlex_df = subtlex_df.sort_values("jsd_val", ascending=False).reset_index(drop=True)
-subtlex_df.to_html("jsd_subtlex.html", index=False)
-subtlex_df.to_html("jsd_subtlex.html", index=False)
+subtlex_df.to_csv(DATA_DIR / "results" / "jsd_subtlex.csv", index=False)
+# subtlex_df.to_html(DATA_DIR / "results" / "jsd_subtlex.html", index=False)
 
 opensub_df = pd.DataFrame(opensub_rows)
 opensub_df = opensub_df.sort_values("jsd_val", ascending=False).reset_index(drop=True)
-opensub_df.to_html("jsd_opensub.html", index=False)
-opensub_df.to_html("jsd_opensub.html", index=False)
+opensub_df.to_csv(DATA_DIR / "results" / "jsd_opensub.csv", index=False)
+# opensub_df.to_html(DATA_DIR / "results" / "jsd_opensub.html", index=False)
 
 print("Saved:")
-jsd_df.to_csv(DATA_DIR / "results" / "jsd_merged.csv", index=False)
-subtlex_df.to_csv(DATA_DIR / "results" / "jsd_subtlex.csv", index=False)
-opensub_df.to_csv(DATA_DIR / "results" / "jsd_opensub.csv", index=False)
 print(DATA_DIR / "results" / "jsd_merged.csv")
-print(DATA_DIR / "results" / "jsd_subtlex.csv")
-print(DATA_DIR / "results" / "jsd_opensub.csv")
-
-# jsd_df.to_html(DATA_DIR / "results" / "jsd_merged.html", index=False)
-# subtlex_df.to_html(DATA_DIR / "results" / "jsd_subtlex.html", index=False)
-# opensub_df.to_html(DATA_DIR / "results" / "jsd_opensub.html", index=False)
 # print(DATA_DIR / "results" / "jsd_merged.html")
+print(DATA_DIR / "results" / "jsd_subtlex.csv")
 # print(DATA_DIR / "results" / "jsd_subtlex.html")
+print(DATA_DIR / "results" / "jsd_opensub.csv")
 # print(DATA_DIR / "results" / "jsd_opensub.html")
 
 if print_jsd_values:
@@ -218,6 +223,55 @@ if print_jsd_values:
     print(f"% Shared of Transcript: {opensub_df['pct_shared_of_transcript'].min()}% - {opensub_df['pct_shared_of_transcript'].max()}%")
     print(f"% Shared of OpenSubtitles: {opensub_df['pct_shared_of_opensub'].min()}% - {opensub_df['pct_shared_of_opensub'].max()}%\n")
     print(opensub_df[['transcript', 'jsd_val', 'shared_words', 'unique_to_transcript', 'pct_shared_words', 'pct_shared_of_transcript', 'pct_shared_of_opensub']])
+
+# ------- JSD Shift Graphs -------
+if not hasattr(maxis.Tick, "label"):
+    maxis.Tick.label = property(lambda self: self.label1)
+
+if not hasattr(collections, "Mapping"):
+    collections.Mapping = collections.abc.Mapping
+
+if run_create_shift_graphs:
+    for wf_path in wordfreq_file_paths:
+        merged_file_dict = unique_counts_file_to_dict(merged_path)
+        wf_path_dict = unique_counts_file_to_dict(wf_path)
+        file_id = wf_path.stem[9:19]
+        merged_path = MERGED_DIR / f"merged_file_{file_id}.txt"
+        
+        jsd_shift = sh.JSDivergenceShift(
+            type2freq_1=merged_file_dict,
+            type2freq_2=wf_path_dict,
+            base=2,
+            weight_1=0.5,
+            weight_2=0.5,
+            alpha=0.8,
+        )
+
+        output_path = RESULTS_DIR / f"jsd_shift_{file_id}.png"
+        
+        jsd_plot = jsd_shift.get_shift_graph(
+            system_names=["merged", file_id],
+            title=f"JSD Shift of HasanAbi Transcripts\nmerged vs {file_id}",
+            top_n=50,
+            preserved_placement=True,
+            cumulative_inset=True,
+            text_size_inset=True,
+            width=14,
+            height=10,
+            xlabel="Contribution to JSD",
+            ylabel="Words",
+            title_fontsize=16,
+            xlabel_fontsize=12,
+            ylabel_fontsize=12,
+            show_total=True,
+            detailed=True,
+            serif=True,
+            tight=True,
+            show_plot=False,
+            dpi=300,
+            filename=str(output_path),
+        )
+        plt.close("all")
 
 # ------- Log-Odds Ratios with Prior -------
 over_subtlex, under_subtlex = log_odds_with_prior_from_files(
@@ -295,7 +349,6 @@ bottom_3_list = [
     ["data/wordfreq/HasanAbi 01-08-2026 transcript_wf.txt","data/ref_corpora/subtlex_us_wf.txt"],
     ["data/wordfreq/HasanAbi 12-27-2025 transcript_wf.txt","data/ref_corpora/subtlex_us_wf.txt"],
 ]
-
 
 label_list = ["Merged-1", "Merged-1", "Merged-1", "OpenSubtitles", "OpenSubtitles", "OpenSubtitles", "SUBTLEX", "SUBTLEX", "SUBTLEX"]
 count = 0

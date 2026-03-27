@@ -5,7 +5,8 @@ import collections
 import collections.abc
 import shifterator as sh
 
-
+# Install latest version of shifterator from GitHub to ensure compatibility with Python 3.12 
+# pip install git+https://github.com/ryanjgallagher/shifterator.git
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
 
 if not hasattr(maxis.Tick, "label"):
@@ -54,7 +55,25 @@ hasan_file_path = PROJECT_ROOT / "data" / "wordfreq" / "HasanAbi 01-09-2026 tran
 merged_file_dict = unique_counts_file_to_dict(merged_file_path)
 HasanAbi_01_09_2026_dict = unique_counts_file_to_dict(hasan_file_path)
 
-jsd_shift = sh.JSDivergenceShift(
+
+"""jsd_plot = jsd_shift.get_shift_graph(
+    system_names=['merged', '01-09-2026'],
+    title='JSD Shift of HasanAbi Transcripts\nmerged vs 01-09-2026',
+    cumulative_inset=True,
+    text_size_inset=True,
+    show_plot=True
+)"""
+
+"""jsd_shift_1 = sh.JSDivergenceShift(
+    type2freq_1=HasanAbi_01_09_2026_dict,
+    type2freq_2=merged_file_dict,
+    base=2,
+    weight_1=0.5,
+    weight_2=0.5,
+    alpha=1
+)
+
+jsd_shift_2 = sh.JSDivergenceShift(
     type2freq_1=merged_file_dict,
     type2freq_2=HasanAbi_01_09_2026_dict,
     base=2,
@@ -63,10 +82,48 @@ jsd_shift = sh.JSDivergenceShift(
     alpha=1
 )
 
-jsd_shift.get_shift_graph(
-    system_names=['merged', '01-09-2026'],
-    title='JSD Shift of HasanAbi Transcripts\nmerged vs 01-09-2026',
+jsd_plot_1 = jsd_shift_1.get_shift_graph(
+    system_names=["merged", "01-09-2026"],
+    title="detailed=True and preserved_placement=True",
+    top_n=50,
+    preserved_placement=True,
     cumulative_inset=True,
     text_size_inset=True,
-    show_plot=True
+    width=14,
+    height=10,
+    xlabel="Contribution to JSD",
+    ylabel="Words",
+    title_fontsize=16,
+    xlabel_fontsize=12,
+    ylabel_fontsize=12,
+    show_total=True,
+    detailed=True,
+    serif=True,
+    tight=True,
+    show_plot=True,
+    dpi=300,
+    filename="jsd_shift_1.png",
 )
+
+jsd_plot_2 = jsd_shift_2.get_shift_graph(
+    system_names=["merged", "01-09-2026"],
+    title="detailed=True with preserved_placement=True",
+    top_n=50,
+    preserved_placement=True,
+    cumulative_inset=True,
+    text_size_inset=True,
+    width=14,
+    height=10,
+    xlabel="Contribution to JSD",
+    ylabel="Words",
+    title_fontsize=16,
+    xlabel_fontsize=12,
+    ylabel_fontsize=12,
+    show_total=True,
+    detailed=True,
+    serif=True,
+    tight=True,
+    show_plot=True,
+    dpi=300,
+    filename="jsd_shift_2.png",
+)"""
