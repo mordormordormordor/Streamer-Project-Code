@@ -7,6 +7,7 @@ import shifterator as sh
 
 # Install latest version of shifterator from GitHub to ensure compatibility with Python 3.12 
 # pip install git+https://github.com/ryanjgallagher/shifterator.git
+
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
 
 if not hasattr(maxis.Tick, "label"):
