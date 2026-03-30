@@ -67,7 +67,7 @@ print_jsd_values = False # Set to True to print the JSD values
 
 run_create_shift_graphs = True # Set to True to create the JSD shift graphs
 
-print_log_odds_values = True # Set to True to print the log-odds ratio values
+print_log_odds_values = False # Set to True to print the log-odds ratio values
 
 
 
@@ -107,6 +107,7 @@ else:
 # ------- Jansen-Shannon Distance -------
 
 if run_jsd_calculation:
+
     subtlex_counts = load_counts_from_wf_txt(subtlex_file)
     opensub_counts = load_counts_from_wf_txt(opensub_file)
     merge_file_counts = load_counts_from_wf_txt(merge_file)
@@ -114,6 +115,7 @@ if run_jsd_calculation:
     subtlex_rows = []
     opensub_rows = []
     count=0
+
     print("Calculating JSD values for each transcript against Merged-1, SUBTLEX, and OpenSubtitles...")
     for wf_path in wordfreq_file_paths:
         file_id = wf_path.stem[9:19]
@@ -218,7 +220,7 @@ else:
 
 # ------- print the JSD values and related statistics for each comparison -------
 if run_jsd_calculation and not print_jsd_values:
-    print("Run JSD calculations with print_jsd_values=True to see the JSD values and related statistics.")
+    print("Run JSD calculations to see the JSD statistics.")
 elif print_jsd_values:
     jsd_val, unique_words, shared_words, pct_shared_words, unique_to_a, unique_to_b, pct_shared_of_a, pct_shared_of_b, n_a, n_b = jensen_shannon_distance(merge_file_counts, subtlex_counts)
     print("\nJSD: Merged vs SUBTLEX:")
@@ -244,7 +246,7 @@ elif print_jsd_values:
     print(f"% Shared of SUBTLEX: {subtlex_df['pct_shared_of_subtlex'].min()}% - {subtlex_df['pct_shared_of_subtlex'].max()}%\n")
     print(subtlex_df[['transcript', 'jsd_val', 'shared_words', 'unique_to_transcript', 'pct_shared_words', 'pct_shared_of_transcript', 'pct_shared_of_subtlex']])
 else:
-    print("Skipping printing JSD values.")
+    print("Skipping printing JSD statistics.")
 
 
 
@@ -260,41 +262,51 @@ if not hasattr(collections, "Mapping"):
 
 if run_create_shift_graphs:
 
+    shift_params = {
+        "base": 2,
+        "weight_1": 0.5,
+        "weight_2": 0.5,
+        "alpha": 0.8,
+    }
+
+    graph_params = {
+        "top_n": 50,
+        "preserved_placement": True,
+        "cumulative_inset": True,
+        "text_size_inset": True,
+        "width": 14,
+        "height": 10,
+        "xlabel": "Contribution to JSD",
+        "ylabel": "Words",
+        "title_fontsize": 16,
+        "xlabel_fontsize": 12,
+        "ylabel_fontsize": 12,
+        "show_total": True,
+        "detailed": True,
+        "serif": True,
+        "tight": True,
+        "show_plot": False,
+        "dpi": 300,
+    }
+
+    # Load the word frequency counts
     merge_file_dict = unique_counts_file_to_dict(merge_file)
     subtlex_file_dict = unique_counts_file_to_dict(subtlex_file)
 
+    # Remove punctuation tokens from both dictionaries to focus the shift graphs on content words
     merge_file_dict = remove_punctuation_tokens(merge_file_dict)
     subtlex_file_dict = remove_punctuation_tokens(subtlex_file_dict)
 
     jsd_shift = sh.JSDivergenceShift(
-            type2freq_1=merge_file_dict,
-            type2freq_2=subtlex_file_dict,
-            base=2,
-            weight_1=0.5,
-            weight_2=0.5,
-            alpha=0.8,
+        type2freq_1=subtlex_file_dict,
+        type2freq_2=merge_file_dict,
+        **shift_params,
     )
     output_path = RESULTS_DIR / f"jsd_shift_merged_vs_subtlex.png"
     jsd_plot = jsd_shift.get_shift_graph(
-        system_names=["Merged", "SUBTLEX"],
-        title=f"JSD Shift of HasanAbi Transcripts\nMerged file vs SUBTLEX",
-        top_n=50,
-        preserved_placement=True,
-        cumulative_inset=True,
-        text_size_inset=True,
-        width=14,
-        height=10,
-        xlabel="Contribution to JSD",
-        ylabel="Words",
-        title_fontsize=16,
-        xlabel_fontsize=12,
-        ylabel_fontsize=12,
-        show_total=True,
-        detailed=True,
-        serif=True,
-        tight=True,
-        show_plot=False,
-        dpi=300,
+        system_names=["SUBTLEX", "Merged"],
+        title=f"JSD Shift of HasanAbi Transcripts\nSUBTLEX vs Merged file\nalpha = 0.8",
+        **graph_params,
         filename=str(output_path),
     )
     plt.close("all")
@@ -304,45 +316,24 @@ if run_create_shift_graphs:
         file_id = wf_path.stem[9:19]
         merged_minus_one_path = MERGED_DIR / f"merged_file_{file_id}.txt"
 
-        # Load the word frequency counts
         merged_minus_one_file_dict = unique_counts_file_to_dict(merged_minus_one_path)
         wf_path_dict = unique_counts_file_to_dict(wf_path)
 
-        # Remove punctuation tokens from both dictionaries to focus the shift graphs on content words
         merged_minus_one_file_dict = remove_punctuation_tokens(merged_minus_one_file_dict)
         wf_path_dict = remove_punctuation_tokens(wf_path_dict)
         
         jsd_shift = sh.JSDivergenceShift(
             type2freq_1=merged_minus_one_file_dict,
             type2freq_2=wf_path_dict,
-            base=2,
-            weight_1=0.5,
-            weight_2=0.5,
-            alpha=0.8,
+            **shift_params,
         )
 
         output_path = RESULTS_DIR / f"jsd_shift_{file_id}.png"
         
         jsd_plot = jsd_shift.get_shift_graph(
             system_names=["Merged-1", file_id],
-            title=f"JSD Shift of HasanAbi Transcripts\nMerged-1 vs {file_id}",
-            top_n=50,
-            preserved_placement=True,
-            cumulative_inset=True,
-            text_size_inset=True,
-            width=14,
-            height=10,
-            xlabel="Contribution to JSD",
-            ylabel="Words",
-            title_fontsize=16,
-            xlabel_fontsize=12,
-            ylabel_fontsize=12,
-            show_total=True,
-            detailed=True,
-            serif=True,
-            tight=True,
-            show_plot=False,
-            dpi=300,
+            title=f"JSD Shift of HasanAbi Transcripts\nMerged-1 vs {file_id}\nalpha = 0.8",
+            **graph_params,
             filename=str(output_path),
         )
         plt.close("all")
@@ -357,7 +348,6 @@ if run_create_shift_graphs:
 # ------- Log-Odds Ratios with Prior -------
 
 if print_log_odds_values:
-    
     print("\nLog-odds ratios with prior for Merged vs SUBTLEX:")
     print("\nOverrepresented in Merged vs SUBTLEX:")
     over_subtlex, under_subtlex = log_odds_with_prior_from_files(
@@ -407,4 +397,5 @@ if print_log_odds_values:
         )
         print(f"\nOverrepresented: {wf_path[23:33]} vs Merged-1")
         print(over_df.head(50))
-
+else:
+    print("Skipping Log-Odds calculations.")

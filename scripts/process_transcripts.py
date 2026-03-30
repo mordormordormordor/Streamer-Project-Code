@@ -32,6 +32,7 @@ for d in [
     d.mkdir(parents=True, exist_ok=True)
 
 # Speaker summaries
+count=0
 for ts in TRANSCRIPTS_NAMES:
     input_path = TRANSCRIPTS_DIR / ts
     output_path = SUMMARIES_DIR / f"{input_path.stem}__sum-freq-ts.txt"
@@ -41,9 +42,12 @@ for ts in TRANSCRIPTS_NAMES:
         lowercase=False,
         out_txt_path=output_path,
     )
-    print(f"summary: {result}")
+    count+=1
+    print(f"summary: {ts}")
+print(f"Total Speaker summaries: {count}\n")
 
 # 1-gram files
+count=0
 for ts in TRANSCRIPTS_NAMES:
     input_path = TRANSCRIPTS_DIR / ts
     output_path = GRAMS1_DIR / f"{input_path.stem}__1gram.txt"
@@ -53,9 +57,12 @@ for ts in TRANSCRIPTS_NAMES:
         lowercase=False,
         out_txt_path=output_path,
     )
-    print(f"1gram: {result}")
+    count+=1
+    print(f"1gram: {ts}")
+print(f"Total 1-gram files: {count}\n")
 
 # Speaker A word-frequency files
+count_a=0
 for ts in TRANSCRIPTS_A:
     input_path = TRANSCRIPTS_DIR / ts
     output_path = WORDFREQ_DIR / f"{input_path.stem}_wf.txt"
@@ -66,9 +73,12 @@ for ts in TRANSCRIPTS_A:
         lowercase=False,
         out_txt_path=output_path,
     )
-    print(f"speaker A wf: {out}")
+    count_a+=1
+    print(f"speaker A wf: {ts}")
+print(f"Total Speaker A Transcript: {count_a}\n")
 
 # Speaker B word-frequency files
+count_b=0
 for ts in TRANSCRIPTS_B:
     input_path = TRANSCRIPTS_DIR / ts
     output_path = WORDFREQ_DIR / f"{input_path.stem}_wf.txt"
@@ -79,9 +89,12 @@ for ts in TRANSCRIPTS_B:
         lowercase=False,
         out_txt_path=output_path,
     )
-    print(f"speaker B wf: {out}")
+    count_b+=1
+    print(f"speaker B wf: {ts}")
+print(f"Total Speaker B Transcript: {count_b}\n")
 
 # Speaker C word-frequency files
+count_c=0
 for ts in TRANSCRIPTS_C:
     input_path = TRANSCRIPTS_DIR / ts
     output_path = WORDFREQ_DIR / f"{input_path.stem}_wf.txt"
@@ -92,8 +105,9 @@ for ts in TRANSCRIPTS_C:
         lowercase=False,
         out_txt_path=output_path,
     )
-    print(f"speaker C wf: {out}")
-
+    count_c+=1
+    print(f"speaker C wf: {ts}")
+print(f"Total Speaker C Transcript: {count_c}\n")
 
 merged_inputs = [
     WORDFREQ_DIR / f"{Path(ts).stem}_wf.txt"
@@ -105,3 +119,4 @@ merged_path = merge_word_frequency_txt_files(
     out_txt_path=MERGED_DIR / "merged_file.txt",
     strict=True,
 )
+print(f"Total Merged: {count_a+count_b+count_c}\n")
