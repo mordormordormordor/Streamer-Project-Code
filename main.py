@@ -65,7 +65,7 @@ save_jsd_results = False # Set to True to save the JSD results to CSV files (and
 
 print_jsd_values = False # Set to True to print the JSD values
 
-run_create_shift_graphs = False # Set to True to create the JSD shift graphs
+run_create_shift_graphs = True # Set to True to create the JSD shift graphs
 
 print_log_odds_values = True # Set to True to print the log-odds ratio values
 
@@ -212,7 +212,7 @@ elif save_jsd_results:
         print(path)
 
 else:
-    print("Skipping saving JSD results .")
+    print("Skipping saving JSD results.")
 
 
 
@@ -259,21 +259,61 @@ if not hasattr(collections, "Mapping"):
     collections.Mapping = collections.abc.Mapping
 
 if run_create_shift_graphs:
+
+    merge_file_dict = unique_counts_file_to_dict(merge_file)
+    subtlex_file_dict = unique_counts_file_to_dict(subtlex_file)
+
+    merge_file_dict = remove_punctuation_tokens(merge_file_dict)
+    subtlex_file_dict = remove_punctuation_tokens(subtlex_file_dict)
+
+    jsd_shift = sh.JSDivergenceShift(
+            type2freq_1=merge_file_dict,
+            type2freq_2=subtlex_file_dict,
+            base=2,
+            weight_1=0.5,
+            weight_2=0.5,
+            alpha=0.8,
+    )
+    output_path = RESULTS_DIR / f"jsd_shift_merged_vs_subtlex.png"
+    jsd_plot = jsd_shift.get_shift_graph(
+        system_names=["Merged", "SUBTLEX"],
+        title=f"JSD Shift of HasanAbi Transcripts\nMerged file vs SUBTLEX",
+        top_n=50,
+        preserved_placement=True,
+        cumulative_inset=True,
+        text_size_inset=True,
+        width=14,
+        height=10,
+        xlabel="Contribution to JSD",
+        ylabel="Words",
+        title_fontsize=16,
+        xlabel_fontsize=12,
+        ylabel_fontsize=12,
+        show_total=True,
+        detailed=True,
+        serif=True,
+        tight=True,
+        show_plot=False,
+        dpi=300,
+        filename=str(output_path),
+    )
+    plt.close("all")
+
     for wf_path in wordfreq_file_paths:
 
+        file_id = wf_path.stem[9:19]
+        merged_minus_one_path = MERGED_DIR / f"merged_file_{file_id}.txt"
+
         # Load the word frequency counts
-        merged_file_dict = unique_counts_file_to_dict(merged_path)
+        merged_minus_one_file_dict = unique_counts_file_to_dict(merged_minus_one_path)
         wf_path_dict = unique_counts_file_to_dict(wf_path)
 
         # Remove punctuation tokens from both dictionaries to focus the shift graphs on content words
-        merged_file_dict = remove_punctuation_tokens(merged_file_dict)
+        merged_minus_one_file_dict = remove_punctuation_tokens(merged_minus_one_file_dict)
         wf_path_dict = remove_punctuation_tokens(wf_path_dict)
-
-        file_id = wf_path.stem[9:19]
-        merged_path = MERGED_DIR / f"merged_file_{file_id}.txt"
         
         jsd_shift = sh.JSDivergenceShift(
-            type2freq_1=merged_file_dict,
+            type2freq_1=merged_minus_one_file_dict,
             type2freq_2=wf_path_dict,
             base=2,
             weight_1=0.5,
@@ -284,8 +324,8 @@ if run_create_shift_graphs:
         output_path = RESULTS_DIR / f"jsd_shift_{file_id}.png"
         
         jsd_plot = jsd_shift.get_shift_graph(
-            system_names=["merged", file_id],
-            title=f"JSD Shift of HasanAbi Transcripts\nmerged vs {file_id}",
+            system_names=["Merged-1", file_id],
+            title=f"JSD Shift of HasanAbi Transcripts\nMerged-1 vs {file_id}",
             top_n=50,
             preserved_placement=True,
             cumulative_inset=True,
@@ -306,6 +346,8 @@ if run_create_shift_graphs:
             filename=str(output_path),
         )
         plt.close("all")
+
+    print(f"Created JSD shift graphs for each transcript compared to Merged-1 and saved to {RESULTS_DIR}.")
 
 
 
