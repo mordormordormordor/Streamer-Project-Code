@@ -18,6 +18,7 @@ from scripts.lexical_metrics import (
 
 from scripts.transcript_wordfreq import (
     merge_word_frequency_txt_files,
+    remove_punctuation_tokens,
 )
 
 from scripts.transcript_summary import (
@@ -233,8 +234,15 @@ if not hasattr(collections, "Mapping"):
 
 if run_create_shift_graphs:
     for wf_path in wordfreq_file_paths:
+
+        # Load the word frequency counts
         merged_file_dict = unique_counts_file_to_dict(merged_path)
         wf_path_dict = unique_counts_file_to_dict(wf_path)
+
+        # Remove punctuation tokens from both dictionaries to focus the shift graphs on content words
+        merged_file_dict = remove_punctuation_tokens(merged_file_dict)
+        wf_path_dict = remove_punctuation_tokens(wf_path_dict)
+
         file_id = wf_path.stem[9:19]
         merged_path = MERGED_DIR / f"merged_file_{file_id}.txt"
         

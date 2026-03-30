@@ -4,6 +4,7 @@ import re
 from collections import Counter
 from pathlib import Path
 from typing import Iterable, Optional, Union
+import string
 
 
 SPEAKER_PREFIX = re.compile(r"^\s*(Speaker\s+[^:]+)\s*:\s*(.*)\s*$")
@@ -154,3 +155,14 @@ def merge_word_frequency_txt_files(
             out.write(f"{tok}\t{n}\n")
     print(f"Merged {len(paths)} files with {len(merged)} unique tokens. Output written to: {out_path}")
     return out_path
+
+# Remove entries whose token is entirely punctuation (e.g. "!", "...", ",", "--", "??"), 
+# while keeping tokens that contain any alphanumeric characters (e.g. "don't", "word", "u.s.", "covid-19").
+def remove_punctuation_tokens(counts: dict[str, int]) -> dict[str, int]:
+    punct_set = set(string.punctuation)
+
+    return {
+        token: count
+        for token, count in counts.items()
+        if token and not all(char in punct_set for char in token)
+    }

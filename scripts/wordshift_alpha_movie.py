@@ -7,6 +7,10 @@ import shifterator as sh
 
 from wordshift import unique_counts_file_to_dict, PROJECT_ROOT
 
+from transcript_wordfreq import (
+    remove_punctuation_tokens,
+)
+
 merged_file_path = PROJECT_ROOT / "data" / "merged" / "merged_file_01-09-2026.txt"
 hasan_file_path = PROJECT_ROOT / "data" / "wordfreq" / "HasanAbi 01-09-2026 transcript_wf.txt"
 
@@ -18,10 +22,10 @@ FRAMES_DIR = PROJECT_ROOT / "data" / "results" / "frames_alpha_sweep"
 FRAMES_DIR.mkdir(parents=True, exist_ok=True)
 
 frame_paths = []
-"""
+
 # 101 frames: alpha from 1.0 down to 0.5
-for x in range(1001):
-    alpha_value = 1.0 - (x * 0.0005)
+for x in range(101):
+    alpha_value = 1.0 - (x * 0.005)
 
     jsd_shift = sh.JSDivergenceShift(
         type2freq_1=merged_file_dict,
@@ -59,7 +63,7 @@ for x in range(1001):
     )
 
     plt.close("all")
-"""
+
 # Build video from frames
 video_path = FRAMES_DIR / f"jsd_shift_alpha_sweep_HasanAbi_01_09_2026_2.mp4"
 
