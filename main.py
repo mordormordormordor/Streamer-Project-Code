@@ -51,12 +51,30 @@ subtlex_file = DATA_DIR / "ref_corpora" / "subtlex_us_wf.txt"
 opensub_file = DATA_DIR / "ref_corpora" / "opensubtitles2018_wf.txt"
 
 
-# --- Merge Word Frequency Files ---
+
+
+
+
+# ------- Flags to control which parts of the code to run -------
 
 run_merge_file_creation = False # Set to True to create the merged files
-run_jsd_calculation = True # Set to True to run the JSD calculations
-print_jsd_values = True # Set to True to print the JSD values
-run_create_shift_graphs = True # Set to True to create the JSD shift graphs
+
+run_jsd_calculation = False # Set to True to run the JSD calculations
+
+save_jsd_results = False # Set to True to save the JSD results to CSV files (and optionally HTML)
+
+print_jsd_values = False # Set to True to print the JSD values
+
+run_create_shift_graphs = False # Set to True to create the JSD shift graphs
+
+print_log_odds_values = True # Set to True to print the log-odds ratio values
+
+
+
+
+
+
+# --- Merge Word Frequency Files ---
 
 # Merge all the word frequency .txt files into separate merged files, each excluding one of the original files
 # This way we can compare each individual transcript's word frequency distribution to the merged distribution 
@@ -82,16 +100,20 @@ else:
     print("Skipping merge file creation.")
 
 
+
+
+
+
 # ------- Jansen-Shannon Distance -------
 
-subtlex_counts = load_counts_from_wf_txt(subtlex_file)
-opensub_counts = load_counts_from_wf_txt(opensub_file)
-merge_file_counts = load_counts_from_wf_txt(merge_file)
-jsd_rows = []
-subtlex_rows = []
-opensub_rows = []
-count=0
 if run_jsd_calculation:
+    subtlex_counts = load_counts_from_wf_txt(subtlex_file)
+    opensub_counts = load_counts_from_wf_txt(opensub_file)
+    merge_file_counts = load_counts_from_wf_txt(merge_file)
+    jsd_rows = []
+    subtlex_rows = []
+    opensub_rows = []
+    count=0
     print("Calculating JSD values for each transcript against Merged-1, SUBTLEX, and OpenSubtitles...")
     for wf_path in wordfreq_file_paths:
         file_id = wf_path.stem[9:19]
@@ -159,33 +181,48 @@ if run_jsd_calculation:
 else:
     print("Skipping JSD calculations.")
 
-jsd_df = pd.DataFrame(jsd_rows)
-jsd_df = jsd_df.sort_values("jsd_val", ascending=False).reset_index(drop=True)
-jsd_df.to_csv(DATA_DIR / "results" / "jsd_merged.csv", index=False)
-# jsd_df.to_html(DATA_DIR / "results" / "jsd_merged.html", index=False)
 
-subtlex_df = pd.DataFrame(subtlex_rows)
-subtlex_df = subtlex_df.sort_values("jsd_val", ascending=False).reset_index(drop=True)
-subtlex_df.to_csv(DATA_DIR / "results" / "jsd_subtlex.csv", index=False)
-# subtlex_df.to_html(DATA_DIR / "results" / "jsd_subtlex.html", index=False)
 
-opensub_df = pd.DataFrame(opensub_rows)
-opensub_df = opensub_df.sort_values("jsd_val", ascending=False).reset_index(drop=True)
-opensub_df.to_csv(DATA_DIR / "results" / "jsd_opensub.csv", index=False)
-# opensub_df.to_html(DATA_DIR / "results" / "jsd_opensub.html", index=False)
+# ------- Save the JSD results to CSV files (and optionally HTML) -------
+if save_jsd_results and not run_jsd_calculation:
+    print("Run JSD calculations to save results.")
 
-print("Saved:")
-print(DATA_DIR / "results" / "jsd_merged.csv")
-# print(DATA_DIR / "results" / "jsd_merged.html")
-print(DATA_DIR / "results" / "jsd_subtlex.csv")
-# print(DATA_DIR / "results" / "jsd_subtlex.html")
-print(DATA_DIR / "results" / "jsd_opensub.csv")
-# print(DATA_DIR / "results" / "jsd_opensub.html")
+elif save_jsd_results:
+    print("Saving JSD results to CSV files...")
 
-if print_jsd_values:
+    saved_files = []
+
+    jsd_df = pd.DataFrame(jsd_rows).sort_values("jsd_val", ascending=False).reset_index(drop=True)
+    jsd_path = RESULTS_DIR / "jsd_merged.csv"
+    jsd_df.to_csv(jsd_path, index=False)
+    saved_files.append(jsd_path)
+
+    subtlex_df = pd.DataFrame(subtlex_rows).sort_values("jsd_val", ascending=False).reset_index(drop=True)
+    subtlex_path = RESULTS_DIR / "jsd_subtlex.csv"
+    subtlex_df.to_csv(subtlex_path, index=False)
+    saved_files.append(subtlex_path)
+
+    # opensub_df = pd.DataFrame(opensub_rows).sort_values("jsd_val", ascending=False).reset_index(drop=True)
+    # opensub_path = RESULTS_DIR / "jsd_opensub.csv"
+    # opensub_df.to_csv(opensub_path, index=False)
+    # saved_files.append(opensub_path)
+
+    print("Saved:")
+    for path in saved_files:
+        print(path)
+
+else:
+    print("Skipping saving JSD results .")
+
+
+
+# ------- print the JSD values and related statistics for each comparison -------
+if run_jsd_calculation and not print_jsd_values:
+    print("Run JSD calculations with print_jsd_values=True to see the JSD values and related statistics.")
+elif print_jsd_values:
     jsd_val, unique_words, shared_words, pct_shared_words, unique_to_a, unique_to_b, pct_shared_of_a, pct_shared_of_b, n_a, n_b = jensen_shannon_distance(merge_file_counts, subtlex_counts)
-    print("\nMerged vs SUBTLEX:")
-    print("JSD:", round(jsd_val, 4))
+    print("\nJSD: Merged vs SUBTLEX:")
+    print("JSDistance:", round(jsd_val, 4))
     print("Union vocab size:", unique_words)
     print("Percent shared (union):", round(pct_shared_words, 3), "%")
     print("Unique to Merged:", unique_to_a)
@@ -195,35 +232,24 @@ if print_jsd_values:
     print("Total tokens A:", n_a)
     print("Total tokens B:", n_b)
 
-    jsd_val, unique_words, shared_words, pct_shared_words, unique_to_a, unique_to_b, pct_shared_of_a, pct_shared_of_b, n_a, n_b = jensen_shannon_distance(merge_file_counts, opensub_counts)
-    print("\nMerged vs OpenSubtitles:")
-    print("JSD:", round(jsd_val, 4))
-    print("Union vocab size:", unique_words)
-    print("Percent shared (union):", round(pct_shared_words, 3), "%")
-    print("Unique to Merged:", unique_to_a)
-    print("Unique to OpenSubtitles:", unique_to_b)
-    print("Percent of Merged vocab shared:", round(pct_shared_of_a, 3), "%")
-    print("Percent of OpenSubtitles vocab shared:", round(pct_shared_of_b, 3), "%")
-    print("Total tokens A:", n_a)
-    print("Total tokens B:", n_b, "\n")
-
     print(f"\nJSD: Merged-1 vs each individual transcript. Total comparisons: {count}")
-    print(f"JSD: {jsd_df['jsd_val'].min()} - {jsd_df['jsd_val'].max()}")
+    print(f"JSDistance: {jsd_df['jsd_val'].min()} - {jsd_df['jsd_val'].max()}")
     print(f"% Shared of Transcript: {jsd_df['pct_shared_of_transcript'].min()}% - {jsd_df['pct_shared_of_transcript'].max()}%")
     print(f"% Shared of Merged-1: {jsd_df['pct_shared_of_merged'].min()}% - {jsd_df['pct_shared_of_merged'].max()}%\n")
     print(jsd_df[['transcript', 'jsd_val', 'shared_words', 'unique_to_transcript', 'pct_shared_words', 'pct_shared_of_transcript', 'pct_shared_of_merged']])
 
     print(f"\nJSD: SUBTLEX vs each individual transcript. Total comparisons: {count}")
-    print(f"JSD: {subtlex_df['jsd_val'].min()} - {subtlex_df['jsd_val'].max()}")
+    print(f"JSDistance: {subtlex_df['jsd_val'].min()} - {subtlex_df['jsd_val'].max()}")
     print(f"% Shared of Transcript: {subtlex_df['pct_shared_of_transcript'].min()}% - {subtlex_df['pct_shared_of_transcript'].max()}%")
     print(f"% Shared of SUBTLEX: {subtlex_df['pct_shared_of_subtlex'].min()}% - {subtlex_df['pct_shared_of_subtlex'].max()}%\n")
     print(subtlex_df[['transcript', 'jsd_val', 'shared_words', 'unique_to_transcript', 'pct_shared_words', 'pct_shared_of_transcript', 'pct_shared_of_subtlex']])
+else:
+    print("Skipping printing JSD values.")
 
-    print(f"\nJSD: OpenSubtitles vs each individual transcript. Total comparisons: {count}:")
-    print(f"JSD: {opensub_df['jsd_val'].min()} - {opensub_df['jsd_val'].max()}")
-    print(f"% Shared of Transcript: {opensub_df['pct_shared_of_transcript'].min()}% - {opensub_df['pct_shared_of_transcript'].max()}%")
-    print(f"% Shared of OpenSubtitles: {opensub_df['pct_shared_of_opensub'].min()}% - {opensub_df['pct_shared_of_opensub'].max()}%\n")
-    print(opensub_df[['transcript', 'jsd_val', 'shared_words', 'unique_to_transcript', 'pct_shared_words', 'pct_shared_of_transcript', 'pct_shared_of_opensub']])
+
+
+
+
 
 # ------- JSD Shift Graphs -------
 if not hasattr(maxis.Tick, "label"):
@@ -281,119 +307,62 @@ if run_create_shift_graphs:
         )
         plt.close("all")
 
+
+
+
+
+
 # ------- Log-Odds Ratios with Prior -------
-over_subtlex, under_subtlex = log_odds_with_prior_from_files(
-    merge_file,
-    subtlex_file,
-    prior_file=subtlex_file, # define the prior as the reference corpus itself.
-    top_n=30,
-)
 
-# Top 3:
-# Merge HasanAbi 12-03-2025 transcript_wf	0.2839
-# Merge HasanAbi 12-04-2025 transcript_wf	0.2768
-# Merge HasanAbi 12-02-2025 transcript_wf	0.2746
-# opensubtitles2018_wf	HasanAbi 12-26-2025 transcript_wf	0.6531
-# opensubtitles2018_wf	HasanAbi 01-06-2026 transcript_wf	0.6529
-# opensubtitles2018_wf	HasanAbi 12-09-2025 transcript_wf	0.651
-# subtlex_us_wf	HasanAbi 12-04-2025 transcript_wf	0.5046
-# subtlex_us_wf	HasanAbi 01-01-2026 transcript_wf	0.501
-# subtlex_us_wf	HasanAbi 12-28-2025 transcript_wf	0.501
-
-# Bottom 3:
-# Merge HasanAbi 01-15-2026 transcript_wf	0.2368
-# Merge HasanAbi 01-02-2026 transcript_wf	0.2362
-# Merge HasanAbi 01-20-2026 transcript_wf	0.2311
-# opensubtitles2018_wf	HasanAbi 01-07-2026 transcript_wf	0.633
-# opensubtitles2018_wf	HasanAbi 11-28-2025 transcript_wf	0.6293
-# opensubtitles2018_wf	HasanAbi 01-25-2026 transcript_wf	0.6274
-# subtlex_us_wf	HasanAbi 01-16-2026 transcript_wf	0.4854
-# subtlex_us_wf	HasanAbi 01-08-2026 transcript_wf	0.484
-# subtlex_us_wf	HasanAbi 12-27-2025 transcript_wf	0.4818
-
-# JSD increased after lowercasing the OpenSubtitles counts, which makes sense since the transcript word frequencies are also lowercased, 
-# so this should make them more similar and thus reduce the distance. However, the JSD values are still quite high, indicating that there are 
-# still many differences in the word frequency distributions between the transcripts and the OpenSubtitles reference corpus, even after lowercasing.
-
-# ref_file	transcript	jsd_val	shared_words	pct_shared_words	unique_to_transcript	pct_shared_of_transcript	total_tokens_transcript	unique_to_opensub	pct_shared_of_opensub
-# opensubtitles2018_wf	HasanAbi 12-26-2025 transcript_wf	0.6531	4600	14.513	1697	73.051	36604	25398	15.334
-# opensubtitles2018_wf	HasanAbi 01-06-2026 transcript_wf	0.6529	3616	11.592	1196	75.145	27348	26382	12.054
-# opensubtitles2018_wf	HasanAbi 12-09-2025 transcript_wf	0.651	3588	11.542	1088	76.732	26653	26410	11.961
-
-# opensubtitles2018_wf	HasanAbi 12-04-2025 transcript_wf	0.5016	2749	8.848	1070	71.982	32062	27249	9.164
-# opensubtitles2018_wf	HasanAbi 01-18-2026 transcript_wf	0.4982	3472	11.011	1535	69.343	49086	26526	11.574
-# opensubtitles2018_wf	HasanAbi 12-03-2025 transcript_wf	0.4976	2585	8.341	995	    72.207	31677	27413	8.617
-
-top_3_list = [
-    # Merged-1
-    ["data/wordfreq/HasanAbi 12-03-2025 transcript_wf.txt","data/merged/merged_file_12-03-2025.txt"],
-    ["data/wordfreq/HasanAbi 12-04-2025 transcript_wf.txt","data/merged/merged_file_12-04-2025.txt"],
-    ["data/wordfreq/HasanAbi 12-02-2025 transcript_wf.txt","data/merged/merged_file_12-02-2025.txt"],
-
-    # OpenSubtitles
-    ["data/wordfreq/HasanAbi 12-04-2025 transcript_wf.txt","data/ref_corpora/opensubtitles2018_wf.txt"],
-    ["data/wordfreq/HasanAbi 01-18-2026 transcript_wf.txt","data/ref_corpora/opensubtitles2018_wf.txt"],
-    ["data/wordfreq/HasanAbi 12-03-2025 transcript_wf.txt","data/ref_corpora/opensubtitles2018_wf.txt"],
-
-    # SUBTLEX
-    ["data/wordfreq/HasanAbi 12-04-2025 transcript_wf.txt","data/ref_corpora/subtlex_us_wf.txt"],
-    ["data/wordfreq/HasanAbi 01-01-2026 transcript_wf.txt","data/ref_corpora/subtlex_us_wf.txt"],
-    ["data/wordfreq/HasanAbi 01-25-2026 transcript_wf.txt","data/ref_corpora/subtlex_us_wf.txt"],
-]
-
-bottom_3_list = [
-    # Merged-1
-    ["data/wordfreq/HasanAbi 01-15-2026 transcript_wf.txt","data/merged/merged_file_12-03-2025.txt"],
-    ["data/wordfreq/HasanAbi 01-02-2026 transcript_wf.txt","data/merged/merged_file_12-04-2025.txt"],
-    ["data/wordfreq/HasanAbi 01-20-2026 transcript_wf.txt","data/merged/merged_file_12-02-2025.txt"],
-
-    # OpenSubtitles
-    ["data/wordfreq/HasanAbi 12-27-2025 transcript_wf.txt","data/ref_corpora/opensubtitles2018_wf.txt"],
-    ["data/wordfreq/HasanAbi 01-16-2026 transcript_wf.txt","data/ref_corpora/opensubtitles2018_wf.txt"],
-    ["data/wordfreq/HasanAbi 01-08-2026 transcript_wf.txt","data/ref_corpora/opensubtitles2018_wf.txt"],
-
-    # SUBTLEX
-    ["data/wordfreq/HasanAbi 01-16-2026 transcript_wf.txt","data/ref_corpora/subtlex_us_wf.txt"],
-    ["data/wordfreq/HasanAbi 01-08-2026 transcript_wf.txt","data/ref_corpora/subtlex_us_wf.txt"],
-    ["data/wordfreq/HasanAbi 12-27-2025 transcript_wf.txt","data/ref_corpora/subtlex_us_wf.txt"],
-]
-
-label_list = ["Merged-1", "Merged-1", "Merged-1", "OpenSubtitles", "OpenSubtitles", "OpenSubtitles", "SUBTLEX", "SUBTLEX", "SUBTLEX"]
-count = 0
-print("\nLog-odds ratios with prior for the top 3 transcripts with the highest JSD values:")
-for wf_path, merged_path in top_3_list:
-    if label_list[count] == "OpenSubtitles":
-        lowercase = True
-    else:
-        lowercase = False
-    # log-odds for the top 5 transcript with the highest JSD values
-    over_df, under_df = log_odds_with_prior_from_files(
-        wf_path,
-        merged_path,
-        prior_file=merged_path, # define the prior as the reference corpus itself.
-        top_n=30,
-        lowercase=lowercase,
+if print_log_odds_values:
+    
+    print("\nLog-odds ratios with prior for Merged vs SUBTLEX:")
+    print("\nOverrepresented in Merged vs SUBTLEX:")
+    over_subtlex, under_subtlex = log_odds_with_prior_from_files(
+        merge_file,
+        subtlex_file,
+        prior_file=subtlex_file, # define the prior as the reference corpus itself.
+        top_n=50,
     )
+    print(over_subtlex.head(50))
 
-    print(f"\nOverrepresented: {wf_path[23:33]} vs {label_list[count]}")
-    print(over_df.head(30))
-    count += 1
+    top_3_list = [
+        ["data/wordfreq/HasanAbi 12-03-2025 transcript_wf.txt","data/merged/merged_file_12-03-2025.txt"],
+        ["data/wordfreq/HasanAbi 12-04-2025 transcript_wf.txt","data/merged/merged_file_12-04-2025.txt"],
+        ["data/wordfreq/HasanAbi 12-02-2025 transcript_wf.txt","data/merged/merged_file_12-02-2025.txt"],
+    ]
 
-count = 0
-print("\nLog-odds ratios with prior for the top 3 transcripts with the lowest JSD values:")
-for wf_path, merged_path in bottom_3_list:
-    if label_list[count] == "OpenSubtitles":
-        lowercase = True
-    else:
-        lowercase = False
+    bottom_3_list = [
+        ["data/wordfreq/HasanAbi 01-15-2026 transcript_wf.txt","data/merged/merged_file_12-03-2025.txt"],
+        ["data/wordfreq/HasanAbi 01-02-2026 transcript_wf.txt","data/merged/merged_file_12-04-2025.txt"],
+        ["data/wordfreq/HasanAbi 01-20-2026 transcript_wf.txt","data/merged/merged_file_12-02-2025.txt"],
+    ]
+
     # log-odds for the top 5 transcript with the highest JSD values
-    over_df, under_df = log_odds_with_prior_from_files(
-        wf_path,
-        merged_path,
-        prior_file=merged_path, # define the prior as the reference corpus itself.
-        top_n=30,
-        lowercase=lowercase,
-    )
-    print(f"\nOverrepresented: {wf_path[23:33]} vs {label_list[count]}")
-    print(over_df.head(30))
-    count += 1
+    print("\nLog-odds ratios with prior for the top 3 transcripts with the highest JSD values:")
+    for wf_path, merged_path in top_3_list:
+        over_df, under_df = log_odds_with_prior_from_files(
+            wf_path,
+            merged_path,
+            prior_file=merged_path, # define the prior as the reference corpus itself.
+            top_n=50,
+            lowercase=False,
+        )
+
+        print(f"\nOverrepresented: {wf_path[23:33]} vs Merged-1")
+        print(over_df.head(50))
+
+    # log-odds for the top 5 transcript with the highest JSD values
+    print("\nLog-odds ratios with prior for the top 3 transcripts with the lowest JSD values:")
+
+    for wf_path, merged_path in bottom_3_list:
+        over_df, under_df = log_odds_with_prior_from_files(
+            wf_path,
+            merged_path,
+            prior_file=merged_path, # define the prior as the reference corpus itself.
+            top_n=50,
+            lowercase=False,
+        )
+        print(f"\nOverrepresented: {wf_path[23:33]} vs Merged-1")
+        print(over_df.head(50))
+
