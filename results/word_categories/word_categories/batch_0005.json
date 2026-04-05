@@ -1,0 +1,2010 @@
+{
+  "batch_index": 5,
+  "input_size": 200,
+  "input_words": [
+    {
+      "word": "On",
+      "count": 260
+    },
+    {
+      "word": "speak",
+      "count": 260
+    },
+    {
+      "word": "beyond",
+      "count": 260
+    },
+    {
+      "word": "Have",
+      "count": 259
+    },
+    {
+      "word": "later",
+      "count": 259
+    },
+    {
+      "word": "attention",
+      "count": 258
+    },
+    {
+      "word": "cops",
+      "count": 258
+    },
+    {
+      "word": "conspiracy",
+      "count": 258
+    },
+    {
+      "word": "yesterday",
+      "count": 257
+    },
+    {
+      "word": "absolutely",
+      "count": 256
+    },
+    {
+      "word": "explain",
+      "count": 255
+    },
+    {
+      "word": "ones",
+      "count": 255
+    },
+    {
+      "word": "figure",
+      "count": 255
+    },
+    {
+      "word": "feels",
+      "count": 255
+    },
+    {
+      "word": "killing",
+      "count": 255
+    },
+    {
+      "word": "playing",
+      "count": 254
+    },
+    {
+      "word": "watched",
+      "count": 254
+    },
+    {
+      "word": "drama",
+      "count": 254
+    },
+    {
+      "word": "planet",
+      "count": 253
+    },
+    {
+      "word": "attitude",
+      "count": 253
+    },
+    {
+      "word": "phone",
+      "count": 253
+    },
+    {
+      "word": "stand",
+      "count": 253
+    },
+    {
+      "word": "YouTube",
+      "count": 252
+    },
+    {
+      "word": "gun",
+      "count": 252
+    },
+    {
+      "word": "gave",
+      "count": 251
+    },
+    {
+      "word": "Zionist",
+      "count": 251
+    },
+    {
+      "word": "society",
+      "count": 251
+    },
+    {
+      "word": "protest",
+      "count": 250
+    },
+    {
+      "word": "Then",
+      "count": 249
+    },
+    {
+      "word": "putting",
+      "count": 249
+    },
+    {
+      "word": "TikTok",
+      "count": 249
+    },
+    {
+      "word": "racism",
+      "count": 249
+    },
+    {
+      "word": "fight",
+      "count": 248
+    },
+    {
+      "word": "amount",
+      "count": 248
+    },
+    {
+      "word": "we've",
+      "count": 248
+    },
+    {
+      "word": "thinks",
+      "count": 248
+    },
+    {
+      "word": "attack",
+      "count": 248
+    },
+    {
+      "word": "friend",
+      "count": 247
+    },
+    {
+      "word": "platform",
+      "count": 247
+    },
+    {
+      "word": "narrative",
+      "count": 246
+    },
+    {
+      "word": "account",
+      "count": 245
+    },
+    {
+      "word": "Chatter",
+      "count": 245
+    },
+    {
+      "word": "Some",
+      "count": 245
+    },
+    {
+      "word": "present",
+      "count": 245
+    },
+    {
+      "word": "By",
+      "count": 245
+    },
+    {
+      "word": "moving",
+      "count": 245
+    },
+    {
+      "word": "history",
+      "count": 244
+    },
+    {
+      "word": "human",
+      "count": 244
+    },
+    {
+      "word": "labor",
+      "count": 243
+    },
+    {
+      "word": "worldview",
+      "count": 242
+    },
+    {
+      "word": "including",
+      "count": 242
+    },
+    {
+      "word": "wonder",
+      "count": 242
+    },
+    {
+      "word": "Sorry",
+      "count": 241
+    },
+    {
+      "word": "experience",
+      "count": 241
+    },
+    {
+      "word": "whatsoever",
+      "count": 240
+    },
+    {
+      "word": "pay",
+      "count": 240
+    },
+    {
+      "word": "invested",
+      "count": 239
+    },
+    {
+      "word": "30",
+      "count": 238
+    },
+    {
+      "word": "difficult",
+      "count": 238
+    },
+    {
+      "word": "lose",
+      "count": 237
+    },
+    {
+      "word": "bitch",
+      "count": 237
+    },
+    {
+      "word": "chatters",
+      "count": 236
+    },
+    {
+      "word": "annoying",
+      "count": 236
+    },
+    {
+      "word": "term",
+      "count": 236
+    },
+    {
+      "word": "correct",
+      "count": 236
+    },
+    {
+      "word": "rest",
+      "count": 236
+    },
+    {
+      "word": "Christ",
+      "count": 236
+    },
+    {
+      "word": "Obviously",
+      "count": 236
+    },
+    {
+      "word": "others",
+      "count": 236
+    },
+    {
+      "word": "dead",
+      "count": 236
+    },
+    {
+      "word": "given",
+      "count": 235
+    },
+    {
+      "word": "ban",
+      "count": 235
+    },
+    {
+      "word": "numbers",
+      "count": 235
+    },
+    {
+      "word": "Wow",
+      "count": 234
+    },
+    {
+      "word": "room",
+      "count": 234
+    },
+    {
+      "word": "3",
+      "count": 234
+    },
+    {
+      "word": "answer",
+      "count": 233
+    },
+    {
+      "word": "aren't",
+      "count": 233
+    },
+    {
+      "word": "bullshit",
+      "count": 233
+    },
+    {
+      "word": "door",
+      "count": 233
+    },
+    {
+      "word": "die",
+      "count": 232
+    },
+    {
+      "word": "exist",
+      "count": 232
+    },
+    {
+      "word": "half",
+      "count": 231
+    },
+    {
+      "word": "precisely",
+      "count": 231
+    },
+    {
+      "word": "Muslims",
+      "count": 231
+    },
+    {
+      "word": "fascist",
+      "count": 230
+    },
+    {
+      "word": "higher",
+      "count": 230
+    },
+    {
+      "word": "Was",
+      "count": 230
+    },
+    {
+      "word": "rather",
+      "count": 230
+    },
+    {
+      "word": "minutes",
+      "count": 230
+    },
+    {
+      "word": "played",
+      "count": 230
+    },
+    {
+      "word": "hands",
+      "count": 229
+    },
+    {
+      "word": "fans",
+      "count": 228
+    },
+    {
+      "word": "Go",
+      "count": 228
+    },
+    {
+      "word": "eyes",
+      "count": 228
+    },
+    {
+      "word": "asking",
+      "count": 228
+    },
+    {
+      "word": "Faze",
+      "count": 228
+    },
+    {
+      "word": "With",
+      "count": 227
+    },
+    {
+      "word": "debate",
+      "count": 227
+    },
+    {
+      "word": "city",
+      "count": 226
+    },
+    {
+      "word": "socialism",
+      "count": 226
+    },
+    {
+      "word": "words",
+      "count": 226
+    },
+    {
+      "word": "Hold",
+      "count": 226
+    },
+    {
+      "word": "leave",
+      "count": 226
+    },
+    {
+      "word": "gambling",
+      "count": 226
+    },
+    {
+      "word": "trans",
+      "count": 226
+    },
+    {
+      "word": "streamers",
+      "count": 226
+    },
+    {
+      "word": "places",
+      "count": 225
+    },
+    {
+      "word": "form",
+      "count": 225
+    },
+    {
+      "word": "sex",
+      "count": 225
+    },
+    {
+      "word": "fighting",
+      "count": 224
+    },
+    {
+      "word": "allowed",
+      "count": 224
+    },
+    {
+      "word": "people's",
+      "count": 224
+    },
+    {
+      "word": "boy",
+      "count": 224
+    },
+    {
+      "word": "Hasanabi",
+      "count": 224
+    },
+    {
+      "word": "gives",
+      "count": 223
+    },
+    {
+      "word": "dangerous",
+      "count": 223
+    },
+    {
+      "word": "Shapiro",
+      "count": 223
+    },
+    {
+      "word": "White",
+      "count": 222
+    },
+    {
+      "word": "biggest",
+      "count": 222
+    },
+    {
+      "word": "Hitler",
+      "count": 222
+    },
+    {
+      "word": "send",
+      "count": 221
+    },
+    {
+      "word": "Kaya",
+      "count": 221
+    },
+    {
+      "word": "defense",
+      "count": 221
+    },
+    {
+      "word": "regardless",
+      "count": 221
+    },
+    {
+      "word": "2025",
+      "count": 221
+    },
+    {
+      "word": "S",
+      "count": 221
+    },
+    {
+      "word": "small",
+      "count": 221
+    },
+    {
+      "word": "local",
+      "count": 220
+    },
+    {
+      "word": "legal",
+      "count": 220
+    },
+    {
+      "word": "claim",
+      "count": 219
+    },
+    {
+      "word": "strange",
+      "count": 219
+    },
+    {
+      "word": "turns",
+      "count": 219
+    },
+    {
+      "word": "lying",
+      "count": 219
+    },
+    {
+      "word": "suspect",
+      "count": 218
+    },
+    {
+      "word": "itself",
+      "count": 218
+    },
+    {
+      "word": "taken",
+      "count": 217
+    },
+    {
+      "word": "statement",
+      "count": 217
+    },
+    {
+      "word": "mom",
+      "count": 217
+    },
+    {
+      "word": "third",
+      "count": 217
+    },
+    {
+      "word": "nice",
+      "count": 216
+    },
+    {
+      "word": "known",
+      "count": 216
+    },
+    {
+      "word": "may",
+      "count": 216
+    },
+    {
+      "word": "conservative",
+      "count": 216
+    },
+    {
+      "word": "Elon",
+      "count": 216
+    },
+    {
+      "word": "murder",
+      "count": 216
+    },
+    {
+      "word": "red",
+      "count": 215
+    },
+    {
+      "word": "personally",
+      "count": 215
+    },
+    {
+      "word": "eat",
+      "count": 215
+    },
+    {
+      "word": "videos",
+      "count": 215
+    },
+    {
+      "word": "D",
+      "count": 215
+    },
+    {
+      "word": "understanding",
+      "count": 214
+    },
+    {
+      "word": "action",
+      "count": 214
+    },
+    {
+      "word": "ultimately",
+      "count": 213
+    },
+    {
+      "word": "members",
+      "count": 213
+    },
+    {
+      "word": "Biden",
+      "count": 213
+    },
+    {
+      "word": "sentiment",
+      "count": 213
+    },
+    {
+      "word": "We'll",
+      "count": 212
+    },
+    {
+      "word": "lean",
+      "count": 212
+    },
+    {
+      "word": "turned",
+      "count": 212
+    },
+    {
+      "word": "Erica",
+      "count": 212
+    },
+    {
+      "word": "won",
+      "count": 210
+    },
+    {
+      "word": "campaign",
+      "count": 210
+    },
+    {
+      "word": "threat",
+      "count": 210
+    },
+    {
+      "word": "opportunity",
+      "count": 210
+    },
+    {
+      "word": "current",
+      "count": 210
+    },
+    {
+      "word": "Shut",
+      "count": 210
+    },
+    {
+      "word": "future",
+      "count": 209
+    },
+    {
+      "word": "Ross",
+      "count": 209
+    },
+    {
+      "word": "positions",
+      "count": 209
+    },
+    {
+      "word": "Times",
+      "count": 209
+    },
+    {
+      "word": "easy",
+      "count": 208
+    },
+    {
+      "word": "sovereignty",
+      "count": 208
+    },
+    {
+      "word": "actively",
+      "count": 208
+    },
+    {
+      "word": "U",
+      "count": 208
+    },
+    {
+      "word": "entirely",
+      "count": 207
+    },
+    {
+      "word": "few",
+      "count": 207
+    },
+    {
+      "word": "morning",
+      "count": 207
+    },
+    {
+      "word": "regime",
+      "count": 207
+    },
+    {
+      "word": "House",
+      "count": 206
+    },
+    {
+      "word": "justify",
+      "count": 206
+    },
+    {
+      "word": "Hassan",
+      "count": 205
+    },
+    {
+      "word": "boys",
+      "count": 205
+    },
+    {
+      "word": "currently",
+      "count": 205
+    },
+    {
+      "word": "similar",
+      "count": 205
+    },
+    {
+      "word": "international",
+      "count": 204
+    },
+    {
+      "word": "speaking",
+      "count": 204
+    },
+    {
+      "word": "photo",
+      "count": 204
+    },
+    {
+      "word": "Somalis",
+      "count": 204
+    },
+    {
+      "word": "demand",
+      "count": 203
+    },
+    {
+      "word": "beautiful",
+      "count": 203
+    },
+    {
+      "word": "gone",
+      "count": 203
+    },
+    {
+      "word": "court",
+      "count": 203
+    },
+    {
+      "word": "Irish",
+      "count": 203
+    },
+    {
+      "word": "consider",
+      "count": 202
+    },
+    {
+      "word": "viewers",
+      "count": 202
+    },
+    {
+      "word": "likely",
+      "count": 202
+    },
+    {
+      "word": "views",
+      "count": 202
+    },
+    {
+      "word": "Fox",
+      "count": 202
+    },
+    {
+      "word": "5",
+      "count": 201
+    }
+  ],
+  "model_output": {
+    "results": [
+      {
+        "word": "On",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Common function word; no specific political category."
+      },
+      {
+        "word": "speak",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Generic verb, not category-specific."
+      },
+      {
+        "word": "beyond",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "General preposition/adverb with no political meaning."
+      },
+      {
+        "word": "Have",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Common auxiliary verb; no category fit."
+      },
+      {
+        "word": "later",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Generic time adverb, not topical."
+      },
+      {
+        "word": "attention",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "General noun without specific political association."
+      },
+      {
+        "word": "cops",
+        "primary_category": "State institutions / law enforcement",
+        "secondary_category": "Culture war / social controversy",
+        "reason": "Colloquial term for police; often tied to policing debates."
+      },
+      {
+        "word": "conspiracy",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Broad concept; not tied to one listed domain."
+      },
+      {
+        "word": "yesterday",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Generic time word with no category relevance."
+      },
+      {
+        "word": "absolutely",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "General intensifier, not political."
+      },
+      {
+        "word": "explain",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Generic verb without topical specificity."
+      },
+      {
+        "word": "ones",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Generic pronoun-like noun; no category fit."
+      },
+      {
+        "word": "figure",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Too broad alone; no stable political meaning."
+      },
+      {
+        "word": "feels",
+        "primary_category": "Internet slang / streamer register",
+        "secondary_category": null,
+        "reason": "Often used in online slang as reaction shorthand."
+      },
+      {
+        "word": "killing",
+        "primary_category": "Violence / war / atrocity",
+        "secondary_category": "Crime / law",
+        "reason": "Refers to lethal violence; also relevant to criminal acts."
+      },
+      {
+        "word": "playing",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Generic verb with no category-specific meaning."
+      },
+      {
+        "word": "watched",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "General past-tense verb, not topical."
+      },
+      {
+        "word": "drama",
+        "primary_category": "Internet slang / streamer register",
+        "secondary_category": "Culture war / social controversy",
+        "reason": "Common online term for interpersonal or creator conflict."
+      },
+      {
+        "word": "planet",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "General noun, outside listed categories."
+      },
+      {
+        "word": "attitude",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Broad personal descriptor, not category-linked."
+      },
+      {
+        "word": "phone",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "General object; no political category fit."
+      },
+      {
+        "word": "stand",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Generic verb/noun, too broad by itself."
+      },
+      {
+        "word": "YouTube",
+        "primary_category": "Media / journalism / platforms",
+        "secondary_category": "Streamer / YouTuber / influencer",
+        "reason": "Major video platform central to online media and creators."
+      },
+      {
+        "word": "gun",
+        "primary_category": "Military / weapons",
+        "secondary_category": "Violence / war / atrocity",
+        "reason": "Weapon term; also tied to violent acts."
+      },
+      {
+        "word": "gave",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Generic verb with no specific category."
+      },
+      {
+        "word": "Zionist",
+        "primary_category": "Israel / Palestine / Jews",
+        "secondary_category": null,
+        "reason": "Directly tied to Zionism and Israel-related discourse."
+      },
+      {
+        "word": "society",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Broad social term, not category-specific."
+      },
+      {
+        "word": "protest",
+        "primary_category": "Culture war / social controversy",
+        "secondary_category": "Elections / Campaigns",
+        "reason": "Common term for public political demonstration and activism."
+      },
+      {
+        "word": "Then",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Generic sequencing word; no political fit."
+      },
+      {
+        "word": "putting",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Generic verb form, not topical."
+      },
+      {
+        "word": "TikTok",
+        "primary_category": "Media / journalism / platforms",
+        "secondary_category": "Streamer / YouTuber / influencer",
+        "reason": "Social media platform central to creator and media discourse."
+      },
+      {
+        "word": "racism",
+        "primary_category": "Race / ethnicity / immigration",
+        "secondary_category": "Culture war / social controversy",
+        "reason": "Core term in race-related political and social debates."
+      },
+      {
+        "word": "fight",
+        "primary_category": "Violence / war / atrocity",
+        "secondary_category": null,
+        "reason": "General term for physical conflict or violent struggle."
+      },
+      {
+        "word": "amount",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Generic quantity noun, not political."
+      },
+      {
+        "word": "we've",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Common contraction; no category relevance."
+      },
+      {
+        "word": "thinks",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Generic cognitive verb, not topical."
+      },
+      {
+        "word": "attack",
+        "primary_category": "Violence / war / atrocity",
+        "secondary_category": "Military / weapons",
+        "reason": "General term for violent assault, often military too."
+      },
+      {
+        "word": "friend",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Generic social noun with no category fit."
+      },
+      {
+        "word": "platform",
+        "primary_category": "Media / journalism / platforms",
+        "secondary_category": null,
+        "reason": "Commonly refers to social media or broadcasting platforms."
+      },
+      {
+        "word": "narrative",
+        "primary_category": "Media / journalism / platforms",
+        "secondary_category": "Culture war / social controversy",
+        "reason": "Often used for media framing or political storytelling."
+      },
+      {
+        "word": "account",
+        "primary_category": "Media / journalism / platforms",
+        "secondary_category": null,
+        "reason": "Often means a social media account in streamer discourse."
+      },
+      {
+        "word": "Chatter",
+        "primary_category": "Internet slang / streamer register",
+        "secondary_category": "Streamer / YouTuber / influencer",
+        "reason": "Refers to a participant in a livestream chat."
+      },
+      {
+        "word": "Some",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Generic determiner, no category relevance."
+      },
+      {
+        "word": "present",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Broad word; no stable political meaning alone."
+      },
+      {
+        "word": "By",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Common preposition; no topical relevance."
+      },
+      {
+        "word": "moving",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Generic verb form; not category-specific."
+      },
+      {
+        "word": "history",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Broad concept, too general by itself."
+      },
+      {
+        "word": "human",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "General descriptor, not tied to a listed category alone."
+      },
+      {
+        "word": "labor",
+        "primary_category": "Economics / class / labor",
+        "secondary_category": null,
+        "reason": "Directly refers to work, workers, and labor politics."
+      },
+      {
+        "word": "worldview",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Broad ideological term, not specific enough alone."
+      },
+      {
+        "word": "including",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Generic connective word; no category fit."
+      },
+      {
+        "word": "wonder",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "General verb/noun without specific political meaning."
+      },
+      {
+        "word": "Sorry",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Generic conversational word, not topical."
+      },
+      {
+        "word": "experience",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Broad noun/verb, no specific category."
+      },
+      {
+        "word": "whatsoever",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "General emphatic adverb, not topical."
+      },
+      {
+        "word": "pay",
+        "primary_category": "Economics / class / labor",
+        "secondary_category": null,
+        "reason": "Refers to wages, compensation, or economic payment."
+      },
+      {
+        "word": "invested",
+        "primary_category": "Economics / class / labor",
+        "secondary_category": null,
+        "reason": "Commonly refers to financial investment or capital."
+      },
+      {
+        "word": "30",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Number with no inherent category."
+      },
+      {
+        "word": "difficult",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Generic adjective; no political category."
+      },
+      {
+        "word": "lose",
+        "primary_category": "Elections / Campaigns",
+        "secondary_category": null,
+        "reason": "Often used in political contexts for electoral defeat."
+      },
+      {
+        "word": "bitch",
+        "primary_category": "Swear / Slur / Derogatory",
+        "secondary_category": "Feminism / gender politics",
+        "reason": "Common insult with gendered derogatory usage."
+      },
+      {
+        "word": "chatters",
+        "primary_category": "Internet slang / streamer register",
+        "secondary_category": "Streamer / YouTuber / influencer",
+        "reason": "Plural of streamer-chat participants."
+      },
+      {
+        "word": "annoying",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "General adjective, not category-specific."
+      },
+      {
+        "word": "term",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Generic language-related noun; no specific fit."
+      },
+      {
+        "word": "correct",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "General adjective/verb without category tie."
+      },
+      {
+        "word": "rest",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Broad common noun/verb; no category relevance."
+      },
+      {
+        "word": "Christ",
+        "primary_category": "Religion",
+        "secondary_category": "Swear / Slur / Derogatory",
+        "reason": "Religious figure name, also used as an exclamation."
+      },
+      {
+        "word": "Obviously",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Generic discourse marker, not topical."
+      },
+      {
+        "word": "others",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Generic pronoun-like noun; no category fit."
+      },
+      {
+        "word": "dead",
+        "primary_category": "Violence / war / atrocity",
+        "secondary_category": null,
+        "reason": "Refers to death, often in violent or war contexts."
+      },
+      {
+        "word": "given",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Generic participle/adjective; no political meaning alone."
+      },
+      {
+        "word": "ban",
+        "primary_category": "Media / journalism / platforms",
+        "secondary_category": "State institutions / law enforcement",
+        "reason": "Commonly refers to platform moderation or official prohibition."
+      },
+      {
+        "word": "numbers",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Generic quantitative term; no specific category."
+      },
+      {
+        "word": "Wow",
+        "primary_category": "Internet slang / streamer register",
+        "secondary_category": null,
+        "reason": "Common online reaction/interjection in chat speech."
+      },
+      {
+        "word": "room",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "General noun, outside listed categories."
+      },
+      {
+        "word": "3",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Number with no inherent category."
+      },
+      {
+        "word": "answer",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Generic noun/verb, not category-specific."
+      },
+      {
+        "word": "aren't",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Common contraction; no category relevance."
+      },
+      {
+        "word": "bullshit",
+        "primary_category": "Swear / Slur / Derogatory",
+        "secondary_category": "Internet slang / streamer register",
+        "reason": "Profane dismissal common in political and streaming speech."
+      },
+      {
+        "word": "door",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "General object; no political category fit."
+      },
+      {
+        "word": "die",
+        "primary_category": "Violence / war / atrocity",
+        "secondary_category": null,
+        "reason": "Refers directly to death."
+      },
+      {
+        "word": "exist",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "General verb with no category-specific meaning."
+      },
+      {
+        "word": "half",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Generic quantity term, not topical."
+      },
+      {
+        "word": "precisely",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "General adverb, not politically specific."
+      },
+      {
+        "word": "Muslims",
+        "primary_category": "Religion",
+        "secondary_category": "Middle East",
+        "reason": "Religious group, often discussed in Middle East contexts."
+      },
+      {
+        "word": "fascist",
+        "primary_category": "Fascism / Nazism",
+        "secondary_category": "Swear / Slur / Derogatory",
+        "reason": "Direct ideological term, also used as an insult."
+      },
+      {
+        "word": "higher",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Generic comparative adjective, not topical."
+      },
+      {
+        "word": "Was",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Common verb form; no category fit."
+      },
+      {
+        "word": "rather",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "General adverb, not politically specific."
+      },
+      {
+        "word": "minutes",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Time unit; no category relevance."
+      },
+      {
+        "word": "played",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Generic past-tense verb, not topical."
+      },
+      {
+        "word": "hands",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "General noun; no listed category fit."
+      },
+      {
+        "word": "fans",
+        "primary_category": "Streamer / YouTuber / influencer",
+        "secondary_category": "Public figures / celebrities",
+        "reason": "Usually refers to creator or celebrity audiences."
+      },
+      {
+        "word": "Go",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Generic verb/imperative, not category-specific."
+      },
+      {
+        "word": "eyes",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "General body-part noun; no category fit."
+      },
+      {
+        "word": "asking",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Generic verb form; not topical."
+      },
+      {
+        "word": "Faze",
+        "primary_category": "Streamer / YouTuber / influencer",
+        "secondary_category": null,
+        "reason": "Likely refers to FaZe, a creator/esports brand."
+      },
+      {
+        "word": "With",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Common preposition; no category relevance."
+      },
+      {
+        "word": "debate",
+        "primary_category": "Culture war / social controversy",
+        "secondary_category": null,
+        "reason": "General term for public ideological argument."
+      },
+      {
+        "word": "city",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Generic place noun, not category-specific."
+      },
+      {
+        "word": "socialism",
+        "primary_category": "Socialism / Communism",
+        "secondary_category": null,
+        "reason": "Direct name of the political-economic ideology."
+      },
+      {
+        "word": "words",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Generic language term, not category-specific."
+      },
+      {
+        "word": "Hold",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Generic verb; no political category."
+      },
+      {
+        "word": "leave",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Broad verb, not category-specific."
+      },
+      {
+        "word": "gambling",
+        "primary_category": "Crime / law",
+        "secondary_category": "Economics / class / labor",
+        "reason": "Often discussed as regulated or illegal activity."
+      },
+      {
+        "word": "trans",
+        "primary_category": "LGBT / gender identity",
+        "secondary_category": "Culture war / social controversy",
+        "reason": "Common shorthand for transgender identity in political discourse."
+      },
+      {
+        "word": "streamers",
+        "primary_category": "Streamer / YouTuber / influencer",
+        "secondary_category": "Media / journalism / platforms",
+        "reason": "Directly refers to livestream creators."
+      },
+      {
+        "word": "places",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Generic noun; no clear category fit."
+      },
+      {
+        "word": "form",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Broad noun/verb, not category-specific."
+      },
+      {
+        "word": "sex",
+        "primary_category": "LGBT / gender identity",
+        "secondary_category": "Culture war / social controversy",
+        "reason": "Often tied to gender, sexuality, and social debates."
+      },
+      {
+        "word": "fighting",
+        "primary_category": "Violence / war / atrocity",
+        "secondary_category": null,
+        "reason": "Refers to physical conflict or combat."
+      },
+      {
+        "word": "allowed",
+        "primary_category": "State institutions / law enforcement",
+        "secondary_category": null,
+        "reason": "Often relates to rules, permission, and regulation."
+      },
+      {
+        "word": "people's",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Generic possessive form; no specific category."
+      },
+      {
+        "word": "boy",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "General noun; no category fit by itself."
+      },
+      {
+        "word": "Hasanabi",
+        "primary_category": "Streamer / YouTuber / influencer",
+        "secondary_category": "Political figures",
+        "reason": "Political streamer and online personality."
+      },
+      {
+        "word": "gives",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Generic verb; not category-specific."
+      },
+      {
+        "word": "dangerous",
+        "primary_category": "Violence / war / atrocity",
+        "secondary_category": null,
+        "reason": "Common descriptor for threat or harm."
+      },
+      {
+        "word": "Shapiro",
+        "primary_category": "Political figures",
+        "secondary_category": "Conservatism",
+        "reason": "Usually refers to Ben Shapiro, a conservative commentator."
+      },
+      {
+        "word": "White",
+        "primary_category": "Race / ethnicity / immigration",
+        "secondary_category": null,
+        "reason": "Racial identifier commonly used in political discourse."
+      },
+      {
+        "word": "biggest",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Generic superlative adjective, not topical."
+      },
+      {
+        "word": "Hitler",
+        "primary_category": "Fascism / Nazism",
+        "secondary_category": "Political figures",
+        "reason": "Central historical figure associated with Nazism."
+      },
+      {
+        "word": "send",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Generic verb without category-specific meaning."
+      },
+      {
+        "word": "Kaya",
+        "primary_category": "Public figures / celebrities",
+        "secondary_category": null,
+        "reason": "Most likely a proper name of a public person."
+      },
+      {
+        "word": "defense",
+        "primary_category": "Military / weapons",
+        "secondary_category": "Crime / law",
+        "reason": "Commonly refers to military defense or legal defense."
+      },
+      {
+        "word": "regardless",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Generic adverb, not category-specific."
+      },
+      {
+        "word": "2025",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Year reference without inherent category."
+      },
+      {
+        "word": "S",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Single letter; no stable category meaning."
+      },
+      {
+        "word": "small",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Generic adjective, not topical."
+      },
+      {
+        "word": "local",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Broad descriptor; no specific category alone."
+      },
+      {
+        "word": "legal",
+        "primary_category": "Crime / law",
+        "secondary_category": "State institutions / law enforcement",
+        "reason": "Directly refers to legality and legal systems."
+      },
+      {
+        "word": "claim",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Generic noun/verb, too broad alone."
+      },
+      {
+        "word": "strange",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "General adjective, not political."
+      },
+      {
+        "word": "turns",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Generic verb/noun; no category fit."
+      },
+      {
+        "word": "lying",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Broad accusation/verb, not tied to one category."
+      },
+      {
+        "word": "suspect",
+        "primary_category": "Crime / law",
+        "secondary_category": "State institutions / law enforcement",
+        "reason": "Legal and policing term for a possible offender."
+      },
+      {
+        "word": "itself",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Generic pronoun form; no category relevance."
+      },
+      {
+        "word": "taken",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Generic verb participle, not topical."
+      },
+      {
+        "word": "statement",
+        "primary_category": "Media / journalism / platforms",
+        "secondary_category": null,
+        "reason": "Commonly refers to a public or press statement."
+      },
+      {
+        "word": "mom",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "General family term, not category-specific."
+      },
+      {
+        "word": "third",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Ordinal number; no category relevance."
+      },
+      {
+        "word": "nice",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Generic adjective, not political."
+      },
+      {
+        "word": "known",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "General adjective/participle; no category fit."
+      },
+      {
+        "word": "may",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Common modal verb; no category relevance."
+      },
+      {
+        "word": "conservative",
+        "primary_category": "Conservatism",
+        "secondary_category": null,
+        "reason": "Direct ideological label for the political right."
+      },
+      {
+        "word": "Elon",
+        "primary_category": "Public figures / celebrities",
+        "secondary_category": "Media / journalism / platforms",
+        "reason": "Likely Elon Musk, a high-profile public figure and platform owner."
+      },
+      {
+        "word": "murder",
+        "primary_category": "Crime / law",
+        "secondary_category": "Violence / war / atrocity",
+        "reason": "Specific criminal homicide term tied to violence."
+      },
+      {
+        "word": "red",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Color term; too ambiguous alone."
+      },
+      {
+        "word": "personally",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Generic adverb, not category-specific."
+      },
+      {
+        "word": "eat",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Generic verb with no political meaning."
+      },
+      {
+        "word": "videos",
+        "primary_category": "Media / journalism / platforms",
+        "secondary_category": null,
+        "reason": "Core media format in online and platform discourse."
+      },
+      {
+        "word": "D",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Single letter; no stable category meaning."
+      },
+      {
+        "word": "understanding",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Broad noun/gerund, not category-specific."
+      },
+      {
+        "word": "action",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Too broad alone; no specific political category."
+      },
+      {
+        "word": "ultimately",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Generic discourse adverb; not topical."
+      },
+      {
+        "word": "members",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "General group noun, not category-specific."
+      },
+      {
+        "word": "Biden",
+        "primary_category": "Political figures",
+        "secondary_category": "Democratic Party / center-left",
+        "reason": "Refers to Joe Biden, Democratic political leader."
+      },
+      {
+        "word": "sentiment",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "General opinion-related noun; no category fit."
+      },
+      {
+        "word": "We'll",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Common contraction; no category relevance."
+      },
+      {
+        "word": "lean",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Broad verb; too ambiguous by itself."
+      },
+      {
+        "word": "turned",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Generic verb form, not topical."
+      },
+      {
+        "word": "Erica",
+        "primary_category": "Public figures / celebrities",
+        "secondary_category": null,
+        "reason": "Proper name, most likely a public individual reference."
+      },
+      {
+        "word": "won",
+        "primary_category": "Elections / Campaigns",
+        "secondary_category": null,
+        "reason": "Commonly used for electoral or campaign victory."
+      },
+      {
+        "word": "campaign",
+        "primary_category": "Elections / Campaigns",
+        "secondary_category": null,
+        "reason": "Directly refers to electoral campaigning."
+      },
+      {
+        "word": "threat",
+        "primary_category": "Violence / war / atrocity",
+        "secondary_category": "Crime / law",
+        "reason": "Refers to danger or threatened harm, often criminal."
+      },
+      {
+        "word": "opportunity",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Generic noun; no specific category fit."
+      },
+      {
+        "word": "current",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "General adjective, not category-specific."
+      },
+      {
+        "word": "Shut",
+        "primary_category": "Swear / Slur / Derogatory",
+        "secondary_category": null,
+        "reason": "Often used as a hostile imperative in insults."
+      },
+      {
+        "word": "future",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Broad time-related noun, not category-specific."
+      },
+      {
+        "word": "Ross",
+        "primary_category": "Streamer / YouTuber / influencer",
+        "secondary_category": "Public figures / celebrities",
+        "reason": "Likely refers to streamer Adin Ross."
+      },
+      {
+        "word": "positions",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Broad noun; no stable category alone."
+      },
+      {
+        "word": "Times",
+        "primary_category": "Media / journalism / platforms",
+        "secondary_category": null,
+        "reason": "Often refers to a news outlet like The New York Times."
+      },
+      {
+        "word": "easy",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Generic adjective; no category relevance."
+      },
+      {
+        "word": "sovereignty",
+        "primary_category": "State institutions / law enforcement",
+        "secondary_category": "Middle East",
+        "reason": "Political concept of state authority and self-rule."
+      },
+      {
+        "word": "actively",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "General adverb, not topical."
+      },
+      {
+        "word": "U",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Single letter; no stable category meaning."
+      },
+      {
+        "word": "entirely",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Generic adverb without specific political meaning."
+      },
+      {
+        "word": "few",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Generic quantity word, not topical."
+      },
+      {
+        "word": "morning",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Time-of-day noun; no category fit."
+      },
+      {
+        "word": "regime",
+        "primary_category": "State institutions / law enforcement",
+        "secondary_category": "Political figures",
+        "reason": "Refers to a governing system or ruling power."
+      },
+      {
+        "word": "House",
+        "primary_category": "State institutions / law enforcement",
+        "secondary_category": null,
+        "reason": "Often refers to a legislative body like the House."
+      },
+      {
+        "word": "justify",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Generic verb; no category-specific meaning."
+      },
+      {
+        "word": "Hassan",
+        "primary_category": "Public figures / celebrities",
+        "secondary_category": null,
+        "reason": "Proper name, likely a public-person reference."
+      },
+      {
+        "word": "boys",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "General plural noun; no category fit."
+      },
+      {
+        "word": "currently",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Generic time adverb, not topical."
+      },
+      {
+        "word": "similar",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Generic adjective, not category-specific."
+      },
+      {
+        "word": "international",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Broad descriptor; no single listed category."
+      },
+      {
+        "word": "speaking",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Generic verb/participle, not topical."
+      },
+      {
+        "word": "photo",
+        "primary_category": "Media / journalism / platforms",
+        "secondary_category": null,
+        "reason": "Media artifact commonly discussed in journalism and platforms."
+      },
+      {
+        "word": "Somalis",
+        "primary_category": "Race / ethnicity / immigration",
+        "secondary_category": "Middle East",
+        "reason": "Ethnic/national group term, often used in migration discourse."
+      },
+      {
+        "word": "demand",
+        "primary_category": "Economics / class / labor",
+        "secondary_category": null,
+        "reason": "Common economic term for market demand or labor demands."
+      },
+      {
+        "word": "beautiful",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Generic adjective; no political category."
+      },
+      {
+        "word": "gone",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Generic adjective/participle, not topical."
+      },
+      {
+        "word": "court",
+        "primary_category": "Crime / law",
+        "secondary_category": "State institutions / law enforcement",
+        "reason": "Legal institution central to law and adjudication."
+      },
+      {
+        "word": "Irish",
+        "primary_category": "Race / ethnicity / immigration",
+        "secondary_category": null,
+        "reason": "Ethnic/national identity term."
+      },
+      {
+        "word": "consider",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Generic verb, not category-specific."
+      },
+      {
+        "word": "viewers",
+        "primary_category": "Streamer / YouTuber / influencer",
+        "secondary_category": "Media / journalism / platforms",
+        "reason": "Audience term commonly used for streams and online media."
+      },
+      {
+        "word": "likely",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Generic adverb/adjective, not topical."
+      },
+      {
+        "word": "views",
+        "primary_category": "Media / journalism / platforms",
+        "secondary_category": "Streamer / YouTuber / influencer",
+        "reason": "Usually refers to audience metrics on online platforms."
+      },
+      {
+        "word": "Fox",
+        "primary_category": "Media / journalism / platforms",
+        "secondary_category": null,
+        "reason": "Commonly refers to Fox News or Fox media."
+      },
+      {
+        "word": "5",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Number with no inherent category."
+      }
+    ]
+  }
+}

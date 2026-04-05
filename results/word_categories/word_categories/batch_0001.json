@@ -1,0 +1,2010 @@
+{
+  "batch_index": 1,
+  "input_size": 200,
+  "input_words": [
+    {
+      "word": "the",
+      "count": 75487
+    },
+    {
+      "word": "to",
+      "count": 46197
+    },
+    {
+      "word": "I",
+      "count": 43258
+    },
+    {
+      "word": "a",
+      "count": 42636
+    },
+    {
+      "word": "is",
+      "count": 38913
+    },
+    {
+      "word": "that",
+      "count": 38651
+    },
+    {
+      "word": "of",
+      "count": 38194
+    },
+    {
+      "word": "you",
+      "count": 35490
+    },
+    {
+      "word": "and",
+      "count": 28383
+    },
+    {
+      "word": "like",
+      "count": 28358
+    },
+    {
+      "word": "in",
+      "count": 24875
+    },
+    {
+      "word": "this",
+      "count": 22087
+    },
+    {
+      "word": "it",
+      "count": 21161
+    },
+    {
+      "word": "are",
+      "count": 15289
+    },
+    {
+      "word": "not",
+      "count": 15288
+    },
+    {
+      "word": "was",
+      "count": 14070
+    },
+    {
+      "word": "on",
+      "count": 13705
+    },
+    {
+      "word": "know",
+      "count": 13629
+    },
+    {
+      "word": "for",
+      "count": 13404
+    },
+    {
+      "word": "And",
+      "count": 12291
+    },
+    {
+      "word": "have",
+      "count": 12107
+    },
+    {
+      "word": "fucking",
+      "count": 11405
+    },
+    {
+      "word": "they",
+      "count": 11321
+    },
+    {
+      "word": "be",
+      "count": 10452
+    },
+    {
+      "word": "just",
+      "count": 10089
+    },
+    {
+      "word": "people",
+      "count": 10044
+    },
+    {
+      "word": "don't",
+      "count": 10029
+    },
+    {
+      "word": "about",
+      "count": 9801
+    },
+    {
+      "word": "I'm",
+      "count": 9614
+    },
+    {
+      "word": "with",
+      "count": 9571
+    },
+    {
+      "word": "what",
+      "count": 9542
+    },
+    {
+      "word": "do",
+      "count": 9228
+    },
+    {
+      "word": "it's",
+      "count": 9147
+    },
+    {
+      "word": "he",
+      "count": 8669
+    },
+    {
+      "word": "as",
+      "count": 8373
+    },
+    {
+      "word": "It's",
+      "count": 8119
+    },
+    {
+      "word": "at",
+      "count": 8031
+    },
+    {
+      "word": "all",
+      "count": 8025
+    },
+    {
+      "word": "You",
+      "count": 7911
+    },
+    {
+      "word": "think",
+      "count": 7892
+    },
+    {
+      "word": "right",
+      "count": 7372
+    },
+    {
+      "word": "because",
+      "count": 7356
+    },
+    {
+      "word": "Yeah",
+      "count": 7310
+    },
+    {
+      "word": "going",
+      "count": 6876
+    },
+    {
+      "word": "my",
+      "count": 6727
+    },
+    {
+      "word": "so",
+      "count": 6597
+    },
+    {
+      "word": "But",
+      "count": 6346
+    },
+    {
+      "word": "we",
+      "count": 6316
+    },
+    {
+      "word": "if",
+      "count": 6238
+    },
+    {
+      "word": "or",
+      "count": 6195
+    },
+    {
+      "word": "The",
+      "count": 6166
+    },
+    {
+      "word": "but",
+      "count": 6165
+    },
+    {
+      "word": "me",
+      "count": 5822
+    },
+    {
+      "word": "one",
+      "count": 5736
+    },
+    {
+      "word": "even",
+      "count": 5649
+    },
+    {
+      "word": "That's",
+      "count": 5619
+    },
+    {
+      "word": "there",
+      "count": 5609
+    },
+    {
+      "word": "up",
+      "count": 5578
+    },
+    {
+      "word": "no",
+      "count": 5556
+    },
+    {
+      "word": "out",
+      "count": 5550
+    },
+    {
+      "word": "This",
+      "count": 5478
+    },
+    {
+      "word": "from",
+      "count": 5417
+    },
+    {
+      "word": "Like",
+      "count": 5308
+    },
+    {
+      "word": "your",
+      "count": 5304
+    },
+    {
+      "word": "actually",
+      "count": 5131
+    },
+    {
+      "word": "that's",
+      "count": 5120
+    },
+    {
+      "word": "an",
+      "count": 4969
+    },
+    {
+      "word": "What",
+      "count": 4796
+    },
+    {
+      "word": "who",
+      "count": 4768
+    },
+    {
+      "word": "get",
+      "count": 4736
+    },
+    {
+      "word": "when",
+      "count": 4672
+    },
+    {
+      "word": "Oh",
+      "count": 4629
+    },
+    {
+      "word": "why",
+      "count": 4617
+    },
+    {
+      "word": "you're",
+      "count": 4616
+    },
+    {
+      "word": "say",
+      "count": 4511
+    },
+    {
+      "word": "has",
+      "count": 4490
+    },
+    {
+      "word": "will",
+      "count": 4468
+    },
+    {
+      "word": "mean",
+      "count": 4390
+    },
+    {
+      "word": "here",
+      "count": 4379
+    },
+    {
+      "word": "can",
+      "count": 4348
+    },
+    {
+      "word": "So",
+      "count": 4329
+    },
+    {
+      "word": "how",
+      "count": 4309
+    },
+    {
+      "word": "more",
+      "count": 4215
+    },
+    {
+      "word": "his",
+      "count": 4104
+    },
+    {
+      "word": "would",
+      "count": 4062
+    },
+    {
+      "word": "by",
+      "count": 4057
+    },
+    {
+      "word": "were",
+      "count": 4016
+    },
+    {
+      "word": "They",
+      "count": 3923
+    },
+    {
+      "word": "then",
+      "count": 3919
+    },
+    {
+      "word": "Ok",
+      "count": 3898
+    },
+    {
+      "word": "doing",
+      "count": 3868
+    },
+    {
+      "word": "now",
+      "count": 3824
+    },
+    {
+      "word": "No",
+      "count": 3771
+    },
+    {
+      "word": "also",
+      "count": 3759
+    },
+    {
+      "word": "way",
+      "count": 3678
+    },
+    {
+      "word": "want",
+      "count": 3611
+    },
+    {
+      "word": "their",
+      "count": 3550
+    },
+    {
+      "word": "these",
+      "count": 3479
+    },
+    {
+      "word": "time",
+      "count": 3465
+    },
+    {
+      "word": "they're",
+      "count": 3464
+    },
+    {
+      "word": "got",
+      "count": 3412
+    },
+    {
+      "word": "It",
+      "count": 3395
+    },
+    {
+      "word": "he's",
+      "count": 3374
+    },
+    {
+      "word": "saying",
+      "count": 3357
+    },
+    {
+      "word": "go",
+      "count": 3307
+    },
+    {
+      "word": "ok",
+      "count": 3292
+    },
+    {
+      "word": "He",
+      "count": 3190
+    },
+    {
+      "word": "shit",
+      "count": 3142
+    },
+    {
+      "word": "them",
+      "count": 3138
+    },
+    {
+      "word": "said",
+      "count": 3127
+    },
+    {
+      "word": "very",
+      "count": 3120
+    },
+    {
+      "word": "did",
+      "count": 3105
+    },
+    {
+      "word": "lot",
+      "count": 3098
+    },
+    {
+      "word": "him",
+      "count": 3061
+    },
+    {
+      "word": "been",
+      "count": 3044
+    },
+    {
+      "word": "fuck",
+      "count": 3044
+    },
+    {
+      "word": "where",
+      "count": 2992
+    },
+    {
+      "word": "Trump",
+      "count": 2988
+    },
+    {
+      "word": "see",
+      "count": 2985
+    },
+    {
+      "word": "Israel",
+      "count": 2972
+    },
+    {
+      "word": "over",
+      "count": 2943
+    },
+    {
+      "word": "into",
+      "count": 2797
+    },
+    {
+      "word": "being",
+      "count": 2673
+    },
+    {
+      "word": "Okay",
+      "count": 2663
+    },
+    {
+      "word": "well",
+      "count": 2644
+    },
+    {
+      "word": "some",
+      "count": 2638
+    },
+    {
+      "word": "talking",
+      "count": 2554
+    },
+    {
+      "word": "We",
+      "count": 2543
+    },
+    {
+      "word": "good",
+      "count": 2487
+    },
+    {
+      "word": "yeah",
+      "count": 2459
+    },
+    {
+      "word": "only",
+      "count": 2447
+    },
+    {
+      "word": "any",
+      "count": 2439
+    },
+    {
+      "word": "can't",
+      "count": 2424
+    },
+    {
+      "word": "thing",
+      "count": 2399
+    },
+    {
+      "word": "still",
+      "count": 2390
+    },
+    {
+      "word": "reason",
+      "count": 2377
+    },
+    {
+      "word": "much",
+      "count": 2375
+    },
+    {
+      "word": "had",
+      "count": 2361
+    },
+    {
+      "word": "back",
+      "count": 2358
+    },
+    {
+      "word": "too",
+      "count": 2344
+    },
+    {
+      "word": "than",
+      "count": 2338
+    },
+    {
+      "word": "really",
+      "count": 2331
+    },
+    {
+      "word": "If",
+      "count": 2330
+    },
+    {
+      "word": "other",
+      "count": 2327
+    },
+    {
+      "word": "guys",
+      "count": 2320
+    },
+    {
+      "word": "make",
+      "count": 2288
+    },
+    {
+      "word": "real",
+      "count": 2249
+    },
+    {
+      "word": "American",
+      "count": 2175
+    },
+    {
+      "word": "America",
+      "count": 2162
+    },
+    {
+      "word": "anti",
+      "count": 2158
+    },
+    {
+      "word": "God",
+      "count": 2150
+    },
+    {
+      "word": "look",
+      "count": 2145
+    },
+    {
+      "word": "she",
+      "count": 2135
+    },
+    {
+      "word": "kind",
+      "count": 2132
+    },
+    {
+      "word": "doesn't",
+      "count": 2091
+    },
+    {
+      "word": "That",
+      "count": 2054
+    },
+    {
+      "word": "there's",
+      "count": 2036
+    },
+    {
+      "word": "person",
+      "count": 2015
+    },
+    {
+      "word": "her",
+      "count": 2011
+    },
+    {
+      "word": "He's",
+      "count": 1959
+    },
+    {
+      "word": "understand",
+      "count": 1933
+    },
+    {
+      "word": "guy",
+      "count": 1920
+    },
+    {
+      "word": "literally",
+      "count": 1917
+    },
+    {
+      "word": "same",
+      "count": 1917
+    },
+    {
+      "word": "point",
+      "count": 1910
+    },
+    {
+      "word": "around",
+      "count": 1902
+    },
+    {
+      "word": "most",
+      "count": 1896
+    },
+    {
+      "word": "didn't",
+      "count": 1889
+    },
+    {
+      "word": "You're",
+      "count": 1888
+    },
+    {
+      "word": "something",
+      "count": 1886
+    },
+    {
+      "word": "every",
+      "count": 1850
+    },
+    {
+      "word": "day",
+      "count": 1849
+    },
+    {
+      "word": "Because",
+      "count": 1828
+    },
+    {
+      "word": "take",
+      "count": 1796
+    },
+    {
+      "word": "never",
+      "count": 1788
+    },
+    {
+      "word": "dude",
+      "count": 1777
+    },
+    {
+      "word": "oh",
+      "count": 1775
+    },
+    {
+      "word": "off",
+      "count": 1765
+    },
+    {
+      "word": "we're",
+      "count": 1762
+    },
+    {
+      "word": "trying",
+      "count": 1753
+    },
+    {
+      "word": "should",
+      "count": 1715
+    },
+    {
+      "word": "Is",
+      "count": 1693
+    },
+    {
+      "word": "which",
+      "count": 1686
+    },
+    {
+      "word": "crazy",
+      "count": 1664
+    },
+    {
+      "word": "things",
+      "count": 1659
+    },
+    {
+      "word": "stuff",
+      "count": 1652
+    },
+    {
+      "word": "again",
+      "count": 1652
+    },
+    {
+      "word": "There",
+      "count": 1650
+    },
+    {
+      "word": "I've",
+      "count": 1638
+    },
+    {
+      "word": "little",
+      "count": 1621
+    },
+    {
+      "word": "Right",
+      "count": 1621
+    },
+    {
+      "word": "Why",
+      "count": 1601
+    },
+    {
+      "word": "need",
+      "count": 1554
+    },
+    {
+      "word": "many",
+      "count": 1544
+    },
+    {
+      "word": "They're",
+      "count": 1536
+    },
+    {
+      "word": "does",
+      "count": 1526
+    },
+    {
+      "word": "could",
+      "count": 1524
+    },
+    {
+      "word": "someone",
+      "count": 1502
+    },
+    {
+      "word": "already",
+      "count": 1500
+    },
+    {
+      "word": "our",
+      "count": 1495
+    }
+  ],
+  "model_output": {
+    "results": [
+      {
+        "word": "the",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Common article; no specific political meaning."
+      },
+      {
+        "word": "to",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Common preposition; not politically specific."
+      },
+      {
+        "word": "I",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "First-person pronoun; no category fit."
+      },
+      {
+        "word": "a",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Common article; no political content."
+      },
+      {
+        "word": "is",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Common verb; no specific category."
+      },
+      {
+        "word": "that",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Demonstrative word; no political meaning itself."
+      },
+      {
+        "word": "of",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Common preposition; not category-specific."
+      },
+      {
+        "word": "you",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Second-person pronoun; no political association."
+      },
+      {
+        "word": "and",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Common conjunction; no relevant category."
+      },
+      {
+        "word": "like",
+        "primary_category": "Internet slang / streamer register",
+        "secondary_category": null,
+        "reason": "Common discourse filler in speech and streaming."
+      },
+      {
+        "word": "in",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Common preposition; no specific fit."
+      },
+      {
+        "word": "this",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Demonstrative pronoun; politically nonspecific."
+      },
+      {
+        "word": "it",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Pronoun with no inherent political meaning."
+      },
+      {
+        "word": "are",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Common verb form; no category fit."
+      },
+      {
+        "word": "not",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "General negation word; not topic-specific."
+      },
+      {
+        "word": "was",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Common past-tense verb; no political meaning."
+      },
+      {
+        "word": "on",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Common preposition; no relevant category."
+      },
+      {
+        "word": "know",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "General verb; no specific political meaning."
+      },
+      {
+        "word": "for",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Common preposition; not category-specific."
+      },
+      {
+        "word": "And",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Common conjunction; no political content."
+      },
+      {
+        "word": "have",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Common verb; no category fit."
+      },
+      {
+        "word": "fucking",
+        "primary_category": "Swear / Slur / Derogatory",
+        "secondary_category": "Internet slang / streamer register",
+        "reason": "Common profanity, also frequent emphatic streamer speech."
+      },
+      {
+        "word": "they",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Pronoun; no inherent political meaning."
+      },
+      {
+        "word": "be",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Basic verb; not politically specific."
+      },
+      {
+        "word": "just",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "General adverb; no category relevance."
+      },
+      {
+        "word": "people",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Generic noun; too broad for a category."
+      },
+      {
+        "word": "don't",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Common contraction; no specific political meaning."
+      },
+      {
+        "word": "about",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Common preposition; no topical category."
+      },
+      {
+        "word": "I'm",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Contraction; no inherent political meaning."
+      },
+      {
+        "word": "with",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Common preposition; no category fit."
+      },
+      {
+        "word": "what",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Interrogative word; not politically specific."
+      },
+      {
+        "word": "do",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Common verb; no category relevance."
+      },
+      {
+        "word": "it's",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Contraction; no inherent political meaning."
+      },
+      {
+        "word": "he",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Pronoun; no category fit by itself."
+      },
+      {
+        "word": "as",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Common conjunction/preposition; no political content."
+      },
+      {
+        "word": "It's",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Contraction; politically nonspecific."
+      },
+      {
+        "word": "at",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Common preposition; no relevant category."
+      },
+      {
+        "word": "all",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "General determiner; no specific political meaning."
+      },
+      {
+        "word": "You",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Pronoun; not category-specific."
+      },
+      {
+        "word": "think",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "General verb; no direct political topic."
+      },
+      {
+        "word": "right",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Usually directional or affirming, not ideological here."
+      },
+      {
+        "word": "because",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Common conjunction; no category relevance."
+      },
+      {
+        "word": "Yeah",
+        "primary_category": "Internet slang / streamer register",
+        "secondary_category": null,
+        "reason": "Conversational affirmation common in speech and streams."
+      },
+      {
+        "word": "going",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "General verb form; no political meaning."
+      },
+      {
+        "word": "my",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Possessive pronoun; no category fit."
+      },
+      {
+        "word": "so",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Common conjunction/adverb; not politically specific."
+      },
+      {
+        "word": "But",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Common conjunction; no specific topic."
+      },
+      {
+        "word": "we",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Pronoun; no inherent political meaning."
+      },
+      {
+        "word": "if",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Conditional conjunction; no category relevance."
+      },
+      {
+        "word": "or",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Common conjunction; no specific meaning."
+      },
+      {
+        "word": "The",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Common article; no political content."
+      },
+      {
+        "word": "but",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Common conjunction; not category-specific."
+      },
+      {
+        "word": "me",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Pronoun; no political association."
+      },
+      {
+        "word": "one",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "General number/pronoun; no category fit."
+      },
+      {
+        "word": "even",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "General adverb; not topic-specific."
+      },
+      {
+        "word": "That's",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Contraction; no inherent political meaning."
+      },
+      {
+        "word": "there",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "General adverb/pronoun; no category relevance."
+      },
+      {
+        "word": "up",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Common adverb/preposition; no political content."
+      },
+      {
+        "word": "no",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "General negation; no specific category."
+      },
+      {
+        "word": "out",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Common adverb/preposition; no category fit."
+      },
+      {
+        "word": "This",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Demonstrative pronoun; no political meaning itself."
+      },
+      {
+        "word": "from",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Common preposition; not category-specific."
+      },
+      {
+        "word": "Like",
+        "primary_category": "Internet slang / streamer register",
+        "secondary_category": null,
+        "reason": "Frequent filler/discourse marker in spoken streaming."
+      },
+      {
+        "word": "your",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Possessive pronoun; no political content."
+      },
+      {
+        "word": "actually",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "General adverb; no specific category."
+      },
+      {
+        "word": "that's",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Contraction; politically nonspecific."
+      },
+      {
+        "word": "an",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Common article; no category relevance."
+      },
+      {
+        "word": "What",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Interrogative word; no specific political meaning."
+      },
+      {
+        "word": "who",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Interrogative pronoun; not topic-specific."
+      },
+      {
+        "word": "get",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "General verb; no category fit."
+      },
+      {
+        "word": "when",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Interrogative/conjunction; not politically specific."
+      },
+      {
+        "word": "Oh",
+        "primary_category": "Internet slang / streamer register",
+        "secondary_category": null,
+        "reason": "Conversational interjection common in live commentary."
+      },
+      {
+        "word": "why",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Interrogative adverb; no category relevance."
+      },
+      {
+        "word": "you're",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Contraction; no inherent political meaning."
+      },
+      {
+        "word": "say",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "General verb; no specific category."
+      },
+      {
+        "word": "has",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Common verb form; no political meaning."
+      },
+      {
+        "word": "will",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Auxiliary verb; not category-specific."
+      },
+      {
+        "word": "mean",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "General verb; no direct political content."
+      },
+      {
+        "word": "here",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "General adverb; no category relevance."
+      },
+      {
+        "word": "can",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Auxiliary verb; no political specificity."
+      },
+      {
+        "word": "So",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Common conjunction/discourse marker; broadly generic."
+      },
+      {
+        "word": "how",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Interrogative adverb; no category fit."
+      },
+      {
+        "word": "more",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "General determiner/adverb; not topic-specific."
+      },
+      {
+        "word": "his",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Possessive pronoun; no political content."
+      },
+      {
+        "word": "would",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Auxiliary verb; no category relevance."
+      },
+      {
+        "word": "by",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Common preposition; not politically specific."
+      },
+      {
+        "word": "were",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Common verb form; no category fit."
+      },
+      {
+        "word": "They",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Pronoun; no inherent political meaning."
+      },
+      {
+        "word": "then",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "General adverb; no category relevance."
+      },
+      {
+        "word": "Ok",
+        "primary_category": "Internet slang / streamer register",
+        "secondary_category": null,
+        "reason": "Conversational acknowledgment common in streams."
+      },
+      {
+        "word": "doing",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "General verb form; no specific topic."
+      },
+      {
+        "word": "now",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "General adverb; not category-specific."
+      },
+      {
+        "word": "No",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "General negation/interjection; no political meaning."
+      },
+      {
+        "word": "also",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Common adverb; no category relevance."
+      },
+      {
+        "word": "way",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Generic noun/adverb; no specific fit."
+      },
+      {
+        "word": "want",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "General verb; not politically specific."
+      },
+      {
+        "word": "their",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Possessive pronoun; no category meaning alone."
+      },
+      {
+        "word": "these",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Demonstrative determiner; no topical fit."
+      },
+      {
+        "word": "time",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Generic noun; not specifically political."
+      },
+      {
+        "word": "they're",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Contraction; no inherent political meaning."
+      },
+      {
+        "word": "got",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "General verb form; no category relevance."
+      },
+      {
+        "word": "It",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Pronoun; no specific political content."
+      },
+      {
+        "word": "he's",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Contraction; not category-specific."
+      },
+      {
+        "word": "saying",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "General verb form; no direct category."
+      },
+      {
+        "word": "go",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "General verb; no topical specificity."
+      },
+      {
+        "word": "ok",
+        "primary_category": "Internet slang / streamer register",
+        "secondary_category": null,
+        "reason": "Conversational acknowledgment common in informal speech."
+      },
+      {
+        "word": "He",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Pronoun; no political category by itself."
+      },
+      {
+        "word": "shit",
+        "primary_category": "Swear / Slur / Derogatory",
+        "secondary_category": "Internet slang / streamer register",
+        "reason": "Common profanity, often used casually online."
+      },
+      {
+        "word": "them",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Pronoun; no inherent political meaning."
+      },
+      {
+        "word": "said",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "General past-tense verb; no category fit."
+      },
+      {
+        "word": "very",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "General adverb; no specific topic."
+      },
+      {
+        "word": "did",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Common verb form; no political relevance."
+      },
+      {
+        "word": "lot",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Generic quantity word; no category fit."
+      },
+      {
+        "word": "him",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Pronoun; no direct political meaning."
+      },
+      {
+        "word": "been",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Common verb form; not category-specific."
+      },
+      {
+        "word": "fuck",
+        "primary_category": "Swear / Slur / Derogatory",
+        "secondary_category": "Internet slang / streamer register",
+        "reason": "Strong profanity, widely used in online commentary."
+      },
+      {
+        "word": "where",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Interrogative adverb; no category relevance."
+      },
+      {
+        "word": "Trump",
+        "primary_category": "Political figures",
+        "secondary_category": "Republicans / MAGA",
+        "reason": "Surname of Donald Trump, central political figure."
+      },
+      {
+        "word": "see",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "General verb; no direct political category."
+      },
+      {
+        "word": "Israel",
+        "primary_category": "Israel / Palestine / Jews",
+        "secondary_category": "Middle East",
+        "reason": "Country central to Israeli-Palestinian politics and region."
+      },
+      {
+        "word": "over",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Common preposition/adverb; no specific fit."
+      },
+      {
+        "word": "into",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Common preposition; not category-specific."
+      },
+      {
+        "word": "being",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "General verb form; no political meaning."
+      },
+      {
+        "word": "Okay",
+        "primary_category": "Internet slang / streamer register",
+        "secondary_category": null,
+        "reason": "Conversational acknowledgment common in speech and streams."
+      },
+      {
+        "word": "well",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "General adverb/discourse marker; broadly generic."
+      },
+      {
+        "word": "some",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "General determiner; no category relevance."
+      },
+      {
+        "word": "talking",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "General verb form; no specific political topic."
+      },
+      {
+        "word": "We",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Pronoun; no inherent political meaning."
+      },
+      {
+        "word": "good",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "General adjective; no specific category."
+      },
+      {
+        "word": "yeah",
+        "primary_category": "Internet slang / streamer register",
+        "secondary_category": null,
+        "reason": "Conversational affirmation common in stream speech."
+      },
+      {
+        "word": "only",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "General adverb/adjective; no category fit."
+      },
+      {
+        "word": "any",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "General determiner; not politically specific."
+      },
+      {
+        "word": "can't",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Contraction; no inherent political meaning."
+      },
+      {
+        "word": "thing",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Generic noun; too broad for category."
+      },
+      {
+        "word": "still",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "General adverb; no category relevance."
+      },
+      {
+        "word": "reason",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Generic noun; not topic-specific."
+      },
+      {
+        "word": "much",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "General quantifier; no category fit."
+      },
+      {
+        "word": "had",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Common verb form; no political content."
+      },
+      {
+        "word": "back",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "General adverb/noun; no specific category."
+      },
+      {
+        "word": "too",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "General adverb; not politically specific."
+      },
+      {
+        "word": "than",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Common conjunction/preposition; no relevant category."
+      },
+      {
+        "word": "really",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "General adverb; no category relevance."
+      },
+      {
+        "word": "If",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Conditional conjunction; no specific topic."
+      },
+      {
+        "word": "other",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "General adjective/pronoun; no category fit."
+      },
+      {
+        "word": "guys",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Generic informal plural noun; broadly nonspecific."
+      },
+      {
+        "word": "make",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "General verb; no political category."
+      },
+      {
+        "word": "real",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "General adjective; not topic-specific."
+      },
+      {
+        "word": "American",
+        "primary_category": "Race / ethnicity / immigration",
+        "secondary_category": "Other / Miscellaneous",
+        "reason": "Nationality identifier; often demographic or national identity."
+      },
+      {
+        "word": "America",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Country name, but broad and not category-specific here."
+      },
+      {
+        "word": "anti",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Prefix/descriptor; too broad without target."
+      },
+      {
+        "word": "God",
+        "primary_category": "Religion",
+        "secondary_category": null,
+        "reason": "Directly refers to deity and religious discourse."
+      },
+      {
+        "word": "look",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "General verb/interjection; no specific political category."
+      },
+      {
+        "word": "she",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Pronoun; no category relevance by itself."
+      },
+      {
+        "word": "kind",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Generic noun/adjective; no specific political meaning."
+      },
+      {
+        "word": "doesn't",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Contraction; no category fit."
+      },
+      {
+        "word": "That",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Demonstrative pronoun; politically nonspecific."
+      },
+      {
+        "word": "there's",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Contraction; no inherent political content."
+      },
+      {
+        "word": "person",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Generic noun; too broad for category."
+      },
+      {
+        "word": "her",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Pronoun; no direct political meaning."
+      },
+      {
+        "word": "He's",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Contraction; no category fit by itself."
+      },
+      {
+        "word": "understand",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "General verb; no topic-specific meaning."
+      },
+      {
+        "word": "guy",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Generic informal noun; not politically specific."
+      },
+      {
+        "word": "literally",
+        "primary_category": "Internet slang / streamer register",
+        "secondary_category": null,
+        "reason": "Common online emphasis marker beyond literal meaning."
+      },
+      {
+        "word": "same",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "General adjective; no category relevance."
+      },
+      {
+        "word": "point",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Generic noun/verb; no specific category."
+      },
+      {
+        "word": "around",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "General preposition/adverb; no category fit."
+      },
+      {
+        "word": "most",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "General determiner/adverb; not topic-specific."
+      },
+      {
+        "word": "didn't",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Contraction; no inherent political meaning."
+      },
+      {
+        "word": "You're",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Contraction; not category-specific."
+      },
+      {
+        "word": "something",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Generic pronoun/noun; no category relevance."
+      },
+      {
+        "word": "every",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "General determiner; no specific topic."
+      },
+      {
+        "word": "day",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Generic time noun; no category fit."
+      },
+      {
+        "word": "Because",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Common conjunction; no political content."
+      },
+      {
+        "word": "take",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "General verb; no direct category meaning."
+      },
+      {
+        "word": "never",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "General adverb; not category-specific."
+      },
+      {
+        "word": "dude",
+        "primary_category": "Internet slang / streamer register",
+        "secondary_category": null,
+        "reason": "Informal address term common in streamer speech."
+      },
+      {
+        "word": "oh",
+        "primary_category": "Internet slang / streamer register",
+        "secondary_category": null,
+        "reason": "Conversational interjection frequent in live reactions."
+      },
+      {
+        "word": "off",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "General adverb/preposition; no category relevance."
+      },
+      {
+        "word": "we're",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Contraction; no inherent political meaning."
+      },
+      {
+        "word": "trying",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "General verb form; no specific category."
+      },
+      {
+        "word": "should",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Auxiliary verb; not politically specific."
+      },
+      {
+        "word": "Is",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Common verb form; no category fit."
+      },
+      {
+        "word": "which",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Relative/interrogative word; no political meaning."
+      },
+      {
+        "word": "crazy",
+        "primary_category": "Swear / Slur / Derogatory",
+        "secondary_category": "Internet slang / streamer register",
+        "reason": "Common insulting or emphatic descriptor in commentary."
+      },
+      {
+        "word": "things",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Generic plural noun; too broad for category."
+      },
+      {
+        "word": "stuff",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Generic noun; no specific political fit."
+      },
+      {
+        "word": "again",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "General adverb; no category relevance."
+      },
+      {
+        "word": "There",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "General adverb/pronoun; not topic-specific."
+      },
+      {
+        "word": "I've",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Contraction; no political meaning itself."
+      },
+      {
+        "word": "little",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "General adjective; no category fit."
+      },
+      {
+        "word": "Right",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Usually affirmation or direction, not ideology here."
+      },
+      {
+        "word": "Why",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Interrogative adverb; no specific political content."
+      },
+      {
+        "word": "need",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "General verb/noun; no category relevance."
+      },
+      {
+        "word": "many",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "General quantifier; not topic-specific."
+      },
+      {
+        "word": "They're",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Contraction; no inherent political meaning."
+      },
+      {
+        "word": "does",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Common verb form; no category fit."
+      },
+      {
+        "word": "could",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Auxiliary verb; not politically specific."
+      },
+      {
+        "word": "someone",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Generic pronoun; no direct category."
+      },
+      {
+        "word": "already",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "General adverb; no specific political meaning."
+      },
+      {
+        "word": "our",
+        "primary_category": "Other / Miscellaneous",
+        "secondary_category": null,
+        "reason": "Possessive pronoun; no category relevance."
+      }
+    ]
+  }
+}

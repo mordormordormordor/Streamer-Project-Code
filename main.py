@@ -103,7 +103,7 @@ else:
 
 
 
-
+""" REMOVE or KEEP PUNCT WHEN CALC JSD? """
 # ------- Jansen-Shannon Distance -------
 
 if run_jsd_calculation:
@@ -297,6 +297,7 @@ if run_create_shift_graphs:
     merge_file_dict = remove_punctuation_tokens(merge_file_dict)
     subtlex_file_dict = remove_punctuation_tokens(subtlex_file_dict)
 
+    # Subtlex vs Merged file
     jsd_shift = sh.JSDivergenceShift(
         type2freq_1=subtlex_file_dict,
         type2freq_2=merge_file_dict,

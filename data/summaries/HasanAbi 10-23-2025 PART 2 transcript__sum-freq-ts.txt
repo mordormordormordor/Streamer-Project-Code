@@ -1,0 +1,5497 @@
+=== SUMMARY: /Users/sanji/Desktop/Visual Studio/Streamer Project Code/data/transcripts/HasanAbi 10-23-2025 PART 2 transcript.txt ===
+speaker	unique_tokens	total_tokens	percent_tokens	blocks
+Speaker A	1590	10240	50.77	368
+Speaker B	369	986	4.89	39
+Speaker C	251	561	2.78	28
+Speaker D	940	4590	22.76	281
+Speaker E	626	2567	12.73	205
+Speaker F	120	244	1.21	13
+Speaker G	154	274	1.36	5
+Speaker H	198	304	1.51	6
+Speaker I	237	404	2.00	14
+
+Notes:
+- blocks = number of times that speaker appears as a SPEAKER_PREFIX header.
+- percent_tokens is computed from tokenized text across all speakers.
+- lowercase=OFF.
+
+== Speaker A Word Frequency ==
+.	1169
+,	781
+I	286
+like	273
+the	226
+a	158
+you	133
+it	130
+is	130
+to	125
+that	124
+Yeah	121
+?	120
+of	110
+was	104
+this	81
+and	73
+just	71
+on	66
+don't	63
+know	62
+Like	62
+in	61
+he	60
+do	59
+they	58
+I'm	56
+not	53
+That's	53
+what	51
+think	47
+It's	46
+it's	45
+for	45
+are	45
+And	44
+that's	44
+He	43
+You	40
+Oh	38
+no	38
+about	38
+yeah	38
+have	36
+be	35
+you're	33
+with	33
+so	32
+What	32
+No	32
+people	32
+my	31
+But	31
+out	30
+right	30
+mean	29
+one	29
+all	29
+if	28
+up	28
+me	27
+got	27
+at	27
+but	27
+crazy	27
+fucking	26
+get	26
+he's	26
+He's	26
+then	25
+They	25
+him	25
+The	25
+were	23
+gonna	23
+can	22
+been	22
+because	22
+as	22
+when	22
+guys	22
+going	21
+would	21
+did	20
+now	20
+doing	20
+So	20
+his	20
+see	19
+There's	19
+It	19
+This	19
+there	18
+even	18
+ass	17
+here	17
+bro	16
+want	16
+also	16
+oh	16
+Okay	15
+or	15
+them	15
+we	15
+good	15
+had	14
+who	14
+true	14
+dude	14
+go	14
+how	13
+time	13
+could	13
+That	13
+from	13
+they're	13
+They're	13
+something	12
+dog	12
+way	12
+being	12
+two	12
+stuff	12
+talking	12
+went	12
+back	11
+there's	11
+stream	11
+an	11
+too	11
+some	11
+I've	11
+Chauncey	11
+poker	11
+fuck	10
+really	10
+your	10
+by	10
+lot	10
+What's	10
+feel	10
+crime	10
+million	10
+God	9
+happened	9
+can't	9
+well	9
+saying	9
+why	9
+make	9
+said	9
+day	9
+show	9
+only	9
+more	9
+else	9
+other	9
+NBA	9
+Is	8
+kind	8
+point	8
+doesn't	8
+All	8
+own	8
+any	8
+those	8
+never	8
+white	8
+Because	8
+Wait	8
+before	8
+very	8
+didn't	8
+guy	8
+Wemby	8
+game	8
+Billups	8
+cut	7
+Let	7
+around	7
+into	7
+There	7
+Ok	7
+How	7
+say	7
+goddamn	7
+still	7
+probably	7
+called	7
+normal	7
+okay	7
+You're	7
+We	7
+man	7
+keep	7
+cool	7
+let	7
+trying	7
+Well	7
+LeBron	7
+involved	7
+hate	6
+use	6
+much	6
+coming	6
+bad	6
+over	6
+caught	6
+actually	6
+money	6
+If	6
+than	6
+Why	6
+real	6
+little	6
+looks	6
+famous	6
+funny	6
+where	6
+always	6
+thing	6
+things	6
+To	6
+video	6
+does	6
+understand	6
+big	6
+Terry	6
+Mafia	6
+should	6
+Justin	6
+Did	5
+shit	5
+off	5
+every	5
+has	5
+down	5
+New	5
+York	5
+live	5
+will	5
+fine	5
+us	5
+everybody	5
+am	5
+wrong	5
+biggest	5
+head	5
+most	5
+another	5
+couple	5
+maybe	5
+Andrew	5
+saw	5
+Have	5
+seen	5
+first	5
+her	5
+front	5
+professional	5
+wasn't	5
+podcast	5
+try	5
+these	5
+FBI	5
+gambling	5
+mafia	5
+games	5
+Vegas	5
+Bieber	5
+working	4
+Can	4
+move	4
+believe	4
+literally	4
+Do	4
+nothing	4
+line	4
+Look	4
+everything	4
+11	4
+once	4
+chat	4
+which	4
+subscribe	4
+guess	4
+For	4
+click	4
+many	4
+happening	4
+need	4
+My	4
+sense	4
+better	4
+Zoron	4
+come	4
+such	4
+Crash	4
+Dummies	4
+code	4
+switch	4
+pretty	4
+A	4
+Trump	4
+years	4
+Cuomo	4
+anybody	4
+done	4
+making	4
+couldn't	4
+least	4
+Not	4
+either	4
+bit	4
+face	4
+wing	4
+thought	4
+anyone	4
+racist	4
+took	4
+though	4
+story	4
+playing	4
+again	4
+defense	4
+three	4
+Muslim	4
+Let's	4
+same	4
+Kawhi	4
+love	4
+families	4
+players	4
+In	4
+Who	4
+tips	4
+China	4
+full	3
+IRL	3
+Dude	3
+guests	3
+life	3
+Yes	3
+matter	3
+let's	3
+goes	3
+walk	3
+sounds	3
+sorry	3
+numbers	3
+rest	3
+watching	3
+gets	3
+Does	3
+Piker	3
+35	3
+%	3
+earlier	3
+revenue	3
+wide	3
+emotes	3
+subscriber	3
+send	3
+links	3
+clip	3
+size	3
+brother	3
+pull	3
+developments	3
+Donald	3
+looking	3
+street	3
+everyone's	3
+they've	3
+anything	3
+found	3
+worst	3
+we're	3
+damn	3
+parent	3
+camera	3
+level	3
+black	3
+rather	3
+Was	3
+Of	3
+One	3
+waterboarded	3
+Your	3
+friends	3
+wanted	3
+Anyway	3
+episode	3
+T	3
+Pain	3
+winger	3
+sports	3
+knowledgeable	3
+morning	3
+pump	3
+away	3
+Just	3
+basically	3
+basketball	3
+exactly	3
+trust	3
+Cash	3
+innocent	3
+tried	3
+Jones	3
+after	3
+fault	3
+9	3
+Which	3
+Right	3
+ladies	3
+Italians	3
+ago	3
+trees	3
+betting	3
+dollars	3
+David	3
+telling	3
+what's	3
+read	3
+glasses	3
+ways	3
+player	3
+perfect	3
+long	3
+enough	3
+fact	3
+Israeli	3
+high	3
+profile	3
+speak	3
+merge	3
+$	3
+issues	3
+sure	3
+Or	3
+ahead	3
+sell	3
+federal	3
+bunch	3
+giving	3
+Jordan	3
+fans	3
+We're	3
+dnc	3
+Maoist	3
+Century	3
+Miriam	3
+Adelson	3
+Van	3
+I'll	3
+streaming	3
+Am	2
+backpack	2
+haven't	2
+using	2
+Internet	2
+awful	2
+reason	2
+stupid	2
+infrastructure	2
+anyway	2
+Here's	2
+walking	2
+Avenue	2
+shorts	2
+create	2
+Kind	2
+favor	2
+idea	2
+Now	2
+look	2
+25	2
+30k	2
+less	2
+end	2
+month	2
+Broadcasting	2
+Service	2
+viewers	2
+support	2
+free	2
+Twitch	2
+starts	2
+happens	2
+Sorry	2
+paid	2
+platform	2
+subscription	2
+Hasan	2
+makes	2
+Don't	2
+They'll	2
+welcome	2
+insane	2
+See	2
+work	2
+moment	2
+haters	2
+disrespectful	2
+shoulders	2
+Otherwise	2
+Everyone	2
+Sometimes	2
+America	2
+quite	2
+past	2
+heard	2
+Nah	2
+isn't	2
+abuser	2
+perceived	2
+slight	2
+corner	2
+Shouts	2
+Los	2
+They've	2
+terrorist	2
+Every	2
+bringing	2
+abuse	2
+forced	2
+stay	2
+dogs	2
+ever	2
+especially	2
+hard	2
+shitty	2
+response	2
+above	2
+pressing	2
+yelled	2
+injured	2
+vicinity	2
+regular	2
+gotta	2
+comes	2
+getting	2
+jump	2
+fire	2
+fun	2
+Where's	2
+course	2
+put	2
+buddies	2
+somebody	2
+Muslims	2
+methods	2
+craziest	2
+She	2
+nuts	2
+2	2
+door	2
+drop	2
+find	2
+next	2
+Honestly	2
+straight	2
+take	2
+As	2
+meme	2
+exaggerated	2
+impossible	2
+woke	2
+lean	2
+goat	2
+inappropriate	2
+buddy	2
+ball	2
+crimes	2
+place	2
+nowadays	2
+came	2
+part	2
+throwing	2
+court	2
+honor	2
+suck	2
+Guilty	2
+injury	2
+Those	2
+grand	2
+mad	2
+fan	2
+today	2
+With	2
+remember	2
+against	2
+definitely	2
+clean	2
+Italian	2
+Exactly	2
+name	2
+Never	2
+knew	2
+talks	2
+Malik	2
+Beasley	2
+months	2
+salary	2
+cap	2
+assume	2
+job	2
+post	2
+informant	2
+Nobody	2
+scheme	2
+Gilbert	2
+special	2
+wait	2
+recently	2
+illegal	2
+main	2
+contact	2
+cards	2
+These	2
+Bills	2
+quick	2
+crypto	2
+coin	2
+old	2
+lure	2
+percentage	2
+earnings	2
+scam	2
+semi	2
+cook	2
+Bill	2
+tournament	2
+tonight	2
+super	2
+rich	2
+pulling	2
+cars	2
+person	2
+figure	2
+number	2
+pros	2
+pedophile	2
+Las	2
+cybersecurity	2
+security	2
+motion	2
+likes	2
+case	2
+celebrities	2
+former	2
+agency	2
+agree	2
+certain	2
+constantly	2
+His	2
+book	2
+7	2
+worth	2
+career	2
+six	2
+names	2
+separate	2
+care	2
+gems	2
+buyer	2
+hundred	2
+casino	2
+parts	2
+That'd	2
+Mona	2
+Lisa	2
+coolest	2
+spot	2
+peak	2
+mirror	2
+insider	2
+worried	2
+bets	2
+cases	2
+hand	2
+gave	2
+missing	2
+era	2
+sick	2
+People	2
+meet	2
+higher	2
+likelihood	2
+meeting	2
+Obama	2
+interview	2
+During	2
+check	2
+between	2
+interviewed	2
+Hassan	2
+quote	2
+social	2
+whatever	2
+Trump's	2
+Mavericks	2
+she	2
+eventually	2
+Wynn	2
+we'll	2
+We'll	2
+seeing	2
+Zach	2
+Fox	2
+nailed	2
+Throw	2
+influencer	2
+Love	2
+tomorrow	2
+Hello	1
+confused	1
+Ah	1
+annoying	1
+Ay	1
+ay	1
+yai	1
+hold	1
+arms	1
+pissed	1
+Welcome	1
+King	1
+transition	1
+Kaya	1
+Run	1
+Kyo	1
+run	1
+lame	1
+toolkit	1
+anymore	1
+cutting	1
+used	1
+redundancy	1
+become	1
+failure	1
+Might	1
+start	1
+gaming	1
+Calm	1
+Hollywood	1
+Another	1
+city	1
+state	1
+Guest	1
+guest	1
+personal	1
+crash	1
+dummies	1
+business	1
+cheeks	1
+continue	1
+eight	1
+buc	1
+Mathematically	1
+dated	1
+girl	1
+short	1
+December	1
+Put	1
+Second	1
+subway	1
+announce	1
+department	1
+government	1
+efficiency	1
+liberal	1
+cuckoo	1
+Republican	1
+Hated	1
+nodding	1
+Once	1
+cuts	1
+completely	1
+reboots	1
+tweaks	1
+says	1
+zero	1
+Chatter	1
+account	1
+260	1
+means	1
+lurkers	1
+whatnot	1
+perma	1
+Got	1
+Generational	1
+trial	1
+sponsored	1
+entirely	1
+exclusively	1
+ads	1
+viewership	1
+obligations	1
+whatsoever	1
+Prime	1
+gifting	1
+sub	1
+having	1
+obligation	1
+gifted	1
+subs	1
+treasure	1
+train	1
+random	1
+subscribers	1
+voluntarily	1
+record	1
+extra	1
+benefits	1
+maximum	1
+benefit	1
+rewind	1
+vod	1
+smart	1
+YouTube	1
+trafficking	1
+fent	1
+traffic	1
+fentanyl	1
+lie	1
+guarantee	1
+kinetic	1
+strike	1
+house	1
+95	1
+Heavy	1
+guaranteed	1
+speed	1
+far	1
+stop	1
+sending	1
+posted	1
+Anaphase	1
+Yo	1
+letting	1
+moms	1
+layups	1
+dunks	1
+length	1
+height	1
+appropriate	1
+small	1
+obviously	1
+shoulder	1
+width	1
+Fashion	1
+guy's	1
+boy	1
+unk	1
+Unk	1
+station	1
+Speaking	1
+Rich	1
+whack	1
+millennial	1
+chairs	1
+Most	1
+maligned	1
+Jesus	1
+left	1
+building	1
+fix	1
+huh	1
+eventful	1
+weeks	1
+world	1
+major	1
+initially	1
+people's	1
+tendencies	1
+itself	1
+arresting	1
+Mexican	1
+abused	1
+pollos	1
+calling	1
+single	1
+waiting	1
+comfortable	1
+consistent	1
+Talking	1
+able	1
+convince	1
+area	1
+Sleep	1
+five	1
+hours	1
+Their	1
+living	1
+inside	1
+pissing	1
+cubicle	1
+started	1
+question	1
+myself	1
+ridiculous	1
+kept	1
+gaslighting	1
+Also	1
+blown	1
+proportion	1
+unironically	1
+punched	1
+Kaia	1
+mouth	1
+worthy	1
+beyond	1
+Nostalgia	1
+anti	1
+Rupture	1
+Achilles	1
+added	1
+list	1
+felt	1
+Pretty	1
+daily	1
+Angeles	1
+ISB	1
+brought	1
+bag	1
+otherwise	1
+since	1
+Hey	1
+bracketed	1
+scary	1
+experiences	1
+skydiving	1
+activities	1
+non	1
+lady	1
+reaction	1
+pushed	1
+ripper	1
+Cuff	1
+sound	1
+Knott's	1
+Berry	1
+Farms	1
+Absolutely	1
+absolutely	1
+describing	1
+Even	1
+content	1
+protest	1
+shot	1
+scared	1
+lit	1
+experience	1
+Hold	1
+react	1
+og	1
+Nope	1
+bot	1
+channels	1
+actual	1
+original	1
+Turkish	1
+music	1
+background	1
+lighting	1
+cigarette	1
+Australian	1
+Get	1
+receiving	1
+CIA	1
+torture	1
+enhanced	1
+interrogation	1
+human	1
+experienced	1
+1	1
+someone's	1
+answering	1
+Someone's	1
+flyer	1
+Cootie	1
+blame	1
+Cutie	1
+She's	1
+jokes	1
+hyperbolic	1
+language	1
+autism	1
+honestly	1
+sincerely	1
+wear	1
+hat	1
+joke	1
+character	1
+exaggerate	1
+who's	1
+version	1
+October	1
+7th	1
+LOL	1
+younger	1
+Maybe	1
+socialize	1
+minor	1
+indicative	1
+person's	1
+opinions	1
+viral	1
+TikTok	1
+Stuff	1
+must	1
+misogyny	1
+demonstrated	1
+disagree	1
+crack	1
+speaking	1
+popping	1
+expertise	1
+suspect	1
+Anthony	1
+Davis	1
+fakes	1
+fading	1
+reach	1
+At	1
+moves	1
+tickle	1
+balls	1
+top	1
+announcers	1
+dad	1
+garage	1
+When	1
+slams	1
+Patel	1
+Mm	1
+link	1
+intel	1
+reported	1
+Rose	1
+Roger	1
+hell	1
+irredeemable	1
+passes	1
+attempt	1
+Some	1
+pointers	1
+ultimate	1
+teammates	1
+sacrifice	1
+sometimes	1
+fail	1
+Empty	1
+Rosier	1
+airballed	1
+Jake	1
+Tapper	1
+CNN	1
+mine	1
+Zoram	1
+Mamdani	1
+wants	1
+Something	1
+along	1
+lines	1
+yucking	1
+radio	1
+host	1
+imagine	1
+911	1
+running	1
+cheer	1
+haha	1
+different	1
+problem	1
+agreed	1
+hey	1
+retort	1
+Zoran	1
+deserved	1
+riding	1
+remotely	1
+defend	1
+himself	1
+bring	1
+conversation	1
+connect	1
+youngboy	1
+Race	1
+mof	1
+Half	1
+mattress	1
+stores	1
+owned	1
+operated	1
+businesses	1
+laughing	1
+Sort	1
+Organized	1
+across	1
+board	1
+commonly	1
+referred	1
+organized	1
+Nostra	1
+recognized	1
+flight	1
+risk	1
+arrested	1
+investigation	1
+randomly	1
+Pablo	1
+Torre	1
+Investigated	1
+Moose	1
+scandal	1
+abolish	1
+side	1
+deals	1
+assumed	1
+meant	1
+franchise	1
+already	1
+Under	1
+Table	1
+Leonard's	1
+Kawaii	1
+jobs	1
+easy	1
+redeem	1
+times	1
+refused	1
+50	1
+cover	1
+posting	1
+Take	1
+photos	1
+Hi	1
+Leonard	1
+Sportsbooks	1
+explain	1
+Roer	1
+legendary	1
+Point	1
+parlays	1
+sportsbooks	1
+irregular	1
+Rogier	1
+sudden	1
+hundreds	1
+thousands	1
+Rozier	1
+unders	1
+relatively	1
+meaningless	1
+November	1
+March	1
+Surprise	1
+nobody's	1
+linking	1
+Details	1
+involving	1
+backed	1
+multiple	1
+Crazy	1
+Reigns	1
+lunch	1
+Snitched	1
+pertinent	1
+incident	1
+fraud	1
+fraudulent	1
+hidden	1
+cameras	1
+chip	1
+trays	1
+sunglasses	1
+lenses	1
+pre	1
+mark	1
+X	1
+ray	1
+tables	1
+Seems	1
+agenda	1
+vendetta	1
+pro	1
+places	1
+suspicious	1
+poor	1
+yo	1
+Everything	1
+new	1
+billion	1
+requires	1
+effort	1
+Human	1
+school	1
+heist	1
+respect	1
+beat	1
+pay	1
+offer	1
+protection	1
+they'll	1
+set	1
+begin	1
+sitting	1
+concerned	1
+rapping	1
+escape	1
+2023	1
+Poker	1
+Matt	1
+Berkey	1
+told	1
+scamming	1
+stealing	1
+ring	1
+touch	1
+Betty	1
+attitude	1
+happy	1
+grumpy	1
+cheated	1
+By	1
+whole	1
+absolute	1
+rag	1
+Here	1
+unstoppable	1
+Runners	1
+Porter	1
+shared	1
+charity	1
+asshole	1
+tech	1
+CEOs	1
+cleaned	1
+Chelsea	1
+Whereas	1
+Silicon	1
+Valley	1
+excited	1
+possible	1
+technically	1
+drilling	1
+dumbest	1
+group	1
+opposed	1
+targets	1
+whenever	1
+differently	1
+issue	1
+Pros	1
+instead	1
+sort	1
+ton	1
+alarm	1
+flew	1
+Israel	1
+date	1
+Tom	1
+Alexandrovich	1
+Cyber	1
+Benjamin	1
+Netanyahu	1
+Israel's	1
+sting	1
+terrible	1
+listen	1
+jail	1
+podcaster	1
+director	1
+frequently	1
+Think	1
+directors	1
+lets	1
+regional	1
+heads	1
+Valhalla	1
+seriousness	1
+Spectacular	1
+Hilarious	1
+conceive	1
+keeps	1
+lead	1
+investigator	1
+investigative	1
+bias	1
+prosecution	1
+team	1
+claim	1
+fame	1
+wrote	1
+child's	1
+whales	1
+made	1
+60	1
+Chausy	1
+Billis	1
+lifetime	1
+100	1
+threatened	1
+addiction	1
+legends	1
+naming	1
+confirm	1
+deny	1
+everyone	1
+popped	1
+Doing	1
+rings	1
+totally	1
+trigger	1
+hooping	1
+indoor	1
+outdoors	1
+punishing	1
+On	1
+knees	1
+Hell	1
+Apologize	1
+cared	1
+details	1
+Third	1
+kidding	1
+fucked	1
+sophisticated	1
+lesser	1
+sentence	1
+brilliant	1
+Respect	1
+smelt	1
+item	1
+usually	1
+Profile	1
+thinking	1
+XQC	1
+Kick	1
+deal	1
+102	1
+pick	1
+22	1
+media	1
+jewel	1
+thieves	1
+melted	1
+I'd	1
+dot	1
+steal	1
+fence	1
+trunk	1
+car	1
+sheiks	1
+1911	1
+stole	1
+type	1
+bank	1
+robberies	1
+soft	1
+collar	1
+jewelry	1
+theft	1
+audience	1
+locked	1
+ready	1
+sink	1
+untrustworthy	1
+holding	1
+fart	1
+Farted	1
+Terry's	1
+alter	1
+assignment	1
+film	1
+victims	1
+fish	1
+machines	1
+best	1
+relay	1
+easiest	1
+win	1
+spite	1
+cheating	1
+Any	1
+turnover	1
+overlapping	1
+cooking	1
+pack	1
+together	1
+both	1
+schemes	1
+bigger	1
+Bill's	1
+availability	1
+documents	1
+pointing	1
+info	1
+leaked	1
+Damian	1
+Lillard	1
+season	1
+due	1
+Billows	1
+renegotiate	1
+contract	1
+evidence	1
+Ohtani's	1
+Chill	1
+chill	1
+Innocent	1
+Japanese	1
+English	1
+needs	1
+interpreter	1
+WNBA	1
+placing	1
+fairness	1
+Fields	1
+Jazz	1
+except	1
+Jessica	1
+Owen	1
+17	1
+unks	1
+dick	1
+riders	1
+talked	1
+LeBron's	1
+Wow	1
+crying	1
+watched	1
+instantly	1
+turned	1
+overtake	1
+Wendy	1
+wouldn't	1
+survive	1
+second	1
+verbatim	1
+bill	1
+dropping	1
+men	1
+shooting	1
+dribbling	1
+wow	1
+y	1
+'	1
+Ming	1
+connected	1
+kid	1
+supposed	1
+DNC	1
+last	1
+year	1
+rain	1
+checked	1
+trajectory	1
+questions	1
+kicked	1
+during	1
+you've	1
+blonde	1
+Oklahoma	1
+blow	1
+blew	1
+Tik	1
+Tok	1
+Had	1
+Messed	1
+change	1
+earth	1
+closest	1
+dystopia	1
+Mao's	1
+solution	1
+stood	1
+masses	1
+enemy	1
+became	1
+bureaucrats	1
+lingering	1
+bourgeois	1
+elements	1
+undermining	1
+Chinese	1
+prosperity	1
+upon	1
+Cat's	1
+Che	1
+Guevara	1
+Ma	1
+Dong	1
+weird	1
+Wemby's	1
+mouse	1
+inquired	1
+politics	1
+dug	1
+French	1
+automatically	1
+average	1
+American	1
+economic	1
+segment	1
+drive	1
+throughs	1
+order	1
+ordered	1
+max	1
+calories	1
+Arby's	1
+ain't	1
+investigating	1
+donor	1
+owner	1
+Dallas	1
+donors	1
+250	1
+speculation	1
+trade	1
+husband	1
+passed	1
+piss	1
+Sheldon	1
+f	1
+monsters	1
+Trust	1
+call	1
+Steve	1
+forget	1
+casinos	1
+magnets	1
+Sch	1
+scaling	1
+killed	1
+I'M	1
+soon	1
+Lee	1
+producer	1
+TMZ	1
+famously	1
+Kanye	1
+tweet	1
+Client	1
+MAGA	1
+preaching	1
+Adolf	1
+Hitler	1
+Kai	1
+hit	1
+booking	1
+promote	1
+awesome	1
+Thank	1
+pod	1
+Go	1
+their	1
+funnier	1
+promise	1
+apparently	1
+Omega	1
+Superstar	1
+growing	1
+Isn't	1
+yesterday	1
+8k	1
+Z	1
+bone	1
+8K	1
+arranged	1
+Talented	1
+coworker	1
+that'll	1
+Saturday	1
+baby	1
+City	1
+Sunday	1
+Yorker	1
+Magazine	1
+Festival	1
+might	1
+Little	1
+rally	1
+potentially	1
+aoc	1
+Bernie's	1
+Peace	1
+
+== Speaker B Word Frequency ==
+.	80
+to	41
+the	37
+,	36
+that	25
+a	22
+is	21
+of	20
+I	15
+you	12
+have	12
+it	11
+in	10
+And	9
+and	8
+are	8
+?	7
+with	7
+be	7
+for	7
+they	7
+right	7
+what	6
+So	6
+say	6
+rent	6
+But	5
+That	5
+was	5
+point	5
+on	5
+more	5
+do	5
+not	5
+these	5
+It	5
+think	4
+we	4
+go	4
+at	4
+want	4
+people	4
+so	4
+who	4
+can	4
+actually	4
+increase	4
+those	4
+reason	4
+Yeah	4
+there's	4
+it's	4
+$	4
+000	4
+make	4
+this	3
+Avenue	3
+subway	3
+my	3
+though	3
+about	3
+like	3
+did	3
+going	3
+back	3
+Because	3
+%	3
+2	3
+also	3
+same	3
+every	3
+units	3
+which	3
+how	3
+year	3
+housing	3
+then	3
+street	2
+just	2
+Look	2
+were	2
+Second	2
+70	2
+It's	2
+even	2
+MTA	2
+When	2
+first	2
+spent	2
+than	2
+construction	2
+you're	2
+we're	2
+means	2
+politics	2
+that's	2
+Eric	2
+Adams	2
+efficiency	2
+You	2
+if	2
+concerns	2
+should	2
+1	2
+by	2
+New	2
+Yorkers	2
+increased	2
+can't	2
+why	2
+has	2
+intentions	2
+million	2
+new	2
+The	2
+stabilization	2
+Rent	2
+much	2
+your	2
+all	2
+board	2
+terms	2
+there	2
+open	2
+study	2
+12	2
+median	2
+household	2
+income	2
+doesn't	2
+truly	2
+affordable	2
+I'll	2
+up	2
+city	2
+sector	2
+build	2
+truth	2
+believe	2
+regulation	2
+cannot	2
+justify	2
+sense	2
+me	2
+out	2
+revolution	2
+got	1
+from	1
+96th	1
+100	1
+Street	1
+Did	1
+hear	1
+he	1
+says	1
+fine	1
+seconds	1
+86	1
+96	1
+don't	1
+125	1
+horrible	1
+Use	1
+poll	1
+Here's	1
+Is	1
+Harlem	1
+promised	1
+125th	1
+decades	1
+ago	1
+taken	1
+us	1
+long	1
+get	1
+We	1
+connect	1
+head	1
+design	1
+Thank	1
+gonna	1
+work	1
+larger	1
+here	1
+when	1
+phase	1
+construct	1
+second	1
+money	1
+consultants	1
+part	1
+issue	1
+transform	1
+inner	1
+workings	1
+government	1
+ending	1
+patronage	1
+There	1
+lot	1
+jobs	1
+know	1
+specific	1
+bringing	1
+Bring	1
+waste	1
+wait	1
+Andrew	1
+Cuomo	1
+other	1
+Okay	1
+here's	1
+Sad	1
+stuck	1
+Elon	1
+Musk	1
+Take	1
+words	1
+fraud	1
+as	1
+wing	1
+These	1
+heart	1
+progressive	1
+taxes	1
+top	1
+To	1
+able	1
+look	1
+revenue	1
+single	1
+one	1
+dollars	1
+being	1
+efficiently	1
+itself	1
+deliver	1
+idea	1
+yeah	1
+never	1
+intended	1
+fulfill	1
+About	1
+/	1
+live	1
+kinds	1
+apartments	1
+They're	1
+living	1
+market	1
+I'd	1
+control	1
+very	1
+small	1
+minority	1
+vast	1
+majority	1
+talking	1
+limit	1
+will	1
+determined	1
+called	1
+Guidelines	1
+Board	1
+composed	1
+nine	1
+mayor	1
+appoints	1
+Yes	1
+Each	1
+kind	1
+rotating	1
+basis	1
+number	1
+now	1
+under	1
+found	1
+landlord	1
+profits	1
+had	1
+tenants	1
+60	1
+information	1
+decided	1
+let's	1
+hike	1
+again	1
+data	1
+making	1
+policy	1
+eight	1
+half	1
+couple	1
+freeze	1
+200	1
+homes	1
+because	1
+represent	1
+Steinway	1
+Astoria	1
+call	1
+constituent	1
+development	1
+coming	1
+Do	1
+apply	1
+They'll	1
+140	1
+hang	1
+phone	1
+You're	1
+afford	1
+thinking	1
+affordability	1
+York	1
+family	1
+four	1
+easier	1
+private	1
+Where	1
+I'm	1
+somebody	1
+believes	1
+public	1
+give	1
+no	1
+exist	1
+restaurant	1
+giving	1
+25	1
+sell	1
+frozen	1
+dessert	1
+something	1
+eliminated	1
+someone	1
+wants	1
+barbershop	1
+filling	1
+24	1
+forms	1
+seven	1
+agencies	1
+attending	1
+person	1
+events	1
+does	1
+Some	1
+regulations	1
+we've	1
+created	1
+made	1
+far	1
+difficult	1
+justifications	1
+used	1
+ones	1
+been	1
+borne	1
+today	1
+need	1
+change	1
+21	1
+allowed	1
+keep	1
+playing	1
+always	1
+less	1
+Of	1
+
+== Speaker C Word Frequency ==
+.	50
+,	28
+I	21
+to	13
+the	13
+that	12
+like	12
+it	10
+you	9
+think	9
+people	7
+And	7
+we	6
+%	6
+?	5
+of	5
+is	5
+have	5
+are	5
+rent	5
+a	5
+there	4
+you're	4
+if	4
+You	4
+units	4
+can	4
+just	4
+those	3
+with	3
+them	3
+But	3
+other	3
+but	3
+some	3
+I'm	3
+what	3
+Yeah	3
+going	3
+who	3
+was	3
+So	3
+all	3
+agree	3
+about	3
+someone	3
+me	3
+do	3
+50	3
+Got	3
+Like	3
+21	3
+build	2
+It's	2
+been	2
+didn't	2
+could	2
+connect	2
+too	2
+We	2
+right	2
+No	2
+not	2
+their	2
+great	2
+these	2
+need	2
+get	2
+100	2
+in	2
+they	2
+know	2
+might	2
+be	2
+he's	2
+want	2
+trying	1
+more	1
+white	1
+subways	1
+man	1
+never	1
+wanted	1
+at	1
+any	1
+stops	1
+always	1
+against	1
+second	1
+Avenue	1
+subway	1
+Why	1
+start	1
+What	1
+way	1
+started	1
+up	1
+would	1
+done	1
+Now	1
+making	1
+good	1
+decisions	1
+All	1
+taking	1
+back	1
+my	1
+2	1
+no	1
+hear	1
+saying	1
+got	1
+51st	1
+judge	1
+watch	1
+others	1
+sex	1
+wives	1
+That	1
+Some	1
+say	1
+that's	1
+efficient	1
+Doge	1
+universally	1
+supported	1
+before	1
+became	1
+The	1
+intentions	1
+were	1
+That's	1
+My	1
+hand	1
+most	1
+important	1
+issue	1
+which	1
+it's	1
+absurd	1
+freeze	1
+incredibly	1
+effective	1
+communication	1
+This	1
+idea	1
+because	1
+everybody	1
+else	1
+talking	1
+we're	1
+When	1
+drowning	1
+worried	1
+building	1
+boat	1
+life	1
+vest	1
+makes	1
+sense	1
+correct	1
+wrong	1
+New	1
+York	1
+Because	1
+apartments	1
+pretty	1
+much	1
+They're	1
+stabilizer	1
+controlled	1
+yeah	1
+How	1
+offer	1
+relief	1
+let	1
+clarify	1
+listening	1
+aren't	1
+necessarily	1
+wealthy	1
+work	1
+here	1
+ability	1
+one	1
+control	1
+appoint	1
+appointing	1
+process	1
+even	1
+take	1
+little	1
+bit	1
+point	1
+and	1
+People	1
+empathetic	1
+your	1
+philosophies	1
+already	1
+affordable	1
+housing	1
+love	1
+Ezra	1
+Klein	1
+put	1
+out	1
+book	1
+unfairly	1
+maligned	1
+by	1
+A	1
+lot	1
+on	1
+left	1
+where	1
+hey	1
+appreciate	1
+Democratic	1
+policies	1
+implement	1
+they're	1
+better	1
+for	1
+certain	1
+things	1
+remove	1
+so	1
+competitive	1
+an	1
+open	1
+market	1
+how	1
+First	1
+completely	1
+as	1
+has	1
+renovating	1
+above	1
+please	1
+believe	1
+fact	1
+regulation	1
+Do	1
+mean	1
+kid	1
+who's	1
+months	1
+old	1
+sleep	1
+somebody's	1
+
+== Speaker D Word Frequency ==
+.	491
+,	336
+like	136
+I	113
+the	104
+a	79
+to	69
+that	68
+Yeah	65
+you	61
+?	60
+it	49
+and	49
+they	42
+be	35
+is	34
+don't	34
+he	34
+of	32
+was	32
+in	30
+just	29
+that's	29
+Like	25
+on	25
+That's	25
+And	25
+Oh	24
+for	24
+know	24
+this	23
+not	22
+at	22
+if	22
+have	21
+think	20
+what	20
+are	18
+people	18
+going	18
+So	18
+no	17
+I'm	17
+do	17
+out	16
+yeah	16
+we	16
+it's	16
+got	15
+He	15
+because	15
+me	15
+But	15
+his	15
+You	14
+gonna	14
+then	14
+him	14
+with	14
+about	13
+so	13
+some	13
+get	13
+say	13
+No	12
+up	12
+It's	12
+there	12
+something	12
+how	11
+They	11
+why	11
+feel	11
+they're	11
+would	11
+go	10
+What	10
+one	10
+oh	10
+all	10
+were	10
+an	10
+crazy	10
+He's	10
+thing	10
+The	10
+right	10
+or	9
+us	9
+man	9
+want	9
+he's	9
+from	8
+though	8
+did	8
+This	8
+way	8
+little	8
+make	8
+poker	8
+Chauncey	8
+NBA	8
+said	8
+who	8
+I've	7
+their	7
+my	7
+actually	7
+probably	7
+when	7
+as	7
+good	7
+Terry	7
+saying	7
+guy	7
+LeBron	7
+Yes	6
+lot	6
+never	6
+them	6
+during	6
+over	6
+We	6
+doing	6
+where	6
+should	6
+by	6
+can't	6
+yo	6
+Because	6
+look	6
+They're	6
+bit	6
+you're	6
+more	6
+sure	5
+bro	5
+time	5
+see	5
+doesn't	5
+real	5
+player	5
+kind	5
+mean	5
+Rosier	5
+there's	5
+play	5
+ass	5
+has	5
+money	5
+even	5
+caught	5
+It	5
+didn't	5
+information	5
+game	5
+Justin	5
+Let's	4
+guilty	4
+black	4
+seen	4
+our	4
+put	4
+literally	4
+What's	4
+take	4
+called	4
+we're	4
+basketball	4
+ever	4
+games	4
+cheating	4
+mafia	4
+You're	4
+now	4
+been	4
+million	4
+pro	4
+players	4
+If	4
+back	4
+had	4
+could	4
+used	4
+might	4
+Yao	4
+guys	3
+Right	3
+Don't	3
+Well	3
+before	3
+most	3
+hate	3
+There's	3
+talking	3
+woke	3
+coming	3
+love	3
+Okay	3
+wasn't	3
+really	3
+down	3
+getting	3
+speech	3
+Mike	3
+sometimes	3
+cut	3
+ball	3
+first	3
+find	3
+your	3
+Is	3
+Damn	3
+A	3
+place	3
+believe	3
+call	3
+insane	3
+Man	3
+two	3
+gambling	3
+events	3
+Billups	3
+keep	3
+here	3
+too	3
+almost	3
+face	3
+hope	3
+bad	3
+years	3
+Mafia	3
+knew	3
+wonder	3
+pay	3
+can	3
+but	3
+winning	3
+matter	3
+Kind	3
+these	3
+also	3
+involved	3
+feds	3
+better	3
+big	3
+wrong	3
+least	3
+somebody	3
+gotta	3
+than	3
+basically	3
+best	3
+notebook	3
+ask	3
+question	3
+insider	3
+Hey	3
+Got	3
+known	3
+connected	3
+media	3
+Fields	3
+owner	3
+Obama	3
+happened	2
+speak	2
+much	2
+Even	2
+making	2
+videos	2
+lie	2
+beef	2
+clip	2
+holidays	2
+damn	2
+her	2
+They'll	2
+press	2
+When	2
+anything	2
+Now	2
+Do	2
+off	2
+Crash	2
+Dummies	2
+fire	2
+already	2
+Someone	2
+Why	2
+Anthony	2
+Davis	2
+which	2
+dude	2
+fake	2
+days	2
+later	2
+dunked	2
+well	2
+obviously	2
+picture	2
+person	2
+news	2
+fun	2
+expert	2
+court	2
+Just	2
+turn	2
+God	2
+head	2
+pull	2
+drive	2
+definitely	2
+anybody	2
+being	2
+five	2
+hey	2
+thought	2
+arrested	2
+surprise	2
+enough	2
+any	2
+problem	2
+someone	2
+create	2
+company	2
+give	2
+let's	2
+Not	2
+talks	2
+only	2
+those	2
+regular	2
+beat	2
+trying	2
+stop	2
+found	2
+does	2
+Irish	2
+until	2
+what's	2
+year	2
+apart	2
+twice	2
+Trump	2
+live	2
+guess	2
+thrill	2
+addicted	2
+interview	2
+truck	2
+told	2
+bigger	2
+publicity	2
+both	2
+life	2
+try	2
+again	2
+sell	2
+Mona	2
+Lisa	2
+Your	2
+connection	2
+That	2
+team	2
+grandsons	2
+seven	2
+quote	2
+rigged	2
+cards	2
+came	2
+lawyers	2
+addiction	2
+With	2
+stay	2
+I'll	2
+fan	2
+Ming	2
+meet	2
+meeting	2
+met	2
+come	2
+she's	2
+Twitch	2
+hell	2
+Zany's	2
+Chris	2
+agree	1
+learned	1
+will	1
+dogs	1
+outrage	1
+S	1
+forgot	1
+tweeted	1
+nap	1
+Lois	1
+sleeping	1
+dudes	1
+weirdos	1
+talented	1
+Obviously	1
+Their	1
+following	1
+2am	1
+paying	1
+attention	1
+scared	1
+ready	1
+funny	1
+work	1
+McDonald's	1
+basket	1
+pass	1
+Doesn't	1
+shot	1
+podcasts	1
+TMG	1
+studios	1
+Shout	1
+tmg	1
+collabs	1
+Noel	1
+Pack	1
+cuffs	1
+date	1
+There	1
+women	1
+group	1
+times	1
+held	1
+door	1
+open	1
+Always	1
+tase	1
+kidnapped	1
+gimp	1
+mask	1
+cuffed	1
+blindfolded	1
+everything	1
+Bro	1
+disappear	1
+hour	1
+drag	1
+feet	1
+tunnel	1
+close	1
+casket	1
+Every	1
+jacket	1
+cameraman	1
+exposing	1
+hiding	1
+spots	1
+wait	1
+filming	1
+B	1
+roll	1
+Can	1
+video	1
+Chat	1
+gear	1
+haunted	1
+house	1
+Did	1
+charge	1
+between	1
+snatch	1
+towel	1
+character	1
+sat	1
+turned	1
+camera	1
+where's	1
+she	1
+still	1
+around	1
+same	1
+initially	1
+exaggerating	1
+exaggerate	1
+glad	1
+Take	1
+serious	1
+There'll	1
+many	1
+clips	1
+sexist	1
+depth	1
+conversation	1
+girlfriend	1
+versus	1
+guarding	1
+playing	1
+fall	1
+simple	1
+moves	1
+stupid	1
+PJ	1
+Washington	1
+jumped	1
+7	1
+4	1
+rising	1
+mid	1
+range	1
+Wendy	1
+pump	1
+falling	1
+outside	1
+pit	1
+finding	1
+business	1
+watching	1
+film	1
+notice	1
+favorite	1
+isn't	1
+crimes	1
+swaggy	1
+we've	1
+heard	1
+men	1
+Whatever	1
+In	1
+seeing	1
+hilarious	1
+witnesses	1
+coach	1
+witness	1
+saw	1
+See	1
+rooting	1
+shooting	1
+Three	1
+Look	1
+Watch	1
+Come	1
+turnover	1
+kept	1
+jumping	1
+defender	1
+shoot	1
+either	1
+hair	1
+outsourced	1
+heritage	1
+passed	1
+established	1
+after	1
+gang	1
+everybody's	1
+haven't	1
+jail	1
+scary	1
+part	1
+always	1
+usually	1
+important	1
+storm	1
+arrest	1
+Billows	1
+coaching	1
+night	1
+feeling	1
+Where	1
+chips	1
+may	1
+lay	1
+conference	1
+weird	1
+teams	1
+baseball	1
+Anytime	1
+For	1
+50	1
+budget	1
+30	1
+extra	1
+3	1
+we'll	1
+27	1
+let	1
+wants	1
+main	1
+Rozier	1
+FBI	1
+office	1
+clicks	1
+lead	1
+wanted	1
+bag	1
+forming	1
+lunch	1
+Bill	1
+Multiple	1
+families	1
+Altered	1
+car	1
+machines	1
+hitting	1
+cameras	1
+putting	1
+inviting	1
+Reddit	1
+pros	1
+losing	1
+Texas	1
+hold	1
+'	1
+Em	1
+casinos	1
+Shame	1
+po	1
+Pro	1
+earlier	1
+Chauncey's	1
+beating	1
+home	1
+tell	1
+away	1
+Money	1
+man's	1
+pockets	1
+cheated	1
+gets	1
+visit	1
+nothing	1
+Maybe	1
+muscle	1
+looks	1
+very	1
+nerve	1
+wracking	1
+rapper	1
+rapped	1
+knowing	1
+three	1
+months	1
+under	1
+investigation	1
+gathering	1
+tried	1
+huh	1
+Read	1
+completely	1
+smash	1
+Interesting	1
+throwing	1
+event	1
+crime	1
+walking	1
+into	1
+ones	1
+hosting	1
+Some	1
+win	1
+every	1
+consistent	1
+stories	1
+knowledge	1
+Nah	1
+Wait	1
+Italian	1
+smart	1
+says	1
+He'll	1
+disagrees	1
+else	1
+Of	1
+boy	1
+threes	1
+shirt	1
+grace	1
+approached	1
+Portland	1
+pick	1
+maybe	1
+once	1
+Who	1
+recent	1
+free	1
+throw	1
+Black	1
+logo	1
+New	1
+Jack	1
+City	1
+Kareem	1
+Akbar	1
+educated	1
+brother	1
+bank	1
+cmb	1
+brains	1
+behind	1
+whole	1
+Nino	1
+Brown	1
+Harlem	1
+stunt	1
+sign	1
+long	1
+ago	1
+Long	1
+shape	1
+lying	1
+unking	1
+blames	1
+private	1
+leave	1
+keeps	1
+signed	1
+butterfly	1
+effect	1
+lure	1
+ladder	1
+competition	1
+secure	1
+break	1
+60	1
+blend	1
+artifacts	1
+possession	1
+Artifact	1
+sold	1
+piece	1
+cover	1
+15	1
+bucks	1
+show	1
+stealing	1
+steal	1
+art	1
+Somebody	1
+White	1
+collar	1
+chat's	1
+eventually	1
+answer	1
+myself	1
+betted	1
+ankle	1
+injury	1
+LeBron's	1
+shit	1
+streak	1
+ended	1
+young	1
+six	1
+respect	1
+troll	1
+Six	1
+bar	1
+hall	1
+Fame	1
+trading	1
+saga	1
+Players	1
+cage	1
+such	1
+whether	1
+trial	1
+public	1
+scheme	1
+targeted	1
+victims	1
+fish	1
+often	1
+lured	1
+participate	1
+chance	1
+alongside	1
+former	1
+professional	1
+athletes	1
+dealer	1
+including	1
+scam	1
+deck	1
+predict	1
+table	1
+site	1
+operator	1
+Those	1
+misses	1
+Winner	1
+Everybody	1
+stops	1
+stares	1
+sense	1
+brotherhood	1
+link	1
+other	1
+type	1
+crossover	1
+worst	1
+name	1
+yet	1
+popular	1
+foregone	1
+conclusion	1
+looking	1
+lost	1
+debt	1
+Honestly	1
+Make	1
+Chill	1
+Almost	1
+billionaire	1
+grit	1
+tricked	1
+ah	1
+Was	1
+jets	1
+Field	1
+sucks	1
+reporter	1
+social	1
+defend	1
+himself	1
+doubts	1
+Insane	1
+asshole	1
+suck	1
+Protect	1
+unique	1
+another	1
+Jordan	1
+swear	1
+reason	1
+Whoa	1
+whoa	1
+goat	1
+sudden	1
+Wemby	1
+average	1
+era	1
+alien	1
+possibly	1
+guard	1
+today	1
+front	1
+imagine	1
+Ben	1
+Wallace	1
+dribbling	1
+Have	1
+went	1
+watched	1
+highlight	1
+stiffest	1
+you'll	1
+tallest	1
+they'd	1
+At	1
+convention	1
+where'd	1
+America	1
+y	1
+Connecting	1
+reaching	1
+casually	1
+Supposed	1
+classic	1
+couple	1
+interviews	1
+Ferns	1
+One	1
+podcast	1
+Fire	1
+Me	1
+Get	1
+options	1
+Step	1
+step	1
+overreacting	1
+overreact	1
+lottery	1
+Him	1
+spurs	1
+Spurs	1
+Cooper	1
+Flag	1
+Mask	1
+Times	1
+cash	1
+Patel's	1
+Let	1
+roast	1
+cheddar	1
+cheese	1
+remember	1
+Before	1
+younger	1
+Arby's	1
+realized	1
+fast	1
+food	1
+deli	1
+meat	1
+hit	1
+creating	1
+Mavericks	1
+Casino	1
+Which	1
+next	1
+maps	1
+traded	1
+Luca	1
+team's	1
+relevant	1
+easy	1
+move	1
+Wow	1
+early	1
+source	1
+that'd	1
+nice	1
+Nice	1
+Second	1
+T	1
+Pain	1
+promote	1
+Pat	1
+cdp	1
+stream	1
+promo	1
+Comedy	1
+Club	1
+Back	1
+Chad	1
+rate	1
+raid	1
+Bieber	1
+To	1
+knows	1
+idea	1
+Never	1
+
+== Speaker E Word Frequency ==
+.	275
+,	173
+like	80
+I	68
+the	48
+it	46
+a	41
+that	40
+you	37
+was	34
+?	29
+think	28
+to	28
+Yeah	27
+of	24
+just	21
+he	21
+in	20
+is	19
+on	17
+they	16
+for	15
+be	15
+with	15
+have	15
+Oh	15
+people	14
+do	14
+this	13
+what	13
+when	12
+would	12
+Like	12
+But	12
+too	12
+been	11
+So	11
+don't	11
+it's	11
+though	11
+know	11
+said	10
+good	10
+and	10
+And	9
+not	9
+how	8
+You	8
+stuff	8
+one	8
+got	8
+I'm	8
+there	8
+but	8
+crazy	8
+are	8
+Mafia	8
+time	7
+all	7
+No	7
+so	7
+him	7
+see	7
+That's	7
+Because	7
+even	7
+were	7
+much	6
+some	6
+feel	6
+at	6
+yeah	6
+The	6
+about	6
+They	6
+out	6
+Okay	6
+can	6
+or	6
+It's	6
+He	6
+has	6
+that's	5
+I've	5
+A	5
+lot	5
+you're	5
+things	5
+injury	5
+my	5
+That	5
+game	5
+We	5
+It	5
+making	5
+want	5
+kind	5
+an	5
+as	5
+always	5
+doing	5
+saying	5
+his	5
+money	5
+get	5
+mean	5
+live	5
+he's	4
+these	4
+This	4
+probably	4
+day	4
+really	4
+We're	4
+there's	4
+gonna	4
+different	4
+now	4
+How	4
+did	4
+house	4
+tied	4
+something	4
+post	4
+gotta	4
+before	4
+could	4
+off	4
+say	4
+your	4
+we	4
+didn't	4
+thing	4
+right	4
+no	4
+Is	4
+play	4
+What	4
+year	4
+Gilbert	4
+caught	4
+poker	4
+never	4
+type	4
+Internet	3
+long	3
+give	3
+their	3
+stream	3
+month	3
+oh	3
+When	3
+basketball	3
+haunted	3
+up	3
+more	3
+definitely	3
+purpose	3
+us	3
+sarcastic	3
+gets	3
+trouble	3
+such	3
+getting	3
+head	3
+same	3
+change	3
+gambling	3
+games	3
+still	3
+doesn't	3
+cool	3
+them	3
+words	3
+going	3
+why	3
+next	3
+months	3
+hosting	3
+Chauncey	3
+coach	3
+because	3
+might	3
+only	3
+crown	3
+Right	2
+wonder	2
+you've	2
+You've	2
+first	2
+somebody	2
+seen	2
+they're	2
+our	2
+life	2
+Achilles	2
+being	2
+cameras	2
+made	2
+little	2
+bit	2
+try	2
+Pat	2
+over	2
+me	2
+eat	2
+started	2
+somewhere	2
+way	2
+sports	2
+NBA	2
+players	2
+betting	2
+ones	2
+hard	2
+played	2
+nothing	2
+everybody	2
+real	2
+guess	2
+thinking	2
+makes	2
+couple	2
+actually	2
+Malik	2
+Beasley	2
+On	2
+whole	2
+scamming	2
+Arenas	2
+posted	2
+had	2
+name	2
+thought	2
+if	2
+business	2
+win	2
+can't	2
+bro	2
+federal	2
+come	2
+Trump	2
+tough	2
+His	2
+back	2
+another	2
+hurt	2
+times	2
+two	2
+pretty	2
+museum	2
+stole	2
+heard	2
+down	2
+melt	2
+gold	2
+100	2
+million	2
+buyer	2
+heist	2
+black	2
+English	2
+needs	2
+haven't	2
+Damn	2
+Or	2
+Arby's	2
+both	2
+Zach	2
+Fox	2
+show	2
+We'll	2
+Thank	1
+sir	1
+Hard	1
+er	1
+paying	1
+questionable	1
+past	1
+known	1
+backlash	1
+firsthand	1
+truth	1
+interesting	1
+complain	1
+crate	1
+dogs	1
+work	1
+Funny	1
+honestly	1
+audience	1
+we're	1
+LA	1
+either	1
+There's	1
+many	1
+angles	1
+factors	1
+changing	1
+Not	1
+normal	1
+ruptured	1
+playing	1
+freaking	1
+Hassan	1
+piker	1
+casual	1
+Thanksgiving	1
+today	1
+escape	1
+room	1
+learned	1
+Just	1
+dangerous	1
+situations	1
+Pac	1
+content	1
+doable	1
+done	1
+spare	1
+Probably	1
+sometimes	1
+Try	1
+Tasers	1
+cuffed	1
+pouring	1
+blood	1
+flower	1
+salivate	1
+spitting	1
+everywhere	1
+comes	1
+we'll	1
+They'll	1
+group	1
+takes	1
+Prefer	1
+What's	1
+Hasan	1
+told	1
+hour	1
+Dude	1
+funny	1
+taken	1
+seriously	1
+problem	1
+Sometimes	1
+explain	1
+simple	1
+extreme	1
+analogy	1
+blown	1
+true	1
+exactly	1
+In	1
+tone	1
+need	1
+voice	1
+wouldn't	1
+argue	1
+girls	1
+go	1
+Was	1
+chy	1
+talking	1
+Sports	1
+world	1
+Especially	1
+NFL	1
+lying	1
+Those	1
+prove	1
+attempts	1
+missed	1
+miss	1
+second	1
+contract	1
+cooked	1
+Jake	1
+Tapper	1
+gray	1
+hair	1
+else	1
+Would	1
+defend	1
+himself	1
+excuse	1
+Crazy	1
+Do	1
+Still	1
+movie	1
+Italian	1
+sounds	1
+organized	1
+ever	1
+mafia	1
+went	1
+Chaucey	1
+Highlights	1
+highlights	1
+from	1
+investigated	1
+well	1
+found	1
+salary	1
+cap	1
+baseball	1
+Andre	1
+Kurylenko	1
+Even	1
+company	1
+Terry	1
+news	1
+saw	1
+arena	1
+let	1
+joking	1
+informant	1
+Look	1
+Twitter	1
+page	1
+Go	1
+burritos	1
+lunch	1
+happened	1
+ago	1
+illegal	1
+ring	1
+elsewhere	1
+random	1
+Bill	1
+legend	1
+hedge	1
+those	1
+tens	1
+millions	1
+dollars	1
+Thomas	1
+Biller	1
+presence	1
+stand	1
+fist	1
+flying	1
+They're	1
+I'd	1
+snitch	1
+man	1
+determine	1
+lose	1
+cheating	1
+obviously	1
+every	1
+around	1
+famous	1
+guy	1
+pros	1
+losing	1
+confidence	1
+take	1
+dude	1
+happen	1
+Cash	1
+Patel	1
+case	1
+during	1
+political	1
+Ok	1
+who	1
+other	1
+Merchant	1
+Somebody	1
+merge	1
+Omania	1
+Hulk	1
+Hogan	1
+fan	1
+Hey	1
+it'd	1
+social	1
+media	1
+era	1
+listen	1
+With	1
+Gilbert's	1
+using	1
+renting	1
+actual	1
+hooping	1
+lately	1
+Boxing	1
+boxing	1
+fight	1
+mentally	1
+Play	1
+Another	1
+maybe	1
+five	1
+creator	1
+last	1
+Both	1
+Within	1
+three	1
+four	1
+span	1
+felt	1
+bad	1
+wasn't	1
+supposed	1
+should	1
+smart	1
+rob	1
+dust	1
+lvor	1
+smash	1
+glass	1
+melting	1
+after	1
+destination	1
+melted	1
+worth	1
+Got	1
+less	1
+imagine	1
+by	1
+finding	1
+already	1
+then	1
+start	1
+hey	1
+jewel	1
+buy	1
+Who	1
+buyers	1
+movies	1
+make	1
+Six	1
+seven	1
+Let's	1
+mince	1
+bookie	1
+side	1
+overlapping	1
+Rosier	1
+questioning	1
+Which	1
+Dame	1
+amount	1
+1	1
+splits	1
+operation	1
+cost	1
+suburbans	1
+LeBron	1
+talk	1
+interpreter	1
+watched	1
+football	1
+injuries	1
+especially	1
+Wimy	1
+build	1
+legit	1
+Hopefully	1
+An	1
+trajection	1
+Could	1
+dumpster	1
+fire	1
+remember	1
+became	1
+monk	1
+far	1
+investigation	1
+order	1
+roast	1
+beef	1
+bees	1
+flew	1
+Zoron	1
+style	1
+alternative	1
+opinion	1
+Andrew	1
+Schultz	1
+moment	1
+having	1
+sides	1
+podcast	1
+Van	1
+Layton	1
+worked	1
+tmz	1
+general	1
+coming	1
+Milwaukee	1
+You're	1
+trying	1
+pod	1
+See	1
+likes	1
+hardly	1
+CD	1
+Chicago	1
+January	1
+4th	1
+anything	1
+yet	1
+shows	1
+listener	1
+callers	1
+crowd	1
+interaction	1
+Nah	1
+Small	1
+creators	1
+All	1
+Process	1
+beautiful	1
+Absolutely	1
+He's	1
+standing	1
+Can	1
+grab	1
+beers	1
+Wait	1
+Kyle	1
+
+== Speaker F Word Frequency ==
+,	21
+.	17
+it	9
+the	8
+and	8
+I	8
+a	6
+of	6
+like	6
+And	5
+are	4
+was	4
+game	4
+in	4
+to	3
+lot	3
+about	3
+that	3
+up	3
+who	3
+know	3
+not	2
+?	2
+There	2
+There's	2
+this	2
+LA	2
+Vegas	2
+for	2
+heard	2
+had	2
+100	2
+you	2
+went	2
+just	2
+How	1
+much	1
+We're	1
+Yeah	1
+God	1
+kids	1
+so	1
+manipulated	1
+man	1
+Played	1
+reg	1
+T	1
+right	1
+stories	1
+one	1
+cropped	1
+This	1
+must	1
+have	1
+been	1
+5	1
+years	1
+ago	1
+2019ish	1
+started	1
+then	1
+came	1
+few	1
+days	1
+all	1
+built	1
+around	1
+Chauncey	1
+Billups	1
+her	1
+person	1
+told	1
+me	1
+look	1
+Well	1
+I'm	1
+telling	1
+is	1
+on	1
+we	1
+kind	1
+back	1
+forth	1
+agreed	1
+wasn't	1
+gonna	1
+go	1
+play	1
+but	1
+some	1
+friends	1
+played	1
+both	1
+obviously	1
+sure	1
+confirmed	1
+be	1
+cheated	1
+Like	1
+people	1
+clearly	1
+didn't	1
+even	1
+understand	1
+rules	1
+no	1
+Limit	1
+hold	1
+'	1
+Em	1
+jamming	1
+hundreds	1
+big	1
+blinds	1
+with	1
+gutty	1
+Only	1
+pros	1
+losing	1
+Really	1
+
+== Speaker G Word Frequency ==
+is	18
+the	10
+dreaming	9
+A	7
+.	6
+he	6
+again	6
+sun	6
+you	6
+son	5
+in	5
+There	4
+streaming	3
+your	3
+and	3
+three	3
+to	3
+a	3
+all	3
+can	3
+so	3
+through	3
+hey	3
+say	3
+her	2
+on	2
+whole	2
+out	2
+online	2
+full	2
+of	2
+90	2
+mass	2
+there	2
+broken	2
+blown	2
+find	2
+whether	2
+what	2
+minute	2
+but	2
+he'll	2
+soon	2
+wait	2
+What	1
+Yeah	1
+Shoot	1
+that	1
+Reviewing	1
+po	1
+box	1
+uncle	1
+Uyghurs	1
+face	1
+sudden	1
+discord	1
+agit	1
+prop	1
+gray	1
+new	1
+take	1
+race	1
+tiny	1
+Bernie	1
+Sanders	1
+LGBTQ	1
+Air	1
+Force	1
+left	1
+at	1
+fingertips	1
+I	1
+nay	1
+door	1
+age	1
+crowder	1
+debate	1
+young	1
+terms	1
+show	1
+fucking	1
+years	1
+this	1
+plenty	1
+more	1
+go	1
+day	1
+fiance	1
+toxic	1
+champagne	1
+bourgeoisie	1
+Trump	1
+rally	1
+live	1
+reaction	1
+riot	1
+D	1
+C	1
+Us	1
+his	1
+Reading	1
+livestream	1
+fail	1
+comments	1
+are	1
+Austin	1
+Cho	1
+Chad	1
+Vice	1
+ways	1
+right	1
+wing	1
+pipeline	1
+suck	1
+JCS	1
+react	1
+COD	1
+frame	1
+gets	1
+cover	1
+pandemic	1
+Months	1
+home	1
+total	1
+radicalization	1
+coming	1
+system	1
+were	1
+taught	1
+trust	1
+was	1
+time	1
+these	1
+daily	1
+streams	1
+big	1
+or	1
+small	1
+have	1
+helped	1
+me	1
+many	1
+some	1
+meaning	1
+it	1
+3	1
+add	1
+play	1
+no	1
+pig	1
+ad	1
+watch	1
+days	1
+just	1
+
+== Speaker H Word Frequency ==
+.	18
+,	15
+and	13
+the	9
+as	5
+are	4
+to	4
+sports	3
+NBA	3
+of	3
+in	3
+that	3
+was	3
+from	3
+crime	3
+more	3
+is	2
+two	2
+different	2
+Operation	2
+The	2
+rather	2
+shocking	2
+games	2
+on	2
+about	2
+separate	2
+technology	2
+including	2
+arrested	2
+coach	2
+well	2
+New	2
+York	2
+mafia	2
+families	2
+Bryn	2
+for	2
+who	2
+prosecuted	2
+organized	2
+Barrett	2
+illegal	2
+Gambling	1
+rigging	1
+schemes	1
+sending	1
+shockwaves	1
+across	1
+United	1
+States	1
+This	1
+all	1
+part	1
+major	1
+federal	1
+investigations	1
+dubbed	1
+Nothing	1
+but	1
+BET	1
+Royal	1
+Flush	1
+accusations	1
+indictments	1
+Faking	1
+injuries	1
+underperforming	1
+purpose	1
+even	1
+giving	1
+insider	1
+tips	1
+other	1
+players	1
+such	1
+Lakers	1
+star	1
+LeBron	1
+James	1
+Then	1
+there	1
+case	1
+rigged	1
+poker	1
+where	1
+officials	1
+say	1
+high	1
+tech	1
+cheating	1
+special	1
+contact	1
+lenses	1
+X	1
+ray	1
+devices	1
+could	1
+see	1
+through	1
+face	1
+down	1
+cards	1
+That	1
+used	1
+steal	1
+millions	1
+victims	1
+So	1
+far	1
+34	1
+people	1
+have	1
+been	1
+Portland	1
+Trailblazers	1
+head	1
+hall	1
+Famer	1
+Chauncey	1
+Billups	1
+Miami	1
+Heat	1
+guard	1
+Terry	1
+Rozier	1
+former	1
+player	1
+Damon	1
+Jones	1
+Thirteen	1
+members	1
+associates	1
+three	1
+Yes	1
+I'm	1
+talking	1
+Gambino	1
+Genovese	1
+among	1
+others	1
+also	1
+CNN's	1
+Gingrass	1
+has	1
+arrests	1
+allegations	1
+making	1
+season's	1
+opening	1
+week	1
+unprecedented	1
+All	1
+right	1
+Jingrass	1
+thanks	1
+so	1
+much	1
+Let's	1
+bring	1
+discussion	1
+Barger	1
+Burger	1
+racketeering	1
+cases	1
+District	1
+USA	1
+Today	1
+columnist	1
+Christine	1
+Brennan	1
+charges	1
+than	1
+30	1
+involved	1
+this	1
+betting	1
+scheme	1
+range	1
+wire	1
+fraud	1
+money	1
+laundering	1
+extortion	1
+robbery	1
+gambling	1
+How	1
+do	1
+you	1
+anticipate	1
+prosecutors	1
+going	1
+handle	1
+these	1
+yet	1
+overlapping	1
+operations	1
+?	1
+
+== Speaker I Word Frequency ==
+.	25
+,	20
+to	13
+the	10
+and	9
+of	8
+that	7
+their	6
+on	6
+in	5
+games	5
+NBA	4
+Rozier	4
+was	4
+And	4
+less	4
+these	4
+Billups	3
+Jones	3
+arrested	3
+or	3
+a	3
+going	3
+allegedly	3
+In	3
+this	3
+alleged	2
+Chauncey	2
+Portland	2
+Trailblazers	2
+poker	2
+One	2
+be	2
+then	2
+They	2
+players	2
+some	2
+altered	2
+out	2
+used	2
+authorities	2
+read	2
+face	2
+wait	2
+week	2
+Jake	2
+last	2
+night	2
+morning	2
+says	2
+he	2
+charges	2
+men	2
+are	2
+A	1
+takedown	1
+an	1
+gambling	1
+criminal	1
+enterprise	1
+linking	1
+chamber	1
+Families	1
+stars	1
+welcoming	1
+head	1
+coach	1
+hall	1
+Famer	1
+Miami	1
+Heat	1
+star	1
+Terry	1
+Cleveland	1
+Cavaliers	1
+alum	1
+Damon	1
+among	1
+more	1
+than	1
+30	1
+people	1
+for	1
+involvement	1
+one	1
+two	1
+elaborate	1
+schemes	1
+involving	1
+illegal	1
+betting	1
+rigged	1
+document	1
+describing	1
+sending	1
+player	1
+including	1
+himself	1
+sidelined	1
+sick	1
+placing	1
+bets	1
+favor	1
+odds	1
+maximize	1
+profits	1
+laundering	1
+winnings	1
+totaling	1
+millions	1
+dollars	1
+placed	1
+wagers	1
+unders	1
+score	1
+rebound	1
+assist	1
+Using	1
+information	1
+not	1
+yet	1
+public	1
+instances	1
+performance	1
+took	1
+themselves	1
+second	1
+scheme	1
+teaming	1
+up	1
+with	1
+members	1
+La	1
+Cosa	1
+Crime	1
+families	1
+underground	1
+also	1
+high	1
+tech	1
+equipment	1
+rig	1
+play	1
+like	1
+X	1
+ray	1
+machine	1
+which	1
+cards	1
+were	1
+down	1
+table	1
+Also	1
+hidden	1
+cameras	1
+shuffling	1
+say	1
+defendants	1
+would	1
+resort	1
+old	1
+school	1
+mafia	1
+tactics	1
+collect	1
+earnings	1
+such	1
+as	1
+robbery	1
+extortion	1
+I'm	1
+outside	1
+Poker	1
+pistol	1
+whip	1
+Five	1
+winners	1
+text	1
+message	1
+that's	1
+theft	1
+Documents	1
+you	1
+said	1
+at	1
+news	1
+arrests	1
+really	1
+just	1
+stunning	1
+its	1
+own	1
+openers	1
+actually	1
+playing	1
+against	1
+Magic	1
+sitting	1
+sidelines	1
+Orlando	1
+His	1
+attorney	1
+fully	1
+plans	1
+fight	1
+coached	1
+his	1
+team	1
+Both	1
+coming	1
+back	1
+here	1
+New	1
+York	1
+federal	1
+meantime	1
+both	1
+immediate	1
+leave	1
+from	1
+teams	1
+while	1
+they	1
+review	1
+indictments	1
+Yes	1
+Yeah	1
+little	1
+tiny	1
+Whatever	1
+is	1
+when	1
+I	1
+hear	1
+it	1
+again	1
+?	1
+
+== Speaker A Transcript ==
+Hello? Is it working? Is it working? Is it not working? I'm confused. Can you see me? Can you see me? Am I not back? I. Oh, you can see me. Okay, got it, got it, got it, got it, got it. Oh, fuck. Did it do a full cut? Did it do a full cut? Ah, shit. Oh my God. That's so fucking annoying. Ay ay yai hold on. Let me not move my arms around if I'm like fucking pissed off. Welcome back, King. What happened to the IRL backpack? You did a full cut? No, I had to transition into the IRL backpack. Kaya. Run. Kyo, run. That's so lame. I fucking hate that. I can't believe there's no. There is literally no. Do you not use IRL toolkit anymore? No, I haven't been using it that much because it's kind of ass. It's been cutting in and out every now and then. What I used to use for a redundancy has become a point of failure. Might as well start the gaming now. Dude, I have guests coming. Ok, Calm the fuck down. How is the Internet so bad in Hollywood? It's just really awful. It's just really fucking awful. There's nothing you can do about it. There's nothing you can say about it. Another reason to fucking move to goddamn New York, bro. I hate this shit. I hate this goddamn. I hate this goddamn city. I hate this goddamn stupid ass fucking state. I hate this stupid fucking infrastructure. It's so ass. Guest on stream or guest personal life? No crash dummies. I have guests coming over. Yes, I have a fucking business line. It doesn't matter. It's still ass cheeks anyway. All right, let's continue.
+He goes, That's eight, buc. Mathematically, what I'm saying is, why are
+Look at this.
+Here's my point.
+They want to live over there and make them walk. I dated a girl over there.
+I had to walk. They got to walk. I was walking to York Avenue in short shorts. December, you know, everything. Put an 11 on the Second Avenue subway.
+when they get caught. I'm actually here to announce that the
+Yeah.
+and you're sounds to create a department of government efficiency. Kind of sounds like. Kind of sounds like I said I was in favor of it. This liberal cuckoo when it was a Republican idea. Hated it and now I'm in favor. Now look at him nodding.
+Okay, sorry.
+You know, he's going back.
+There's fucking 25 to 30k people in here. It's just once it. Once the stream cuts out completely and then reboots, it tweaks your numbers for the rest of the day. Like it literally. It says zero people in here. Like look here. Here's the Chatter account. 25,260 people in the chat right now, which means there's probably around 30k people watching, but with the lurkers and whatnot. But once the stream gets cut in and out, the numbers will be perma
+Got it.
+Generational trial. Does this mean you get less money at the end of the month? No, it doesn't. I don't. The Piker Broadcasting Service is sponsored by you and entirely exclusively for you, the viewers. Ok? There's no ads on the Piker Broadcasting Service. The viewership numbers don't fucking matter. If you want to at will, no obligations whatsoever. If you want to subscribe to support the show, to support the stream, you can, you can do that for free with the Twitch Prime. You can do that by gifting a sub if you want. I believe it was like 35% off earlier. I don't know if it still is. I don't know how that fucking starts and. And happens every now and then. But having said that, there is no. There's no obligation to subscribe. You don't have to if you don't want to. I guess it's not. It's not 35% off for gifted subs. Sorry, it was a treasure train. It's random. Oh, got it. But, yeah, this is. I. The only, the only revenue stream I have is this. The only. The only revenue stream I have is my own paid subscribers who voluntarily subscribe. For the record, there is no. You don't get any, like, extra benefits. I guess the maximum benefit you get now, which is platform wide, is if you subscribe or you have a subscription. You can rewind the vod. It's smart to have more than one stream on revenue. I mean, it's fine. I have subscription on here, I have YouTube, but that's like, you know, not that much. Oh, you get emotes as well. You get. You get emotes. Hasan makes trafficking fent. Yes, that's how I make my money. I traffic fentanyl. Don't lie to us. It's true also. Oh, yeah, that's true. If you're a subscriber, you can also send me. Oh, no. If you're a subscriber, you can also send me links it's not a guarantee that I will click on them, but you can do it. You can send me those links if you want. And what else, what else, what else? And you got the emotes that you can use all around the platform. And you can clip shit. You can't clip shit if you're not a subscriber. Don't say that, dude. They'll kinetic strike your house. I welcome it. I welcome that you click on them 95% of the time. It's true. Heavy on. The not guaranteed speed of the stream can be insane. I do click on a lot of them. I click on far too many of them. All right, everybody stop sending me links right now.
+See you there.
+It's not like day one, you do it.
+How do you make it work? How do you. What is this? They posted this about you and then Anaphase fucking said, how could this. Yo, I can't believe it, bro. Why the fuck am I letting my moms do layups here for dunks like this? What is happening? Can we get for real for a moment? What the fuck is wrong with you, dude? What's wrong with this goddamn stream? What's happening here, dude? I don't need haters. I got. I got them all in here every fucking day. Ok? My biggest haters. Ok, that is a little. I do feel a little called out. Like, this is. I feel like this is disrespectful. Like down to the fucking wide shoulders, the. The length, the height and the appropriate size head that looks kind of small because the shoulders are wide, obviously. Otherwise it's like a normal size head. Everyone is saying it in the chat. Everyone is saying in the chat how normal the size of the head is. It just looks like that because of the shoulder width. That's what it is. Fashion sense is better. Ok, dude. Okay, dude.
+This guy's a. Oh, God. Zoron. What the. My boy. What are you. Oh, no, brother, come on. You don't need to do all that. You don't need to do all that. That's. Oh, that is such a unk ass move, bro. That is Unk station, all right? Speaking of which, Crash Dummies are here, Rich, coming from you, brother, that is not something I would do, okay? I. I don't code switch like that. I don't code switch like that. Sometimes I do. Sometimes I do code switch, but like, that's. That's a whack ass code switch. What's good? What's good? He's such a goddamn. He's such a millennial dude. That's crazy. What's good? Let me pull some chairs for you guys. Oh, yeah. The most famous dog in America. Most maligned.
+Oh, Jesus. Yeah, we need another. There you.
+It's like. It's like you never left.
+All right. What's good? You're. You guys are back. We got Crash Dummies in the building. Let me fix this. Oh, that's the wrong way, huh? There it is. Okay. This is good, right? It's pretty good.
+What's going on, guys? This has been a quite the eventful past couple of weeks.
+I don't know if you guys heard. Nah, bro, there's been some. There's been some developments. Oh, my God. There's developments. There isn't developments in the world.
+Yeah, I'm a. A major dog abuser.
+How much do you. What. What initially, what did you think of, like. Like, white people's tendencies to be like, this is the biggest crime of all time. Like, even the perceived slight in and of itself.
+No, they're like, Donald Trump is, like, arresting, like, people for. For looking like Mexican on the corner of the street. And everyone's like, yeah, it's fine. Yeah, yeah, get them out. There's too many of them. But then they were like, this is a dog. This is a dog that's being abused.
+Yeah.
+Yeah, that's crazy.
+That's crazy. That's crazy. Yeah, it's. It's a. Shouts out to Los pollos. He was the one who said that, I think. Oh, yeah.
+It is what it is. It's just like they've been. They've been looking for anything. I mean, they've been called, brother. They've been calling me a terrorist for the past two years. Every single day, they've been waiting on something. They were. But it's crazy because I feel like a lot of. A lot of people were just like, maybe not comfortable being like, yeah, he's a terrorist. But they were like, oh, dog abuser. We found it. We found something consistent. Yeah, yeah, but they were.
+You said.
+I know what you're Talking. Okay, okay. Andrew Cuomo, he's in. He's been bringing me up.
+Yeah.
+Yeah, it is. It doesn't matter. You will never be able to convince anybody. There's, like, it's. It's so funny because, like, the. That I saw was people being like, it's. It's abuse. What kind of dog is forced to stay in one area? Yeah. Sleep for five hours? I was like, every dog.
+Have you been around a dog?
+Their dogs are like, living inside of pissing as they go and work in a cubicle all day, being like, this is the most. This is the worst abuse I've ever done seen in my life.
+But anyway, we're not.
+Like, bro, bro, I'm. I. Dude. Like, it. It got to a point where I was like. I was like, damn, am I like a bad dog parent? Like, what the fuck? Like, it started making me question myself, especially because it's like. Like, I was like, am I. Am I actually, like a mean or bad dog parent? Like, I couldn't. I couldn't. Like, at first I was like, this is fucking ridiculous. But then they fucking kept gaslighting so goddamn hard that I was like, man, maybe I'm just a shitty dog parent.
+Also, what you think, bro? The way that this has been blown out of proportion is unironically, it's like if. If I punched Kaia in the fucking mouth on camera, it would probably be worthy of this level of response. Like, or it would have been above and beyond for even something like that. You know what I mean? Like they are, they, people have been really pressing it. Nostalgia. I mean they're, they're still, they're still gonna keep pressing.
+Oh yeah, you guys are gonna get yelled at because you're, you're gonna get yelled at for. Because I'm anti black too
+Rupture my Achilles.
+I injured. Yeah, he got injured in my vicinity. Yeah.
+Yeah.
+Yeah, that's true.
+That was, that was added to the list. I felt so bad.
+Pretty good. We, we had a regular daily Los Angeles ISB dog infrastructure moment where the Internet cut out.
+And then, and then I brought it back with the bag as you guys were coming. Otherwise I would have probably been like, otherwise I would have been like, I'm done for the day. But since you guys are here, I was like, no, we gotta keep going. Hey, but what are you guys up to? What are you doing out here?
+Yeah.
+Okay.
+Did you like it?
+Yeah.
+Is this like I've always, I've always bracketed scary experiences and like skydiving and stuff is like white people activities.
+Yeah, I don't like that's my least. Like I, I, I'm white. I say I'm white. But like that's my least, like that's my most non white thing where I'm just like, I don't fuck with any of that.
+You would do it if the lady was like, yeah, I don't know if
+Oh, because you don't want to.
+No reaction.
+And I'm like, no, you just, like, pushed her in front of. Yeah, I'm like, the ripper comes out. You're like, oh, her first.
+Wait, what?
+Cuff me like this.
+That doesn't sound like a normal. That's not like Knott's Berry Farms. That's like a level above that, I
+Yeah.
+Absolutely, absolutely.
+I don't like any of those things that you're describing. I feel like that's. That's the. Even for content. I'm like, yeah, I don't want to do that.
+I would rather. I would rather go to, like, a protest and get shot at. Every time I see.
+Yeah, I would rather do that. That's, like, way more. I don't know what it is. I just, like. I don't like getting jump scared.
+To be. Did get lit on fire before. That was fun. That was cool.
+Yeah, but it was like. I mean, it was professional.
+I mean, but it was. But that one Was a cool experience. Like, that was also very, like. It was professional. Hold on, let me.
+on fire. Wait. Oh, no, that's just. That's my react to it. Where's the. Where's the shit? Let me see if this is, like, on the og. Nope. Of course, this is one of those bot channels. So it doesn't have the actual original video. Yeah, they put Turkish music in the background of the video. And I'm lighting my cigarette. Look at that. That's. That's hard.
+No.
+It was for a video. It was for one of my. One of my buddies. One of my Australian buddies. He's like. He's. He's crazy. He does, like, crazy stuff. I mean, I've waterboarded him before.
+Your friends for another video?
+No, I waterboarded somebody.
+It was my. Get back. Muslims. Muslims on the. Not on the receiving end for once. No, no. They were doing a video on CIA torture methods, enhanced interrogation methods, and he wanted to be waterboarded, and I did it. And I don't understand how the fuck anybody could do that to another human being. Like, it is one of the craziest things I've ever experienced in my fucking life, dude.
+She was nuts.
+no, I wasn't like, yeah, no, I did not.
+I did not do that. 2, 1. Okay. It's just somebody at the door. Yeah, no, someone's, like, answering the. Someone's at the door trying to drop a flyer. Anyway, crazy way to find out. Cootie is not on the next episode. Yeah, but they're not on the episode either.
+Yeah, yeah, yeah, blame him.
+Yeah, yeah, we just. Well, that's because we didn't want Cutie on the podcast. So I was like, oh, yeah, we're going to have Crash Dummies on. She's like, oh, I'm. I'm not. I don't want to be around them.
+Yeah, yeah, that's true. That's what it is.
+We can't even. Honestly, like, we make jokes like that. But, like, there are people that are watching right now, like, yeah, no going to clip this to be like, yeah,
+I do. I do use hyperbolic language quite a bit.
+I know. And I also am like, very straight. I mean, I just. I think it's autism. Like, honestly, I just do it very straight face. And then people take it sincerely. And then they also cut it in a way where they're like.
+Yeah, it's true. T Pain did think I was right wing. How was that, by the way?
+Like, at first thought I was right wing because I would always wear like the Trump hat and I would stuff like that.
+That. That's what I mean. Like, I was doing it as a. As a joke, as a meme to. To create this like, exaggerated right wing character. But it's like, it's also impossible to exaggerate the right because they're so insane. So anyone who's doing an exaggerated version of that is just like a regular right winger now.
+There's people in here. Look, I thought you were a right winger before October 7th. LOL. That's crazy. No, there is also a lot of people who are. There's just like a lot of woke people that are younger and they don't understand. Maybe they didn't like, socialize normal with other people. So they just like think anything that's like, perceived as a minor slight is like, this is indicative of this person's like, racist opinions. And then that goes viral on TikTok. Stuff like that. And then, you know, a lot of people that don't know who the fuck I am go, okay, well this guy must be a right winger.
+I'm sorry for the misogyny that is being demonstrated.
+This is all it took for me to disagree out the crack podcast. What was I. Oh, speaking of sports, though, I'm not very knowledgeable on sports, but there's a big ass sports story that's popping off right now and I wanted to, I wanted to lean into your expertise on this.
+I suspect you know what I'm talking about. Wemby is the goat. Oh, no, no, no.
+Yeah, he did. I was watching it this morning, like on stream. It's so. It's like, it's inappropriate.
+It's inappropriate what he's doing.
+Yeah, he's making Anthony Davis jump on his pump fakes and, and, and then also fading away and it's like impossible for him to reach him.
+Just stay down, buddy, because you're not gonna get it. Like, what are you doing? What are you doing?
+At that point, you just try to do one of these like street ball moves. Like, try to try to like tickle his balls or something when he's going up. This is my kind of street ball. No, I'm just saying you're. There's nothing you could do. He's going up there. He can basically drop it in from on top of you. You just go, okay.
+It was so funny. The announcers were like, this is like playing basketball with your dad in front of the garage. When he just slams it down.
+Yeah.
+Wait, really? Yeah, for his crimes, I kind of
+I don't even. I don't even know exactly what took place. And I don't trust the FBI at all. And I especially don't trust it nowadays. So. Yeah, when Cash Patel came out, I was like, oh, they're innocent.
+Okay. But that's. So they go again.
+Mm.
+Why is this, bro? And the worst part about it is, like, they're using like, his defense is, no, I'm that ass. Like, I'm actually that bad at basketball. Like, I wasn't throwing no court is
+Yeah. He's going to be like, your honor, I suck. Like, actually, I'm not very good at basketball. That's his. That's his defense.
+Guilty. What is this? They tried to link LeBron to Jones because Jones got intel on injury reported. LeBron before anyone else.
+Wait, what? They're coming after my goat. Yeah, this is. This is what it is. Terry Rose. Terry Roger. Guilty as hell.
+Okay. Those two are irredeemable. Like, those two. Like, he just passes it and he's not. He's not even making an attempt. Like, that's crazy. You want know on bro.
+that's 35 grand.
+This is all from one game? Yeah.
+Yeah. Yeah. Some of these are just his ass. Like that one. It could be that he's ass. Those three pointers are crazy.
+Wait, what the.
+Yeah, it's just, it's just ultimate teammates and sacrifice. That one was not even. That's not his fault. Like, that's like he's actually trying to say he was doing good there. Do you think he sometimes gets mad where he's like, I wasn't even trying. I wasn't. I wasn't even trying to fail here.
+No.
+Empty corner, two man game. Rosier with a three.
+Yeah, that's just, that's normal. But this.
+He just went. I mean he, he. Yeah, he airballed it.
+But yeah, when you're on, when you're on Jake Tapper, it's over. You know what I mean? Like when, when CNN is talking about it, it's just so done.
+I don't. He's not the biggest fan of mine. He was, he was talking about me earlier today.
+Yeah. With the, with the Andrew Cuomo stuff. Andrew Cuomo was like, Zoram Mamdani is Muslim and he wants to do 9 11. Something along those lines, right? Which is like pretty, pretty racist. Right? And then, and, and he was like yucking it up with this like right wing radio show host who was like, oh, imagine if 911 happened when, when Zoron is like, you know, running the show. He would probably cheer it on. And Andrew Cuomo said, haha, yeah, that's A different. That's another problem. And he like, agreed with this guy. So everyone's like, hey man, you're being kind of fucking racist. What's that about? And his retort was, well, Zoran was on a podcast with Hasan Piker who said America deserved 9 11. That's what he. That was his response.
+No.
+Does riding. Yeah, he does not even remotely try to defend himself. He just goes, you know, I'm going to bring another Muslim guy into the fucking conversation and then connect him as well to 9 11. Anyway. But that's what he was talking about earlier. Let's see, ladies.
+Do you remember the NBA youngboy one? It was like, never free again or something. Like, that's disrespectful. Mafia.
+Yes.
+That's racist.
+Race against Italians, bro.
+No, I feel like there's definitely still. There's definitely still a lot of mof, bro. What do you think? What do you think? Half of the mattress stores are owned and operated by. There's so many businesses that you're like, why are you laughing?
+They use it as a front, like to, To. To clean the money.
+Sort of mean? Yeah, but that's the same thing.
+I think Mafia just is. Organized crime across the board is. Is called Mafia. But I think it's just like most commonly referred to Italian Mafia as. As. Like, that's what it is. Like Italian organized crime is called Mafia.
+Exactly. That's how you level up Nostra.
+You think they're mad? They're like, come on, bro, name us. We didn't do all this for to not get recognized here. This up.
+Yeah.
+Like a. Like a flight risk.
+Never get arrested. It was like, what.
+So we knew that or the investigation was. Was happening.
+What the. He just randomly talks like that.
+I don't know. I have no idea.
+I'm Pablo Torre. Investigated Malik Beasley, Moose and the NBA gambling scandal. That's from three months ago. God damn.
+He is on it, dude.
+The. Which one?
+Oh, I didn't know.
+Malik Beasley.
+I only saw the Kawhi stuff. That was really funny.
+Yeah.
+Yeah. You think they should just like abolish the salary cap with like side deals like that.
+I don't know. I mean, I assumed everybody was doing no.
+No, no. I meant like, I know that there's a salary cap, but I. I assume that every NBA franchise was already doing.
+Under the Table what they were saying Kawhi Leonard's doing.
+They took like a real Kawaii. He's working two jobs. It's a no show job. You know what the craziest part about the Kawhi story is? Like, it's easy to redeem it. Like, you could just post a couple times and you just refused to do it. Yeah, it's crazy. For like, what, 50 million you're not gonna post?
+Yeah. But even then, just like, at least to cover your own ass, you should be like, I'm posting all the. I love trees. Take a couple photos of trees and be like, oh, this is. Hi, I'm Kawhi Leonard, and I love trees.
+Sportsbooks caught Terry the first day, but the NBA let him keep playing.
+The NBA at some point is going to have to explain why Terry Roer
+And I. Because he's so good. Like, he has to keep playing. He's legendary. Point something out. You're like, we have parlays. The sportsbooks caught the irregular betting on Terry Rogier the day it happened, the morning it happened, when all of a sudden there was hundreds of thousands of dollars coming in on Terry Rozier unders for a relatively meaningless game in November. I'm sorry, in March.
+Yeah.
+Does anyone have that? This was basically Chauncey. He was David from the Surprise.
+He said he's an informant. Ok. Nobody, nobody's linking that but Chauncey Billups poker scheme. Details involving Chauncey Billups backed by multiple mafia crime families. Mafia crime families families.
+Crazy.
+Oh, Gilbert Reigns got the informant lunch special this morning. That's fucking funny, bro. Snitched on the mafia and is basically telling them what you're gonna do about it. That's so wait, this, this happened recently?
+Yeah, but like what's the. Like this stuff is not like, this is not pertinent to like why. I don't even understand why this is illegal.
+Yeah, I think that's like the main, like the, because they do the same thing. The main incident is that I mean it's fraud. I get it. It's like you're, you're throwing a fraudulent game. But like I think hidden cameras and poker chip trays, special sunglasses, contact lenses that read pre mark cards, X ray tables, they can read face. They went, they went all out.
+Seems if you're, if you're trying to. Why are you trying to clean like professional poker players like that?
+Yeah, this looks more like he, he had an agenda. Like he had a, he had a vendetta against the pro poker places. I'm gonna you guys up.
+Yeah, no, I, I, that's like, the most suspicious way to do it. These are the glasses Chauncey Bills and David Jones would use in the poor games. Oh, my God.
+No way. What if you were just like, yo, let me see those glasses real quick.
+Yeah. What happens when you're like, those are really cool glasses. Can I just try them on?
+I like this kind of crime, though. Like, it's like, it's real.
+It's cool. It's not like. Because nowadays everything is just like, crypto. You know what I mean? Everything is just like, oh, I have a new coin. I'm gonna pump, pump coin. And then everyone's like, oh, my God, I'm gonna fucking put a billion dollars into this. And they're like, what happened? And like, this is cool. This requires effort. Human contact is old school. It's like the lure of heist.
+You know, I respect that because the
+Yeah.
+Yeah.
+Yeah, yeah.
+He's beat your ass. Like, you can't.
+I'm just.
+That's true. That's true. You can't.
+Yeah. I mean, they, they probably get like a, like a pay. They get a percentage of the earnings, I assume, right. To, like, offer protection. And they'll, like, set this stuff up to begin with. Because I don't think Chauncey Billups was, like, sitting there like, how do I find ways to scam people like this?
+He looks very concerned.
+at that point, you're just rapping about it. You're like, I feel like you would want to escape. No, like, I feel like it's too.
+Yeah.
+Wait, what is this? Oh. In 2023 podcast episode, Poker player Matt Berkey told a story about how he heard playing poker with Chauncey Billups.
+And he knew he was scamming and stealing money from an illegal gambling ring.
+To touch on Betty real quick. Like, just like his attitude at the game, he was always this like so semi happy, semi grumpy. And like,
+thought we were being cheated by some. By this man this whole time.
+Yeah. Like the absolute perfect rag, man.
+Yeah.
+Here it is.
+I think he was doing it for a long time.
+He was unstoppable. Let him, let him cook, dude. Let him keep going.
+Runners. I'm telling you.
+The Porter Bill shared a poker tournament tonight.
+people that they didn't scam at the charity tournament.
+That's crazy.
+But, like, what doesn't make sense to me is, like, if you're Chauncey Billups, you're famous enough. You're not like, super famous, but you're famous enough. Right. Why go to professional poker players when you can do it with, like, I don't know, like, rich asshole tech CEOs? They're not going to know any better. They're going to be like, oh, my God, I can't believe I got cleaned up by Chelsea Bills. But, like, a professional poker player is going to be like, this is not normal at all. Like, you. The fact that you keep pulling these cars or the fact that you know exactly what my cars are, that doesn't make any sense. Whereas, you know, just get fucking Silicon Valley guys. They don't know any better. They're excited to be around a famous guy.
+Like, why did he go for the worst possible person?
+I know, but they are at least, like, technically knowledgeable about the game enough that they could figure it out. They could figure out that there's something is wrong. Like, these guys are involved.
+Yeah.
+then just drilling it.
+Like, how is it okay, yeah, if
+That's what I mean. It's like, it's like the dumbest group of people to do this to, as opposed to so many better targets. I don't know. I don't know if you're like this as well, but, like, whenever I see a crime like that, I'm like, how could I have done this differently? Like, how could I have. Yeah, how could I have tried to, like, perfect this? And I think the number one issue here was that you went with. You went with Pros. You had pros in there instead of just being like, oh, no, pros. Because this is like a, like a fun game for people who are not very knowledgeable about poker, you know, like that sort of thing, but with like a ton of money.
+Oh, it was an Israeli mafia.
+Oh, so they're innocent. That's fine. They'll get away with it. It's all good. Yeah, there was a. There was a dude who was like, like a pedophile that got caught in Las Vegas and he was like, guys, I don't mean to alarm you, but I'm Israeli. And they literally let him go and he flew back to Israel and then he didn't show up to his court date. This literally just happened. This happened like fucking. This happened like a couple months ago. Tom Alexandrovich. Yeah, he was like a cybersecurity. Cyber security guy for Benjamin Netanyahu. Is crazy. How are you going to be the head of Israel's cybersecurity and get caught by the FBI on a, on a pedophile sting?
+It's terrible. No security at all. Anyway, listen to us. Gilbert was involved with the Israeli mafia. Chauncey was Italians. Oh, that's why he got out of jail one day.
+Yeah, that's what it is. Italians have no motion.
+Yeah, no, I think he likes to be on camera. He was like a camera guy. He was a podcaster.
+So I think he likes to. I mean, this is a high profile. This is a high profile case, so it kind of makes sense that the director of the FBI would come out and speak about it.
+Ok. Because there's celebrities involved. But he does that way more frequently than I Think former directors.
+Never. He never lets, like, the, the, you know, regional heads of any agency come out and speak. He's always there talking about Valhalla. In all seriousness, I think Cash still is going to fuck the NBA betting case up. Spectacular. Hilarious ways no one can even conceive of it. I agree. I think he just keeps. He talks too much.
+And as like the. The lead investigator, like, as the head of the investigative agency, there are certain things you can't do to like, bias prosecution. And a good defense team will cook you for that. And he constantly does that.
+Oh, dude.
+You want to see? His merge is so ass.
+Yeah, bro, it's. It's so ass. Look, this is his merge. This is some of his merge.
+He also. His claim to fame is that he wrote a. A book, a child's book about Donald Trump.
+They did lure in rich whales and made 7 million over 60. Okay, that's not worth it. If you're Chausy Billis, it's not worth it. Your lifetime career earnings are probably $100 million. 7 million over the course of six years.
+Like, what, you think they, like, threatened him?
+You are a Chauncey Billups. God damn. It's a gambling addiction. It could be.
+I mean, other NBA, other NBA legends have had some issues with that as well. I'm not going to name any names.
+No, no one.
+I'm not. Who do you think I'm talking about?
+Who is the person that you're talking about?
+I don't know what you're talking about. I don't know who you're.
+I don't know who you're talking about. There's a lot of people naming names in the chat, but I don't agree with anything or can not confirm or deny.
+wait. Chauncey bringing everyone with him.
+I don't. So. So they popped two separate crime families. Doing two separate gambling rings that were doing the same thing.
+Oh, totally. Yeah.
+Yeah. No, for sure.
+Yeah.
+They were like, the FBI is looking real bad recently. Let's. Let's pull the trigger on this.
+I've been hooping, yeah. I've been doing more indoor stuff, though, because, like, I'm just too old, man. Yeah. Like, it's just outdoors is so punishing. On my knees.
+Yeah. Yeah. So it's just like, you gotta.
+Yeah. What about you guys?
+Why are you making that face?
+Yeah.
+Hell, yeah.
+So you're good now? You're.
+Yeah.
+Yeah.
+That's crazy.
+Yeah.
+Apologize, it's my fault.
+I did feel, I did feel like it was my fault a little bit.
+No, as I.
+I would. Well, if only white people cared about black people as much as they care about me. Yeah, they care about dogs. But let's see, let's see some of these other details because I don't, I don't know exactly what took place.
+Third, I'm not kidding when I say this, maybe it's fucked up of me, but the more sophisticated a crime gets, the lesser your sentence should be. I think they should be like, this was pretty brilliant.
+Respect.
+Yeah.
+Yeah, that one. Well, that's just cool. I think, I think they should like.
+Yeah. I think they should let you do that.
+Yeah.
+There's two ways to go about it. So either they, they take the gems off and then like they smelt everything and then they. I think they cut the gems. Or if it's like a super high profile item ahead of time, they usually have like a buyer ahead of time.
+Profile buyer. That's like, I want this.
+That's like a hundred million. It's a hundred and two million dollars. Which in the grand scheme of things I was thinking about it, I'm like, that's like XQC got that money from Kick for his crypto gambling casino deal that he got. That was $102 million. It's only 2 million more.
+No, no, they just sell it. They just, they just pick it up for parts. They just sell it for parts at that point.
+Yeah, if you know 22 million, I think for what it is. Right. Not like the.
+That'd be crazy if the media was doing the job of the jewel thieves of being like, this is what it would be if you melted it down. It's like, I'd be like, okay, so
+Yeah, I think so. Yeah.
+It's a one on one. It's a one on one dot there's nothing else.
+Yeah. They did steal the Mona Lisa before.
+Yeah. And they couldn't sell it, they couldn't fence it. So they caught the guy and I think it was in, in the trunk of his car.
+Was it like a long time ago?
+I don't like sheiks in 1911 is when they stole the Mona Lisa.
+Yeah, it's a show called it's the coolest. It's the coolest type of crime.
+Yeah. But I, I just think like, I don't know that and like bank robberies. I have a soft spot for.
+Yeah, that's the. That's the peak of white collar. Like jewelry theft.
+I'm not getting that from your audience.
+Yeah, I just found out. That'd be so shitty.
+He had that locked and ready to go. He tried to do that line in front of the mirror, in front of the sink mirror, like, yeah.
+Yeah.
+insider tips always looks untrustworthy. He just looks like he's constantly holding in a fart, like. Or just Farted. And he's worried, he's. He's worried that people are going to know he did it. You know, it's just, I can't trust him.
+make sure that those bets paid out.
+I'm telling you that's crazy. That like Terry's only line of defense is I'm ass. You don't understand. Your honor, alter assignment, this. What do you do? What do you do?
+It's a. It was FBI, so it's federal. So I think federal cases. Do they, do they film federal cases in New York? I don't know. No, they don't. No.
+What the victims, the fish didn't know is that everybody else at the poker
+machines which read the cards in the
+had the best poker hand and relay
+Like what? What do you mean?
+Yeah.
+That's the easiest way to never have anybody show up to your games too. Like I don't.
+Yeah, that's true. How do you win in spite of them cheating? You got to be so good.
+That's crazy.
+Yeah, he's doing it again. Any turnover? They're like, got him.
+Nah, bro.
+I don't understand why it's overlapping. I guess they were cooking the games with the mafia too.
+I, maybe I feel like they just went, oh, a bunch of NBA guys are doing crimes. Let's just all pack it up together because like, some people are involved in both schemes. Okay, got it.
+Yeah.
+You think it's bigger than this?
+because Billups is also giving tips on. Billups also gave tips on betting on games. Bill's also giving tips about players availability
+The documents are pointing to Bill is being involved in giving insider info on players missing games. They say he leaked Damian Lillard missing the rest of the season due to injury,
+Nobody that big would be involved. I know, but I don't even understand why Chauncey Billows would be involved. Honestly.
+all this, he's just. He's doing that when he could just, like, renegotiate his contract and. And probably be fine.
+Yeah. I have no evidence, but I know Ohtani's in on this. Okay, okay, Chill.
+With some.
+Yeah, yeah, yeah. He's fine. He's chill, he's cool. Innocent. He's innocent. He doesn't. He does not speak Japanese. I mean, English. Sorry. He. He needs an interpreter for sure.
+was like, oh, oh, have you seen. No, no. Have you.
+Because, you know when you saw. You saw the video of him talking to what's her face. The. The WNBA player.
+Yeah, he does. For placing bets, I think.
+Yeah, you have.
+No.
+In fairness, Justin Fields is ass.
+Yeah. I don't know. I don't know about the Jazz except for the fact that they suck. That's all I know.
+Yeah. Oh, Jessica going Owen 17. Okay.
+That's crazy.
+It's true. Have you seen the. The LeBron unks are now talking about Wemby in the way that like Jordan dick riders talked about LeBron. They're like, oh, yeah. Wemby would never, never make it in the peak of like LeBron's career in the era.
+Wow.
+So sick, dude.
+See, I'm crying. LeBron fans watched Wemby tonight and instantly turned into Jordan fans. People are saying Wemby gonna overtake LeBron after one good game. Wendy wouldn't survive a second in this era. That is a verbatim what Jordan fans say about LeBron.
+Yeah, yeah.
+No one. There's no one with his bill that was dropping. I mean, there were some people that were a big men that were shooting with that percentage in the three point line. But like that's like. That's not normal.
+We're dribbling like that. Exactly. That's. It's just so crazy.
+meet him in China. I'm going to China next month.
+I know.
+wow, you really love y', all, man.
+Ming, you're saying you have a higher likelihood of meeting Obama than you have a higher likelihood of meeting as a
+What. What's. Not walking around being like, all right, there's black people here. Let me go meet them.
+I don't know. It's just like, they're. They're connected, kid.
+I was supposed to interview Obama.
+During the dnc. During the DNC last year. Well, they. They were like, we're gonna. We're gonna do a rain check on this. And then they never checked again.
+Yeah.
+Yeah, I had. I had, like, such a perfect trajectory of. Of how I was gonna, like, lean into certain questions, too.
+Oh, I did get kicked out of the dnc.
+Oh, yeah, between two friends. He also. He did get interviewed by my friends the same during the dnc. The. I've had it ladies. I don't know if you've seen them. The two blonde ladies from Oklahoma. They blow. They also blew up on Tik Tok. They have a podcast called I've Had It.
+But, yeah, they. They got to interview him. Not me, though.
+Muslim to Muslim is up.
+I mean, yeah, that's true. You're right. You know what?
+It's up. It's up that he went with the other Hassan. He got interviewed by the other Hassan and not me. Messed up. But, yeah. Wemby is. Wemby is. Is. He is. He went to China, and things change for him. I don't know what it is to me.
+on earth is the closest thing to a dystopia. So I'm not the biggest fan of Vegas. But Mao's solution when things went wrong
+He saw anyone who stood between him and his masses as an enemy. Like, that's crazy. He went. He went to China and he became a Maoist, I think. And now he's bureaucrats and lingering bourgeois elements undermining the.
+Like he. He's. Century of Chinese prosperity, Century of. Century of. Wemby is upon us.
+Oh, yeah. Cat's also a Maoist, right? No. Or was it Che Guevara? Who did he. Who did he quote? Did he quote Ma Dong? Yeah, there's like a weird. I mean, I don't think he's a Maoist. I don't think Wemby's a mouse either, because I, I've. I've actually inquired about his politics a little bit. Like, I, I dug into it a little bit. He's like. He's more of like a. I mean, he's French, so he's automatically more woke than the average American on a lot of social, like, not social issues, but like economic issues. But
+That's gonna make people go crazy after this stuff. Well, I guess, like, it's not.
+One time because we were doing like a, like a, like a segment where we would go to like drive throughs and then order whatever the people ahead of us ordered or something like that. We're really trying to max out on calories. And we went to Arby's for that reason. Just for the meme. It's ass.
+I'm like, yeah, Cash ain't investigating Miriam Adelson. That's true. That's true. That's Donald Trump's number one donor, Miriam Adelson. So that's not happening either.
+People are saying Miriam, the owner of. Of the Dallas Mavericks, who is one of Trump's biggest donors, gave him $250 million.
+Yeah, I think. Well, the speculation at the time was like, she did that. She forced that crazy trade so that she could eventually move the. The Mavericks to Vegas because they own. Because her and her former husband who passed away rest in piss. Sheldon Adelson. He was a f. No, no. These guys are monsters. Trust me. They own.
+They're. They're. What do you call it? They own. I think they own the Wynn. No, not Steve Wynn. No, they own the other big one. I forget what it was, but they own a bunch of casinos in. In Las Vegas. Vegas. They're big casino magnets. Oh.
+There's a big story eventually.
+No, we'll see. We'll see about that. What do you guys think about Zoron? Have you been seeing. Have you been seeing the. The motion?
+Oh, really?
+Andrew Sch. Just had him on. Yeah.
+He's pulling it back now that. Now he's like, oh, we. We up with the Trump stuff. So he's. He's scaling it back now. What else was I gonna. There was a bunch of other stuff that I was gonna show you guys, but yeah, no, he killed it. I'M gonna do Van show too soon. You guys fuck with Van. You know who that is?
+Yeah, Van Lee. Yeah. My buddy was a producer back at TMZ when he famously called out Kanye before anybody else. He was. He was there. It was him and Zach Fox, I think that were the two people that were like, this is gonna get out of hand.
+There was a. There's, like, a famous Zach Fox tweet from the first time. Client came out and was, like, talking about MAGA or whatever when he was like, this is gonna be way less funny in a couple years when he comes out and starts preaching Adolf Hitler or something, and it's like. And he. He nailed it from. He nailed it from, like, six years before Kai did that.
+Oh, yeah. I can hit him up if you want.
+Yeah.
+Yeah, I'm just.
+I'm just. I keep booking guests for you guys.
+That's true. Yeah. But T Pain. T Pain is. I mean, he was. He was in the vicinity, you know?
+All right, I'll see what I can do. What else are you guys up to? What have you been up to? What do you want to promote before I let you guys go?
+Okay.
+Yeah. What the.
+Oh, that's awesome.
+That's sick. I'm gonna. I'm gonna see if I can pull up.
+All right. I love that. Okay. All right, well, everybody. Thank you so much. Shouts out the Crash Dummies pod. Go check them out if you haven't seen their stuff. They're very funny. They're a lot funnier than they are on stream, I promise. Yeah, you guys, is. You And Justin Bieber, he's streaming all the time now, apparently. That's what really?
+Justin Bieber, I think he. Dude, that's what's so crazy about, like fucking Omega. Superstar celebrities from back when we were growing up. Like, you didn't even know that. Justin Bieber streaming on Twitch.
+Isn't that fucking nuts?
+Yeah, he. He did it like, I think yesterday or something and then he said he's going to do it all the time now. Yeah, he only has 8k viewers. He live right now.
+Wait, is Justin Bieber live right now?
+Z was streaming.
+Throw. Throw him a bone. Justin Bieber.
+Oh my God. He is live, bro. He's live right now. He's got 8K. Is it? That's crazy.
+Wait, isn't that guy like a. Like an influencer too?
+it arranged with everything.
+I think. I think that other dude, the white dude, was like a. Like an influencer or something once you get it.
+Talented people here. Why are people saying David, do
+I don't even know it.
+I don't even know.
+You thought that was just crazy.
+It was the long shorts maybe.
+This is crazy.
+My coworker.
+All right, everybody, that'll be all for today. That's all I got. Love you all. And I'll see you tomorrow. All right? And then remember, Saturday I'm gonna be in New York, baby. New York City. Sunday I'll be doing the New Yorker Magazine Festival. And I might even do a little. Little spot on the Zoron rally, potentially with a aoc. Bernie's gonna be there as well. Well, so we'll see. We'll see. What's up? Love you all and see you tomorrow. Peace.
+
+== Speaker B Transcript ==
+I think we got to go from 96th street to 100 Street. Did you just hear what he says?
+Look at this. So you were fine with the Second Avenue subway? 70 seconds. 86. 96. But you don't want to go to 125.
+That was horrible.
+Use the poll. Here's my point though, is that. Is that people in Harlem were promised a subway to 125th street on the Second Avenue decades ago.
+It's taken us so long to even get to this.
+We have to connect it.
+head of design at the MTA is about to be. Thank you.
+gonna work for it though.
+I think the larger point here is though that like when you. When. When they did the first phase of construct second Avenue subway, the MTA spent more money on consultants than construction.
+So this is part of the issue is that you're right that we're going to have to transform the inner workings of government and that means ending a patronage politics. There are a lot of people who have jobs more to do with who they know than what they do.
+And that's not specific to Eric Adams
+bringing it back to efficiency.
+Bring it back to waste.
+can. You can. You can wait for Andrew Cuomo to have these other.
+Okay, go, go. But here's my point is that it is. It is Sad.
+stuck like Elon Musk. Take the words efficiency fraud as if they are right wing concerns.
+These are actually the concerns that should be at the heart of a progressive politics.
+Because I want to increase taxes on the top 1% by 2%. And I also want those same New Yorkers to. To be able to look at that increased revenue and say, every single one of these dollars is being spent efficiently. It can't be in and of itself the reason why you do it. It has to be what you deliver with that.
+But the idea is, yeah, it was never actually intended to fulfill the intentions.
+But the intentions.
+Yeah.
+About 2 1/2 million new Yorkers live in these kinds of apartments.
+They're just living in market units.
+And, and so, so I'd first say there's rent control, which is a very small minority. The vast majority of what we're talking about is rent stabilization. Rent stabilization means there's a limit on how much your rent can increase every year. It's not what your rent is, it's what the increase will be. And it's all determined by a board called the Rent Guidelines Board composed of nine people that the mayor appoints.
+Yes.
+It is, it's, it's. Each of these terms are on kind of a rotating basis, and there are a number of these terms that are open right now.
+Because they actually did a study. That same board under Eric Adams did a study. It found that landlord profits had increased 12% of those units in the same year that the median household income of tenants of those units was $60,000. And with that information, they decided, let's hike the rent again. So it actually doesn't have to do with the data.
+But the point that you're making is, right, which is that we have to have a housing policy for all eight and a half million people. And that's why you couple a rent freeze with construction of 200,000 truly affordable homes. The reason I say truly is because, like, I represent Steinway in Astoria, right? I'll call a constituent, I'll say, there's a new affordable housing development coming up. Do you want to apply? They'll say, how much do I have to make? I say $140,000 to hang up the phone.
+Because how are they.
+You're going to afford that, right? And so my point is thinking about affordability more with the median household income in New York city, which is $70,000 for a family of four.
+So you have to increase that and you have to make it easier for the private sector to also build.
+And I think that there's a truth to that. Where? Look, I'm somebody who believes in the public sector. I believe in regulation. I also believe that if I can't give you the reason for the regulation, then it has no reason to exist. I cannot justify a restaurant giving the city every year $25 for the right to sell a frozen dessert. That doesn't make sense to me. That is something that should be eliminated. I cannot justify someone who wants to open a barbershop filling out 24 forms, going to seven agencies, and then attending 12 in person events. That does not make sense to me. So I think that there is a truth to. Some of the regulations we've created have made it far more difficult to build housing. And even the justifications we used back then are not the ones that have been borne out today. So we need to change those.
+21.
+Yeah.
+Yeah.
+Yeah,
+was allowed to keep playing.
+was always more revolution, not less.
+Of the revolution.
+
+== Speaker C Transcript ==
+you trying to build more white people subways, man?
+I never wanted it at any of those stops.
+It's always been against the second Avenue subway.
+Why didn't we start with them?
+What is it? But you could connect it the other way too. We could have started up there, but
+I would have done that too. Now you're making some good decisions.
+All right. I'm taking back my 2% if I'm
+No, no, I hear what you're saying. You got to connect it to 51st.
+Yeah.
+Yeah. No.
+We are not going to judge people who like to watch others have sex with their wives. That is their
+Some people say that's efficient. And we
+And I think, like, Doge was universally supported before it became what it was.
+The intentions were right. That's great.
+My hand.
+So if rent is the most important issue, which I think we all agree it's like absurd, the, the rent freeze was like incredibly effective communication.
+This idea, because everybody else is talking about, we're going to build all these units. When you're drowning, you're not worried about like someone building you a boat. You need a life vest. I get that 100%. I think that makes sense. You correct me if I'm wrong, but I think that you can do that to like about 50% of the units in New York.
+Because those are apartments, pretty much. They're like the rent stabilizer, rent controlled units.
+Got it, yeah. How do you offer relief to the other 50%? And let me just clarify the people listening. Like those other 50% aren't necessarily people who are wealthy.
+And I think that work here. And they just didn't have the ability to get one of these, you know, rent control units.
+You can appoint them.
+But I think the appointing process might even take a little bit.
+Got it. So you can point some and there might be some People that are empathetic to your philosophies already.
+Got it.
+Yeah, affordable housing.
+I love it.
+I agree with you 100%. Like, I think Ezra Klein put out a great book that I think that he's been like unfairly maligned by A lot of people on the left, but, like, where he's just going, hey, I appreciate Democratic policies. I want to implement them. I think they're better for people. But there are certain things that we need to remove so that we can be competitive in an open market.
+So how do we. First of all, I completely agree. And as like someone who has someone renovating above me, please believe I like the fact that there is regulation. Do you know what I mean? Like, I have a kid who's 21 months old. It's like they want to sleep. And if somebody's just 21. 21.
+
+== Speaker D Transcript ==
+Yeah.
+I agree.
+Yes.
+Let's go, guys.
+Right.
+What happened?
+Don't.
+Yeah.
+Well, are you guilty or not? What happened?
+No.
+I learned that, like, a lot of people will speak out about dogs before black people. Like, this is the most outrage I've seen.
+Oh, I've never got. I got so much hate.
+There's no S on it. He was for sure talking.
+Oh, yeah, I think I was. I forgot. I was like, I just woke up and I tweeted that, and I'm like, yeah, yeah. I woke up from a nap and I'm like, you know what, Lois? Yeah, I don't like that, bro. I don't like how they coming at you like that.
+Yeah.
+Yeah, they love sleeping.
+Yeah.
+Okay. Even though the dudes that are making the videos are weirdos, some of them are talented. Obviously. That's how they got like, their. Their following.
+I'm not. I'm not going to lie. I woke up at 2am during this beef one time and I wasn't, like, really paying attention to, like, the videos. I was like, oh, did I do it? I got scared. Oh, we all going down for this. I was getting my speech ready.
+Yeah. It's funny because if you actually do it, like, me and Mike probably have to go work at McDonald's, you know? Yeah, it's over for us.
+sometimes like when I cut to the basket. You don't pass me the ball though. I'm not gonna lie.
+This gonna be a clip for sure.
+Oh, and the holidays.
+Doesn't like holidays.
+Oh, damn.
+We just shot a lot of podcasts over there at TMG studios. Shout out to tmg doing a lot of collabs.
+Yeah. Noel Pack.
+Yeah, I got cuffs.
+I do that as a date.
+No.
+There was sometimes, like, because there were women in our group, and there were times, like, where I probably should have held the door open for her, and I did not.
+Yes. Always her first.
+Oh, they tase us. They kidnapped me. They put a. Like a gimp mask over me, and they put something.
+And they have to find me. I was cuffed up, blindfolded, everything.
+Bro?
+And then you disappear for, like, an hour. But
+What?
+They literally. They'll drag you by your feet all the way to, like, this little tunnel and then close you in a casket.
+Every time I see him get that press jacket, I'm like, oh, man.
+Like, the cameraman was exposing some of their hiding spots because it's like, wait, why are you filming B roll there?
+When is it. Can we. Is there a video?
+What's good? Chat
+So you can't feel anything with the gear you have on.
+Yeah. You want to do a haunted house?
+Now that's crazy.
+Did you charge it in between. Do you, like, snatch the towel off and say, you know, were you in character or you just like, no, no,
+Damn.
+They sat down and turned the camera on him like, yo, where's Crash Dummies?
+Oh, she still doesn't want to be around us.
+A lot.
+No, no, no. You just say the same because they want to do it in the first place. So.
+Well, it was really good initially.
+I think that's fire, though.
+Yeah. And that's what they're going to believe because they're exaggerating already. So when you exaggerate, they're gonna be like, oh, that's his real take.
+Yeah, I'm so glad people don't Take us that serious. There'll be so many clips where people. Someone call it. Someone called it. Why they call us sexist. Because we did what?
+Yes. And I say like in depth. Like, that's just not a conversation that I want to have with my girlfriend.
+It's, it's, it's so crazy.
+And that's like versus Anthony Davis, which is insane. He's making Anthony Davis look like me guarding him.
+Yeah, I don't, that's one thing I don't like. So like, if we're playing basketball and a dude is really good at basketball, don't fall for his simple moves and make us all look stupid. So PJ Washington jumped at a 7 4. Man rising up for a mid range.
+A Wendy pump fake should not ever be falling for outside of the pit.
+They're finding out two business days later they were dunked on. They're watching film like, well, he dunked on me.
+He's like, that's so crazy.
+You notice my favorite basketball player isn't that crazy?
+like, his crimes are kind of swaggy a little bit. You know what I mean? Like, he wasn't gambling on the games. I think he was like, what was he doing? Like, cheating at poker events.
+The thing I don't like about it is, like, we've heard about Chauncey Billups and Terry Rosier, right?
+And like, obviously they're black men and if they're guilty, they're guilty. Whatever. But they keep saying mafia and there's not one picture of a person from a mafia.
+In the news. It's just. I just keep seeing Terry Rosier.
+going to be hilarious.
+Oh, you know, it's gonna be fun. You know how they call expert witnesses in court? There's going to be an NBA coach that's just called as an expert witness for Terry Rosier. Just be like, is this a basketball play right here?
+I've never seen a guy turn the ball over like this. Yeah.
+Yeah, I saw that too.
+Oh, my God. See, that's almost believe. Oh, he put his head up.
+He said, oh, that one.
+He's rooting for the guy shooting to pull up Three. Look at his face. It's almost like, oh, I hope you make this. Watch this. Come on, bro.
+Oh, that's kind of like a real turnover.
+Yeah, that's what he should have kept doing. I don't know why he would ever drive or turn the ball over. That's.
+Why is he jumping at the defender? He doesn't shoot like that.
+Terry Rosier, you're ass, bro. Like, there's no way. You're either cheating or your ass.
+That's not that bad.
+No, you know, you don't. That's not that bad, bro.
+Yeah, that's not his hair.
+This dude?
+That's crazy.
+Yes.
+They definitely outsourced to that.
+Yeah.
+Yeah, for sure. And I think.
+Yeah.
+What are they doing? And I, I feel like they're.
+I do. I've never seen anybody in there.
+It's like some, some.
+heritage, like it has to be passed down.
+Yeah, I just feel like it's a more established, like, yo, we a mafia now. Like after being a gang for like five years, everybody's like, hey, we haven't been to jail in five years. Let's go Mafia, man.
+Yeah. Like where?
+The scary part is like, I always thought about like being arrested by surprise because usually most people are never going to be important enough to be arrested by surprise, Right?
+They're like, I feel like you have to do that with people that have money. You got to kind of storm their place and then arrest them. So you get like a.
+Yeah. So it's like Chauncey Billows was coaching the night before and he's probably like feeling good. And I think there's like a clip of him saying like, like a.
+Where the chips may lay or something like that. He said that like during a press conference or something. So it's like crazy.
+I don't even know if he knew. But it's just weird that he said
+It's poker though. It's not during his is not games.
+Oh, he's not guilty.
+Yeah.
+I wonder why NBA teams can't do that. I don't see any problem with that.
+That's what baseball is on, right?
+I think. I think they are.
+Do they.
+Anytime I see someone take a pay cut, I'm like, no way.
+No. That's so crazy.
+For 50 million, you can literally create the fake company. You would think that would be in the budget. Like, yo, we're gonna pay you 30 extra million, but we're gonna take 3 million, create the company, and we'll just give you 27 million. Like, so we don't get caught. Like, let's make this a real thing.
+They let them go on so. Because who wants the main person to be Terry Rozier? Like, if you're in the FBI office, you know, they want the clicks. So they're probably like, who is Terry gonna lead us to? Oh, yeah, yeah. They wanted it to be LeBron so bad.
+What?
+bag forming lunch on it. I think Chauncey Bill.
+Multiple families. Not one picture.
+Altered car machines hitting cameras.
+Because he's. Because they're putting on the events and then inviting pro poker players to play and then cheating the pro poker players. There's like a guy on Reddit that talks about how like only the pros are losing at those events and like all the regular people who don't even look like they know how to play Texas hold' Em are winning. And it's like I feel like casinos
+Yeah.
+I mean.
+Shame on a po. Pro poker players for not getting this caught earlier though. No way Chauncey's beating me. If I'm a pro poker player, I'm not going back home saying I got beat by Chauncey Billups in poker.
+Oh, yeah. That's what I was trying to tell you.
+You're like, no, no, get the away from me.
+It don't matter, man. Money is money. Man, stop that man's pockets.
+It's kind of.
+Kind of like, what are you doing?
+Yeah.
+That's the thing is, like, what if some of these people found out, like, oh, man, Chauncey cheated me. And then he also gets, like, a visit from the Mafia, like, don't say nothing.
+Maybe that's why the Mafia was involved. Just for the muscle.
+Chauncey does look Irish there, too. I don't know why. He just looks very Irish.
+He's like, damn, like, man, that that has to be nerve wracking. I know. Like a rapper rapped about knowing the feds were gonna get him and they didn't get him until like three months later. So he already knew that he was under investigation and they were just gathering more information. Even, even if he tried to stop
+If the feds on their way, that mean they know, huh?
+in one for the feds.
+Yeah, this. Read it. Yeah.
+Like if he didn't just like completely smash the game.
+Interesting.
+This guy talks about it better, right?
+Yeah, he.
+Yeah, that's what I'm saying. They're throwing the event. That's why it's. That's why the crime is so big. They're actually getting the people out there. It's not like they're walking into a regular poker thing and cheating at that. They're the ones that's hosting it too.
+That's what's wrong with some people. Some people do win every time and wonder how they got caught.
+I just don't like how consistent they are, you know, like, if a pro player is going to have something to say about you, at least make the stories like a year apart, you know, so if you get caught twice, then the guy. The two guys I know are like years apart with their knowledge.
+Nah, that's so crazy.
+Wait, what was it? Oh, Chauncey is Italian.
+Yeah.
+A lot.
+Yes.
+I just.
+I just don't think he's. I don't think he's smart because sometimes when Trump says something that's wrong, he doesn't. He'll say it even if it disagrees with Trump. Like, he's not even good enough to take something out of his speech that somebody else.
+Of. Yeah, that boy got threes on one shirt.
+You gotta give him a little grace, though. What if he is approached? Like, what if they live in Portland and they're like, you're the guy that we're gonna pick?
+I think maybe he did it once or twice.
+I guess somebody said it's for the thrill. That's crazy to be that addicted to something to. I don't think I'm that addicted to anything.
+Oh, don't do that. I'm just saying don't do that. Don't do that.
+Who are you talking about?
+Don't do that.
+You don't know who you're talking about? He just had a recent interview, didn't he?
+He just make a free throw?
+Black truck out there.
+I wonder if the black truck has his logo on there. Like when they pull up. Oh,
+Oh, this is, look at it, New Jack City. Kareem Akbar. That's right. The educated brother from the bank. He's the real head of the cmb. The brains behind the whole thing. I told you, this thing is bigger than Nino Brown.
+Harlem.
+It was a publicity stunt, basically. I think with.
+Yeah, sure.
+Yeah.
+But yeah, it's definitely a publicity sign. They probably had this information where they could have did it a long time ago. It was like, oh, let's do both of them on this thing.
+Yeah. Long ass court.
+It's probably the best shape I've been in my life.
+I'm lying. No, no. I'm unking a little bit.
+He actually blames you in private.
+No, like when we leave here.
+He keeps saying, I can't believe I signed in.
+It was a little bit.
+Man, it's like the butterfly effect.
+The lure with a ladder and.
+Yeah. I feel like it should be like a competition. Like how can we secure this? And if you break, you get it.
+60 days. What you try again.
+But when you blend, that's the bigger problem is you, you have people that want these artifacts in their possession and they have all this money? Yeah, got it.
+Is it because of what it was though, right?
+But they should sell it as what it was. Like, yo, this used to be an Artifact.
+Yeah, like somebody sold me a notebook and it used to be like Mona Lisa. And they cut out like a piece of a notebook and it was a cover to the notebook. I pay a little bit more for that, you think? 15 bucks.
+What year was this?
+It was like one of Mona Lisa was.
+They literally have a show about this, about people stealing, trying to steal art and sell it.
+Somebody said it. White collar.
+Yeah, there we go.
+Your chat's good. You're eventually going to get the answer if you ask a question. If I ask a question.
+No, no, no, no, no. I gotta go look it up myself.
+That's a connection to LeBron. That's who they said had the insider information. Because I think he betted on a game that. That he knew LeBron was going to be out because of an ankle injury and he was on his team. So that's. He used insider information, but obviously I don't. LeBron's not involved. Yeah, yeah, we don't play that shit at all.
+Your winning streak has ended.
+No, he literally got that from his grandsons. Hey, grandsons.
+Got a big speech coming up. What's something young? I could say six, seven.
+I would actually respect them more if they, like, just troll like, yeah, yeah, we did it. Six, seven, like. But they get up here and try to. This is real. He actually thought that was a bar.
+the hall of Fame.
+This is the insider trading saga for the NBA.
+Players on the cage, such as whether
+That's gonna be a fun trial. I hope it's like public.
+The scheme targeted victims known as quote fish, who were often lured to participate in these rigged games by the chance to play alongside former professional athletes who were known as quote, face cards.
+game, from the dealer to the players, including the face cards, were in on the scam.
+deck, predict which player at the table
+that information to an off site operator.
+That's where the mafia came in.
+But they don't want them at the games. Those are guys that are winning.
+Yeah, that's why they beat his ass.
+He misses the game. Winner. Everybody just stops and stares.
+I don't know.
+That would make sense. And I would think they were connected because NBA is like. I feel like they have a brotherhood.
+So you would think they would link other people. And it has to be some type of crossover. This. This can't be it. Like Chauncey Billups and Terry Rosier.
+I think that those two have the worst lawyers and the people that have the good lawyers don't have their name in it yet. But I feel like there's going to be. They can't be the most popular people in it. I don't.
+also. He's involved in both. Yeah. That's crazy.
+Yeah. I mean, when they got him, it wasn't like a foregone conclusion that he was going to be out.
+But what. What I feel like. So to me, I feel like we looking at it as an addiction and like, oh, he's doing for a thrill of it. But what if he lost a lot of money gambling and like, this is his way. He could be in debt. Honestly, you got a gambling addiction no matter how much money you make. Make?
+Chill. Almost.
+Kind of.
+I would say any billionaire with some.
+With some. With some grit to him, kind of stay out that way a little bit.
+Yeah.
+I don't know. I think he does it. But so he doesn't never get tricked by the media.
+He's like, ah, you know, our media is. They'll ask you something.
+You see the Justin Fields thing?
+Was the owner of the jets came out and said that basically that Justin Field sucks. And then Justin Fields didn't find out until a reporter told him during an interview. Because Justin Fields doesn't go on social media like that. And he found out live that the owner said that and basically had to defend himself. And he was like, I'm gonna be the best I can, no matter who doubts me. Insane. The owner of the team. Yeah.
+Yes. He's asshole. Yeah, I'll do that right now. He's ass.
+They do suck.
+Yeah, they might.
+Yeah, man. Protect LeBron. That's all I gotta say.
+I hope they don't do that with LeBron because I feel like that's what's unique about LeBron is like. Like, if you're a LeBron fan, you're not gonna hate on another player just because. But like people that like Jordan and I swear they just hate for no reason.
+Whoa, whoa.
+No, he's a goat.
+Now he's all of a sudden.
+Wemby actually might average more in that era because like we have an alien. We also have more people that could possibly guard him today than back then. Like, like, like just at least stay in front of.
+You imagine Ben Wallace?
+Not dribbling like that.
+Have you ever went back and watched like a Yao Ming highlight? He's like the stiffest guy you'll ever meet. And that's like the tallest I might
+Yeah, yeah, yeah. That's insane.
+Like, that's, like, better than meeting. I'll put, like, Yao Ming and Obama. Kind of like saying, like, for me, hey,
+It's like, oh, if I, like, go. If I, like, go to someone and just like, yo, I met Obama before, they'd be like, oh, what? At least, like, some convention or something. Like, where'd you see him at? But if I say I met Yao
+black man in America.
+He might speak at something wrong if you. So how are you meeting y, is my question.
+Right. Connecting, reaching out, right? Yeah, there's some connection. You can't meet him casually.
+Oh, that would be fire. Supposed to? Yeah, during the.
+Hey, man, I've been classic, man.
+Obama did, like, a couple interviews with he. The Ferns One. What's the podcast called?
+Oh, Fire.
+Well, you get Yao Me.
+Get the better options. Step in a step up. Yeah.
+Oh, you.
+Yeah.
+But that's NBA. NBA is the best at overreacting to one game. So that's why I love NBA. Let's over. Let's all overreact.
+you know that the. The lottery is rigged for sure. Him going to the spurs and he was a Spurs fan, and then Cooper Flag going to the Mask Times. I don't know why the NBA just don't come out and say, cash Patel's
+Yeah, I mean, that's gonna.
+Let us know.
+I've never seen anybody in drive
+Yeah, you get a roast beef with some cheddar cheese. That's the only thing that's what I remember.
+Before. Yeah. When I was younger, I used to love Arby's.
+And then I realized, like, like, yo, I'm coming to a fast food place for deli meat. And then it all hit me.
+Damn. Yeah, she's creating like she's gonna make the Mavericks have the first. What's it called? Casino.
+Which is right next to you during this.
+So they want. So they want the maps to go there. And that's why they traded Luca, because the team's not going to be relevant at that time. And it's been an easy move. Got it. Wow. Okay. Yeah, well, we caught it early. That's going to be a big.
+Yeah, yeah.
+It's from you.
+You're our news source.
+Damn.
+Yeah, that'd be nice.
+Nice. Second one.
+Yeah, he connected, like. He connected us with T Pain.
+Yeah.
+I guess promote. We. We Twitch a little bit now. Oh, yeah.
+Crash Dummies. Pat on Twitch. And what is your cdp, Mike?
+Yeah, Mike, I stream like I probably should.
+Oh, yeah. Oh, my God. We almost didn't promo our life.
+Yeah.
+though, but hell, yeah, Zany's. Zany's Comedy Club. Okay.
+Hey, come on now.
+That's actually insane because back then. Back then we would have known.
+No way.
+Chad, you going to rate him or something?
+You going to raid Justin Bieber?
+Got it, bro. That's it.
+To keep the be how we got
+We just got to find the right.
+And Chris. Chris knows this is his idea.
+What the hell did you just say?
+So where is he?
+Is that not.
+This is his. Never say that again.
+
+== Speaker E Transcript ==
+Right.
+Thank you, sir.
+Yeah.
+Yeah.
+Yeah. Hard er.
+I wonder how much he's paying these.
+And you've been on the Internet for a long time.
+You've said some. You said some questionable stuff in the past.
+I just feel like that's like the. This one was like the first time I've known somebody give some Internet backlash. And, like, I've seen firsthand how this is not the truth.
+So, like, it was interesting.
+A lot of people that complain probably crate their dogs all day when they're at work.
+Funny.
+No, I honestly don't think our audience really, like, yeah, we're not in this. The stream. We're not LA either.
+You probably got a good like month and there's gonna be like, oh, you've been. When you're on the Internet for a long time. There's so many different like angles and factors with things.
+I'm all good now.
+A life changing injury. Not just a normal injury. I ruptured my Achilles playing basketball with freaking Hassan piker. That was, that was a casual Thanksgiving game.
+How stream been today?
+We did a haunted, haunted house escape room.
+Yeah, it was good. It was good.
+Yeah, it was. I learned a lot about it for some people.
+Just like what people would do in like dangerous situations.
+I said Pac got tied up.
+Yeah.
+I think for it being for content and there's cameras there, I think it made it a little bit more doable. Like was that something I would have done in my spare time. Probably not, but I think sometimes it's good to, like. Yeah, try. Try different things. But Pat got tied up.
+Tasers in there.
+They cuffed him like this.
+think it was crazy. It was pouring blood all over. They made me eat this flower, and it started making me, like, salivate.
+Like, I was spitting everywhere.
+I think when it comes out, definitely we'll post it somewhere, but.
+They'll post it somewhere, but, yeah, you gotta try it.
+They would want to see it.
+Yeah, but I feel like with that much group of people with cameras, it kind of takes a little bit out of it.
+Prefer to do a haunted house.
+What's the purpose?
+So you do it.
+Okay.
+Hasan told us like, an hour before.
+Dude.
+it's funny that how things can be taken seriously like that. I think you have a problem, though. Sometimes you're too sarcastic. That's what gets you in trouble. Because you could explain something in such a simple way, but you give such like an extreme analogy, like, of somebody getting their head blown off or something like that is true. I do be sarcastic. And that's what gets you in trouble.
+But exactly. But you say it such a. In the same tone. It's not even like you have like a. You need to change your sarcastic voice.
+Oh, we said, we said we didn't want. We wouldn't want to argue sports with our girls.
+That's crazy.
+Okay.
+He did go off though.
+But there Was a chy thing you're talking about, right?
+Yeah.
+Sports gambling world is getting crazy.
+Especially all these NBA players. Yeah, NBA, NFL betting on games and stuff like that.
+How good would you say he was?
+Oh, he lying.
+This is all in one game too? Yeah.
+Those ones are gonna be hard to prove. The attempts.
+He missed that on purpose.
+Like, I'm just hard to miss on purpose?
+He played good for a second contract.
+Oh.
+This is so cooked as Jake Tapper just like always. I feel like I always see him with gray hair like nothing else.
+You don't think so?
+Would that be for everybody?
+So he didn't even defend himself?
+Oh, there's no excuse. Crazy.
+Do you think there's still like real life Mafia people out there Still?
+I guess it doesn't. I think when I think Mafia, I'm just thinking movie. I'm thinking Italian. Yeah, yeah, yeah.
+I feel like Mafia sounds cool, though.
+Is it the Mafia or is it just organized?
+But what makes it Mafia? Oh, what makes it Mafia?
+Is it just them being it be
+But like you said, you don't ever see the people that are tied to what Mafia? Like they just said tied to mafia.
+Like, give us a couple.
+the play on words, I think kind of went with what was going on.
+What they say Chaucey was actually doing?
+It was like.
+Malik Beasley was.
+Highlights too.
+The highlights from like what they were saying. He was like. Because, you know, he was getting investigated too for betting on sports. On the games as well.
+Malik Beasley.
+Oh, yeah.
+Like why stuff?
+I wonder is that.
+When I found out no salary cap in baseball.
+Yeah.
+And like, they said that with Andre Kurylenko that one year.
+Yeah.
+Even that company as a whole was scamming, though.
+Terry was in the news.
+You saw what Gilbert Arenas posted.
+You know, when Gilbert got caught with doing this too. No, not even the poker arena. So they let him out like the same day or the next day. And he, he started joking that he's an informant. Look at his Twitter page. Go to good burritos. No.
+So he like, had like the lunch
+But have the Gilbert Arenas post.
+Yeah, the Gilbert stuff happened like a couple months months ago. Yeah, but he was out the same day. They were saying that he was hosting like a illegal poker gambling ring so. But he said he was just hosting it at his house.
+just don't like when people are making money elsewhere.
+It's just a random name too. Like Chauncey Bill is a legend but still it's just like Chauncey. But hedge their head coach is not going to be there the next game because of gambling.
+That's crazy. Oh, those are some, like, tens of millions of dollars.
+Yeah, that off. How much is Thomas Biller making a year as a coach?
+I like the thought.
+Yeah.
+people you're scamming to are in your presence.
+So it's like, if you get caught there, Chauncey would have to stand on business.
+I don't think, I don't think money fist would have been flying. They're saying Mafia.
+I'd be crazy if you got caught
+That's snitch.
+man, I would have never
+How do you determine like how much you win and how much you lose when you're like, cheating the whole time. Like, obviously you can't just win every time.
+Yeah.
+The poker players might want to be around a famous guy too, though.
+it's only the pros that are losing? It's like, how did you do this that long, bro?
+But it's probably the confidence thing too, though, like going in, like, oh, I can take this dude that, that has a lot of money, that doesn't know how to play poker money. So I think that's.
+That's what they were saying.
+So you think for all these federal, like, things that kind of happen, is it always Cash Patel, like, when it's a federal case? Because I've never. I feel like I've always seen his name kind of come up during this political type of stuff.
+Ok.
+A lot.
+I don't even know, like, who the other ones were.
+Yeah.
+He has Merchant.
+Somebody said he has a merge, bro.
+Oh, he has Trump stuff. I mean, Trump, Omania, Hulk Hogan.
+Oh, so he's like, been a fan of.
+Yeah.
+Hey, you know, it'd been tough for him in this social media era.
+It would have been tough.
+And I gotta listen.
+With Gilbert's. It was like. His thing was that he was just hosting, he was using. They were renting his house to do that. He had nothing to do with the actual games.
+You've been hooping lately.
+You gotta for real now.
+Boxing. I'm back boxing.
+I gotta fight next month.
+Yeah.
+I'm good. I don't think I'm like, mentally. I don't think I can play. Play basketball for like another, like.
+Another year, maybe another five months. And it would have to be like a creator type of game. Like, because even at the time when I hurt my Achilles, I think the last times I played basketball. Both times were two with you.
+Within like the three, four month span.
+No, he actually felt really bad.
+I mean, I wasn't supposed to come play.
+That should be what you would get in trouble for.
+Yeah, it was pretty smart.
+I mean, people rob, dust. The museum. The lvor.
+And just smash glass.
+That was pretty cool too.
+What do you think they do with. Because they stole a crown, Right. What do you think they do with that crown that they stole? Because I heard people melting it down.
+That's why I would have thought it right.
+So when you melt it though, are you like making it the crown after it gets to the destination or is it just like no melted gold of a.
+Is it 100, is it 100 million in gold or just it's worth.
+Got it.
+they definitely get less. They melt it down.
+I imagine by finding a buyer, they have to have a buyer already. Yeah, you can't just do that and then start, hey, oh, I got this jewel. You want to buy?
+Oh, they did?
+Who are the type of buyers for these type of things though?
+Because the movies make it cool though. Like you always see like the, the heist, the museum heist and stuff like that.
+Yeah, that's what it is.
+Six to seven million.
+Let's not, you know, mince words.
+Like on the bookie side overlapping because Rosier was caught before they were questioning him before.
+That's why they got them though, first,
+Which was he the coach when Dame was there.
+Because, like, for the amount of money, 1. And you got to think of, like, the splits and the operation cost of
+Is black suburbans now too?
+I mean, I would say with LeBron,
+No, when I heard him talk, I
+I was like, I didn't know his English was that. That good.
+Yeah, I could see.
+When you have an interpreter, like, you kind of think that. Okay, he really, really needs this.
+It's like, that could be too. Like, there might be some, like, different words in English that might mean something.
+I haven't watched much football this year.
+I feel like with injuries too. I think it's like, it's different now. I think people know especially Wimy has like a crazy build. So one injury can legit.
+I'm just saying, like an injury can change. Hopefully it doesn't get hurt. An injury can change the. His trajection.
+I think we think about that. We think about that way more.
+Damn.
+Could have been. Or it could have been a. A dumpster fire, so you never know.
+Oh, they. Oh, yeah, I remember that.
+Oh, when he became a monk, probably
+It's only one game so far, right?
+Okay.
+not on that one.
+No, that's definitely needs to be investigation. Arby's. What is the Arby's thing, how they're still in business?
+before.
+I don't even know what to order at, but I guess people eat it.
+It's a roast beef or bees.
+No, I've never been.
+That flew over my head.
+I only see all my Zoron style stuff on your. On your.
+Damn alternative, like, opinion on.
+But Andrew Schultz has them on.
+This is like this moment of like having both people on both sides on the podcast.
+Van Layton.
+Zach Fox worked at tmz, just in general. Okay.
+Zach Fox is coming to Milwaukee. You're trying to get him on the pod.
+See, he likes black people.
+Yeah, I hardly stream, though. CD Pat.
+We doing a live show.
+We're doing a live show in Chicago.
+January 4th. We haven't posted anything about it yet,
+We'll post about it. We're doing live shows. We'll do, like, live listener callers and a lot of, like, crowd interaction.
+So it's gonna be crazy. We're gonna see that.
+Nah, I didn't.
+Or is he like one off?
+Small creators.
+Oh, he's live making.
+Okay. All right.
+everybody.
+I don't even know. Process is just as beautiful.
+Absolutely.
+He's the one standing. Oh, no.
+But the back like that.
+Can I grab us two more beers
+Wait, Kyle crazy?
+A
+
+== Speaker F Transcript ==
+How much.
+We're not.
+Yeah.
+God, kids are so manipulated, man.
+Played the reg to a T, right?
+There are a lot of, a lot of stories about it. There's. There's one that cropped up. This must have been like 5 years ago, 2019ish.
+There was this game, it started in LA and then it came to Vegas for a few days. And it was all built around Chauncey Billups. And I heard her, I had heard about the game and the person who told me about it was like, look, I know the game.
+100 this game.
+Well, I know a lot of the
+And I'm telling you 100 that it is not on the up and up.
+And, you know, we kind of went back and forth and I agreed that, like, I just wasn't gonna go play it, but I. I had some friends who went and played it both in LA and in Vegas. And it obviously, like, was for sure confirmed to be cheated. Like, people who clearly didn't even understand the rules of no Limit hold' Em are just like, jamming hundreds of big blinds in with, like, a gutty and
+Only the pros are losing.
+Really?
+
+== Speaker G Transcript ==
+What the.
+Yeah.
+Shoot that.
+There he is again A sun is streaming the sun There he is again her son is dreaming her son is streaming Reviewing the po box uncle Uyghurs face sudden discord agit prop gray new take on race tiny Bernie Sanders LGBTQ Air Force the whole left at your fingertips and I nay out your door the age three crowder debate the young terms online show three full fucking years of this and plenty more to go 90 day fiance toxic champagne bourgeoisie
+Trump rally live reaction a mass riot in D.C. there he is again A sun is dreaming a sun is dreaming There he is again Us on his dreaming A son is dreaming Reading livestream fail comments are Austin Cho Chad Vice in all the ways the right wing pipeline can suck you in online JCS react COD frame gets broken cover blown a full blown mass pandemic Months of streaming in your home total radicalization coming out to find the system you were taught to trust and was broken the whole time all these daily streams whether big or whether small have helped me in so many find some meaning through it all so there he is again A sun is dreaming A sun is dreaming There he is again A son is dreaming A son is dreaming hey what can you say 3 minute add is through but he'll play no pig so soon you wait say hey what can you say hey three minute ad is through but he'll watch 90 days soon just you wait.
+
+== Speaker H Transcript ==
+Gambling and sports rigging schemes are sending shockwaves across the NBA and the United States. This is all part of two different major federal investigations dubbed Operation Nothing but BET and Operation Royal Flush. The accusations and the indictments are rather shocking.
+Faking injuries, underperforming in games on purpose, even giving insider tips about other players such as Lakers star LeBron James. Then there is the separate case rigged poker games where officials say high tech cheating technology, including special contact lenses and X ray devices that could see through face down cards. That technology was used to steal millions from victims. So far.
+34 people have been arrested, including Portland Trailblazers head coach and hall of Famer Chauncey Billups and Miami Heat guard Terry Rozier, as well as former NBA coach and player Damon Jones.
+Thirteen members and associates from three different New York mafia families. Yes, I'm talking about that mafia. The Gambino and Genovese crime families, among others, also arrested. CNN's Bryn Gingrass has more on the arrests and the shocking allegations that are making the NBA season's opening week rather unprecedented.
+All right, Bryn Jingrass, thanks so much. Let's bring in for more discussion. Barger, who was prosecuted organized crime. Barrett Burger, who was prosecuted organized crime and racketeering cases.
+District of New York, as well as USA Today sports columnist Christine Brennan. Barrett, the charges for the more than 30 involved in this illegal sports betting scheme range from wire fraud to money laundering, extortion and robbery to illegal gambling. How do you anticipate prosecutors are going to handle these two separate yet overlapping operations?
+
+== Speaker I Transcript ==
+A takedown of an alleged gambling criminal enterprise linking the chamber.
+Families and NBA stars welcoming Chauncey to
+Portland Trailblazers head coach and hall of Famer Chauncey Billups, Miami Heat star Terry Rozier and Cleveland Cavaliers alum Damon Jones among more than 30 people arrested for their alleged involvement in one of two elaborate schemes involving illegal betting on NBA games or rigged poker games.
+One document describing Rozier and Jones sending
+a player, including Rozier himself, was going to be sidelined or sick, placing bets to favor their odds and maximize profits. And then allegedly laundering their winnings totaling millions of dollars. They placed wagers on unders, on players to score less, rebound less, less, assist less. Using information that was not yet public. In some instances, players altered their performance or took themselves out of games to
+In a second scheme, Billups and Jones allegedly teaming up with members of La Cosa.
+Crime families in underground poker games.
+They allegedly also used high tech equipment to rig play like this X ray machine which authorities read cards that were face down on the table. Also used hidden cameras and altered shuffling
+And then authorities say some defendants would resort to old school mafia tactics to collect their earnings such as robbery and extortion. I'm going to wait outside. Poker games and pistol whip. Five winners a week. One text message read, wait, that's theft.
+Documents.
+And Jake, you said at news of these arrests really just stunning the NBA in the week of its own openers. Rozier actually playing against the Magic last night, sitting out on the sidelines that was arrested this morning in Orlando. His attorney says that he fully plans to fight these charges. And Billups, he coached his team, the Trailblazers, last night, was arrested in Portland this morning. Both men are going to be coming back here to New York to face these federal charges. In the meantime, the NBA says that both men are on immediate leave from the their teams while they review these indictments. Jake.
+Yes.
+Yeah, that little tiny. Whatever that is.
+when I hear it again?
+

@@ -1,0 +1,6572 @@
+=== SUMMARY: /Users/sanji/Desktop/Visual Studio/Streamer Project Code/data/transcripts/HasanAbi 11-04-2025 PART 1 transcript.txt ===
+speaker	unique_tokens	total_tokens	percent_tokens	blocks
+Speaker A	685	2650	9.39	129
+Speaker B	2424	14108	50.01	337
+Speaker C	1566	7839	27.79	218
+Speaker D	1006	3613	12.81	179
+
+Notes:
+- blocks = number of times that speaker appears as a SPEAKER_PREFIX header.
+- percent_tokens is computed from tokenized text across all speakers.
+- lowercase=OFF.
+
+== Speaker A Word Frequency ==
+.	299
+,	155
+I	88
+the	67
+to	55
+a	48
+and	37
+you	35
+that	33
+in	33
+of	31
+is	31
+like	27
+know	25
+on	24
+?	21
+Yeah	20
+for	20
+don't	18
+would	18
+we	18
+think	17
+it	16
+are	16
+want	16
+have	15
+can	15
+And	14
+people	14
+Well	14
+Cuomo	13
+do	13
+mean	13
+We	13
+I'm	12
+New	12
+York	12
+be	12
+It's	11
+going	11
+this	11
+not	10
+all	10
+but	10
+get	10
+So	10
+just	9
+my	9
+right	9
+You	9
+out	9
+an	9
+here	9
+good	9
+at	9
+that's	8
+plan	8
+their	8
+say	8
+kids	8
+it's	7
+The	7
+My	7
+name	7
+This	7
+lot	7
+That's	7
+you're	7
+there	7
+Right	7
+There	7
+city	7
+Nebraska	7
+with	6
+me	6
+I've	6
+so	6
+how	6
+because	6
+your	6
+will	6
+live	6
+was	6
+buses	6
+time	6
+Andrew	6
+calling	5
+campaign	5
+Yes	5
+who	5
+But	5
+vote	5
+then	5
+could	5
+create	5
+more	5
+guys	5
+door	5
+go	5
+take	5
+one	5
+Sam	4
+we're	4
+today	4
+been	4
+which	4
+support	4
+fine	4
+rents	4
+them	4
+sure	4
+less	4
+stay	4
+life	4
+were	4
+We're	4
+those	4
+back	4
+need	4
+into	4
+great	4
+from	4
+wants	4
+Majority	3
+Oh	3
+John	3
+How	3
+already	3
+doing	3
+very	3
+did	3
+crazy	3
+It	3
+says	3
+call	3
+other	3
+candidate	3
+about	3
+part	3
+if	3
+affordability	3
+high	3
+rent	3
+come	3
+only	3
+way	3
+now	3
+City	3
+make	3
+where	3
+they're	3
+see	3
+private	3
+Which	3
+these	3
+taxes	3
+some	3
+they	3
+as	3
+well	3
+has	3
+stickers	3
+congestion	3
+our	3
+Like	3
+subways	3
+subway	3
+Vegas	3
+or	3
+things	3
+every	3
+care	3
+own	3
+he	3
+hear	3
+thing	3
+being	3
+Party	3
+Greater	3
+majority	2
+Who	2
+Mahority	2
+Your	2
+common	2
+had	2
+God	2
+list	2
+didn't	2
+got	2
+numbers	2
+should	2
+give	2
+Hey	2
+election	2
+Do	2
+voted	2
+really	2
+enough	2
+free	2
+wealthier	2
+outside	2
+happen	2
+order	2
+Emma	2
+Hasan	2
+talking	2
+luxury	2
+wealthy	2
+Florida	2
+jets	2
+certainly	2
+can't	2
+No	2
+said	2
+fly	2
+together	2
+three	2
+considered	2
+Have	2
+zones	2
+by	2
+pay	2
+fair	2
+share	2
+rich	2
+no	2
+let's	2
+apartment	2
+building	2
+neighbor	2
+Okay	2
+anything	2
+They	2
+space	2
+place	2
+gone	2
+entirely	2
+use	2
+votes	2
+That	2
+Less	2
+also	2
+problem	2
+start	2
+four	2
+system	2
+worked	2
+tens	2
+country	2
+Tesla	2
+What's	2
+focus	2
+child	2
+become	2
+These	2
+Even	2
+he's	2
+what	2
+him	2
+sounds	2
+If	2
+track	2
+tonight	2
+bro	2
+Yep	2
+In	2
+lose	2
+voters	2
+Democratic	2
+destroy	2
+Brown	2
+County	2
+best	2
+us	2
+Project	2
+feel	2
+send	2
+half	2
+ideas	2
+Rapport	1
+Cedar	1
+What	1
+Pvd	1
+report	1
+Is	1
+safe	1
+positive	1
+goes	1
+satire	1
+top	1
+Today	1
+maharity	1
+rapport	1
+behalf	1
+Under	1
+Mayor	1
+Trust	1
+phone	1
+tons	1
+different	1
+names	1
+Vanity	1
+talked	1
+mall	1
+Malamar	1
+How's	1
+last	1
+Theater	1
+All	1
+Phone	1
+bank	1
+am	1
+number	1
+up	1
+A	1
+gave	1
+whole	1
+300th	1
+Calling	1
+Did	1
+tell	1
+whether	1
+pitch	1
+Sorry	1
+confusion	1
+okay	1
+red	1
+day	1
+crucial	1
+Crucial	1
+voice	1
+heard	1
+aware	1
+affordable	1
+crisis	1
+too	1
+freeze	1
+higher	1
+raise	1
+considerably	1
+able	1
+understand	1
+language	1
+yes	1
+both	1
+sense	1
+term	1
+Luxury	1
+Good	1
+poor	1
+housed	1
+elsewhere	1
+used	1
+leaving	1
+coming	1
+expensive	1
+invited	1
+several	1
+afford	1
+jet	1
+commercial	1
+point	1
+what's	1
+called	1
+Net	1
+shares	1
+group	1
+families	1
+points	1
+thinking	1
+instance	1
+certain	1
+class	1
+permitted	1
+entered	1
+Not	1
+Lower	1
+raising	1
+richer	1
+money	1
+deserve	1
+analogy	1
+before	1
+Back	1
+Because	1
+hit	1
+clean	1
+except	1
+knocker	1
+bunch	1
+over	1
+One	1
+climb	1
+Washington	1
+There's	1
+ton	1
+hikers	1
+travel	1
+put	1
+sort	1
+unseemly	1
+Now	1
+They're	1
+anymore	1
+Their	1
+doors	1
+speak	1
+necessarily	1
+word	1
+appreciate	1
+question	1
+Slower	1
+sends	1
+message	1
+harder	1
+maybe	1
+Buses	1
+Certainly	1
+Manhattan	1
+boroughs	1
+creates	1
+Traffic	1
+problems	1
+cars	1
+speaking	1
+directly	1
+incredible	1
+run	1
+Eliminate	1
+definitely	1
+slower	1
+available	1
+Super	1
+crime	1
+taking	1
+years	1
+completely	1
+eliminate	1
+Elon	1
+Musk	1
+tunnel	1
+Look	1
+Teslas	1
+transporting	1
+another	1
+Las	1
+most	1
+heavily	1
+visited	1
+cities	1
+five	1
+accommodated	1
+absolutely	1
+transformation	1
+tunnels	1
+Thank	1
+universal	1
+entire	1
+Let's	1
+why	1
+Doesn't	1
+Folks	1
+pie	1
+sky	1
+done	1
+He	1
+doesn't	1
+taken	1
+sometimes	1
+themselves	1
+successful	1
+later	1
+thinks	1
+box	1
+probably	1
+age	1
+2	1
+3	1
+4	1
+saying	1
+Some	1
+Travel	1
+navigate	1
+olds	1
+ballpark	1
+basketball	1
+court	1
+play	1
+children	1
+find	1
+home	1
+kid	1
+He's	1
+22	1
+moment	1
+Sigma	1
+mindset	1
+Corner	1
+behind	1
+talk	1
+sound	1
+simpatico	1
+far	1
+When	1
+when	1
+listen	1
+Hassan	1
+Piker	1
+young	1
+online	1
+Stay	1
+To	1
+always	1
+important	1
+changing	1
+mind	1
+Same	1
+though	1
+illegally	1
+Vote	1
+Get	1
+haven't	1
+met	1
+yet	1
+I'll	1
+try	1
+party	1
+taught	1
+Bro	1
+Am	1
+Y	1
+reason	1
+standoff	1
+billions	1
+dollars	1
+financial	1
+incentive	1
+giant	1
+magnet	1
+attract	1
+illegals	1
+leave	1
+longer	1
+paid	1
+Immigrant	1
+Whoa	1
+turned	1
+off	1
+nutshell	1
+democracy	1
+importing	1
+Republican	1
+disagrees	1
+California	1
+super	1
+Democrat	1
+Here	1
+From	1
+Kowalski	1
+Very	1
+bad	1
+cold	1
+operating	1
+heavy	1
+machinery	1
+drinking	1
+Coughing	1
+syrup	1
+isolated	1
+ranch	1
+Don't	1
+worry	1
+actually	1
+staging	1
+operation	1
+Northern	1
+Movement	1
+reclaim	1
+lost	1
+territories	1
+federal	1
+government	1
+assume	1
+D	1
+C	1
+wiped	1
+push	1
+Dakotas	1
+blitz	1
+Bismarck	1
+oil	1
+fields	1
+mayoral	1
+option	1
+moral	1
+North	1
+Dakota	1
+artificial	1
+construct	1
+Minnesota	1
+history	1
+supporting	1
+State	1
+Israel	1
+his	1
+route	1
+again	1
+Curtis	1
+seems	1
+militant	1
+guy	1
+However	1
+since	1
+Mamdani	1
+clearly	1
+As	1
+states	1
+rip	1
+republic	1
+apart	1
+who's	1
+movement	1
+See	1
+horse	1
+million	1
+hour	1
+Flight	1
+barely	1
+hands	1
+planes	1
+ballots	1
+there's	1
+still	1
+flight	1
+Without	1
+TSA	1
+force	1
+basically	1
+until	1
+accordion	1
+huh	1
+unfortunate	1
+look	1
+greatest	1
+synergy	1
+types	1
+never	1
+meant	1
+form	1
+synthesis	1
+true	1
+bet	1
+work	1
+nypd	1
+harassment	1
+fantastic	1
+seriousness	1
+hope	1
+obviously	1
+rooting	1
+Bomb	1
+Donnie	1
+least	1
+fearing	1
+Americans	1
+Italians	1
+putting	1
+video	1
+couple	1
+hours	1
+audience	1
+might	1
+enjoy	1
+yeah	1
+long	1
+winded	1
+plug	1
+something	1
+myself	1
+blatantly	1
+wasting	1
+guys's	1
+Wow	1
+thin	1
+air	1
+
+== Speaker B Word Frequency ==
+.	1127
+,	890
+the	461
+to	306
+I	289
+is	266
+of	248
+a	241
+that	232
+you	208
+like	208
+and	189
+in	157
+it	133
+this	118
+for	110
+And	105
+?	104
+they	102
+know	97
+was	87
+have	82
+on	79
+are	75
+not	66
+just	65
+don't	65
+think	64
+going	62
+we	58
+what	58
+with	57
+it's	56
+be	55
+people	54
+all	50
+mean	50
+get	49
+but	48
+who	46
+there	45
+out	43
+about	43
+But	43
+from	42
+he	42
+if	42
+Yeah	41
+do	38
+You	37
+because	37
+at	36
+Like	36
+your	35
+say	35
+one	34
+now	34
+right	33
+an	33
+or	33
+can	31
+so	30
+no	30
+as	29
+would	29
+So	29
+It's	28
+They	28
+This	28
+there's	28
+up	27
+The	27
+we're	27
+see	27
+you're	27
+go	26
+more	26
+has	26
+It	25
+here	25
+been	25
+they're	25
+that's	24
+some	24
+sort	24
+then	24
+New	23
+when	23
+me	23
+thing	23
+We	22
+were	22
+will	21
+What	21
+only	21
+even	21
+his	20
+back	20
+got	20
+want	19
+them	19
+I'm	19
+which	18
+other	18
+had	18
+he's	18
+way	18
+Cuomo	18
+vote	18
+my	17
+their	17
+these	17
+could	17
+did	17
+said	17
+off	16
+time	16
+also	16
+All	16
+He	16
+let's	16
+where	16
+two	16
+doing	16
+folks	15
+actually	15
+use	15
+how	15
+half	15
+him	15
+into	15
+information	15
+why	15
+Democratic	15
+That's	14
+show	14
+really	14
+too	14
+those	14
+Okay	13
+day	13
+stuff	13
+around	13
+York	13
+maybe	13
+make	13
+Oh	13
+SNAP	13
+Well	12
+best	12
+any	12
+things	12
+us	12
+our	12
+part	12
+Right	12
+problem	12
+year	12
+Why	12
+call	12
+by	11
+20	11
+%	11
+They're	11
+years	11
+something	11
+much	11
+talking	11
+money	11
+put	11
+didn't	11
+fact	11
+great	10
+than	10
+today	10
+second	10
+country	10
+Dick	10
+obviously	10
+Party	10
+down	10
+never	10
+Delete	10
+Me	10
+come	10
+need	10
+There's	10
+can't	10
+calling	10
+wait	10
+little	9
+Majority	9
+Trump	9
+gonna	9
+literally	9
+over	9
+course	9
+He's	9
+both	9
+saying	9
+If	9
+There	9
+Is	9
+does	9
+same	9
+months	9
+yeah	9
+oh	9
+government	9
+idea	9
+Wait	9
+phone	9
+$	9
+Let's	9
+That	9
+she	9
+find	8
+code	8
+Sam	8
+program	8
+benefits	8
+Israel	8
+video	8
+real	8
+person	8
+big	8
+side	8
+basically	8
+we'll	8
+send	8
+majority	8
+doesn't	8
+let	8
+probably	8
+look	8
+three	8
+kids	8
+Andrew	8
+In	8
+2	8
+Where	8
+election	7
+fun	7
+different	7
+always	7
+Piker	7
+very	7
+well	7
+Democrats	7
+across	7
+Cheney	7
+When	7
+someone	7
+through	7
+having	7
+Now	7
+clear	7
+against	7
+good	7
+saw	7
+I've	7
+somebody	7
+work	7
+take	7
+Exactly	7
+try	7
+what's	7
+guy	7
+care	7
+whole	7
+talk	7
+being	7
+happening	7
+party	7
+Schumer	7
+free	7
+you've	7
+Yes	7
+3	7
+last	7
+Yorkers	7
+voting	7
+com	6
+name	6
+Hasan	6
+first	6
+city	6
+most	6
+getting	6
+couple	6
+million	6
+lie	6
+Republican	6
+American	6
+cannot	6
+square	6
+continue	6
+says	6
+movie	6
+tell	6
+sorry	6
+data	6
+keep	6
+10	6
+Emma	6
+afraid	6
+wanted	6
+9	6
+should	6
+Because	6
+No	6
+bit	6
+Who	6
+wouldn't	6
+What's	6
+support	6
+new	6
+ability	6
+guess	6
+We're	6
+coming	6
+000	6
+funding	6
+help	5
+seven	5
+bunch	5
+America	5
+November	5
+4	5
+Cedar	5
+provide	5
+shutdown	5
+ever	5
+lot	5
+honestly	5
+directly	5
+hard	5
+least	5
+lying	5
+weapons	5
+true	5
+word	5
+called	5
+feel	5
+we've	5
+room	5
+buy	5
+every	5
+Hassan	5
+Do	5
+health	5
+campaign	5
+Adams	5
+start	5
+indicative	5
+seeing	5
+level	5
+era	5
+between	5
+voted	5
+John	5
+immigrants	5
+aside	5
+stop	5
+Chuck	5
+Republicans	5
+may	5
+okay	5
+Here's	5
+tonight	5
+freaking	5
+spend	5
+lobster	5
+Rogan	5
+magnet	5
+Are	4
+left	4
+means	4
+guys	4
+thousands	4
+five	4
+On	4
+City	4
+material	4
+win	4
+US	4
+month	4
+found	4
+lives	4
+many	4
+past	4
+aware	4
+entire	4
+reason	4
+Meet	4
+Press	4
+She	4
+Times	4
+insane	4
+went	4
+moon	4
+doubt	4
+ones	4
+made	4
+interesting	4
+70	4
+mom	4
+life	4
+am	4
+before	4
+works	4
+possible	4
+looking	4
+I'll	4
+almost	4
+happened	4
+game	4
+trying	4
+imagine	4
+wants	4
+white	4
+ago	4
+end	4
+watch	4
+world	4
+college	4
+listen	4
+8	4
+post	4
+her	4
+during	4
+notion	4
+broadly	4
+speaking	4
+ideology	4
+Buchanan	4
+As	4
+able	4
+15	4
+running	4
+looks	4
+You're	4
+system	4
+generation	4
+Joe	4
+far	4
+fascinating	4
+table	4
+sure	4
+done	4
+job	4
+line	4
+seen	4
+Matt	4
+Fun	4
+single	4
+Two	4
+Bye	4
+Benjamin	4
+Not	4
+How	4
+believe	4
+Which	4
+average	4
+Jesus	4
+poor	4
+First	4
+amazing	4
+making	4
+place	4
+hear	4
+Wow	4
+happens	4
+subsidies	4
+insurance	4
+Brian	4
+brought	3
+live	3
+ladies	3
+gentlemen	3
+feeling	3
+perfect	3
+case	3
+@	3
+Tinctures	3
+Vermont	3
+movement	3
+wake	3
+Just	3
+deal	3
+Tuesday	3
+Big	3
+Maine	3
+war	3
+age	3
+Some	3
+Donald	3
+amount	3
+Tucker	3
+guest	3
+role	3
+lost	3
+responsible	3
+took	3
+individual	3
+bad	3
+public	3
+clip	3
+whatever	3
+Miller	3
+fake	3
+Saddam	3
+Hussein	3
+mass	3
+destruction	3
+pushing	3
+type	3
+sorts	3
+gave	3
+People	3
+evidence	3
+wealth	3
+makes	3
+easy	3
+quick	3
+personal	3
+everyone	3
+primary	3
+bucks	3
+email	3
+such	3
+broker	3
+exactly	3
+long	3
+they've	3
+media	3
+constantly	3
+working	3
+used	3
+delete	3
+plan	3
+break	3
+report	3
+next	3
+play	3
+11	3
+actual	3
+olds	3
+give	3
+point	3
+drop	3
+opportunity	3
+October	3
+God	3
+25	3
+human	3
+instance	3
+old	3
+politician	3
+Pelosi	3
+wall	3
+read	3
+question	3
+story	3
+essentially	3
+thought	3
+Eric	3
+dynamic	3
+simultaneously	3
+fight	3
+within	3
+context	3
+they'll	3
+difference	3
+grew	3
+To	3
+Maybe	3
+eventually	3
+outside	3
+anti	3
+happen	3
+after	3
+due	3
+reporting	3
+four	3
+rid	3
+sitting	3
+These	3
+cut	3
+You've	3
+trans	3
+longer	3
+calls	3
+We'll	3
+yes	3
+again	3
+7	3
+North	3
+Texas	3
+six	3
+better	3
+nuts	3
+sense	3
+5	3
+1	3
+'	3
+clock	3
+already	3
+Love	3
+who's	3
+expensive	3
+buses	3
+universal	3
+everybody	3
+Honestly	3
+volunteers	3
+paid	3
+snap	3
+Here	3
+number	3
+church	3
+remember	3
+Cooper	3
+Daily	3
+checked	3
+checks	3
+anywhere	3
+tails	3
+giving	3
+undocumented	3
+still	3
+another	3
+Post	3
+private	3
+residents	3
+leave	3
+high	3
+foot	3
+anything	3
+third	3
+car	3
+scaffolding	3
+gives	3
+illegals	3
+hey	3
+ACA	3
+gerrymandering	3
+Chicago	3
+weren't	3
+polling	3
+Or	3
+Hi	2
+Today's	2
+sponsors	2
+Great	2
+Saba	2
+infused	2
+Day	2
+beautiful	2
+without	2
+pest	2
+Also	2
+built	2
+relief	2
+aid	2
+company	2
+product	2
+Left	2
+Check	2
+winning	2
+Report	2
+term	2
+California	2
+states	2
+race	2
+narrative	2
+Meanwhile	2
+criminal	2
+Senate	2
+becomes	2
+beneficiaries	2
+its	2
+student	2
+Fuentes	2
+love	2
+hostage	2
+studio	2
+needed	2
+together	2
+upset	2
+policy	2
+away	2
+congressman	2
+shame	2
+cell	2
+absolute	2
+horrors	2
+hundreds	2
+Iraqis	2
+complete	2
+respects	2
+involved	2
+35	2
+others	2
+ended	2
+bringing	2
+telling	2
+told	2
+reminder	2
+couldn't	2
+See	2
+shot	2
+Scooter	2
+Libby	2
+chief	2
+staff	2
+Judy	2
+leaked	2
+raw	2
+assessed	2
+functions	2
+Americans	2
+goes	2
+Internet	2
+news	2
+sounds	2
+pay	2
+future	2
+confrontations	2
+oil	2
+else	2
+frankly	2
+Chaney	2
+Christian	2
+Was	2
+effort	2
+might	2
+road	2
+sponsor	2
+safe	2
+common	2
+using	2
+became	2
+service	2
+brokers	2
+doxxed	2
+H	2
+s	2
+sound	2
+Whatever	2
+privacy	2
+Their	2
+based	2
+quite	2
+Private	2
+special	2
+joinedeleteme	2
+checkout	2
+join	2
+Vigland	2
+introduce	2
+disgusting	2
+welcome	2
+ask	2
+move	2
+building	2
+War	2
+started	2
+commercials	2
+though	2
+Then	2
+50	2
+60	2
+communicate	2
+father	2
+guy's	2
+From	2
+hit	2
+chance	2
+SLIWA	2
+interceded	2
+reported	2
+weeks	2
+turns	2
+consultants	2
+soak	2
+democracy	2
+airport	2
+yelling	2
+politicians	2
+situation	2
+Donnie	2
+Nancy	2
+decade	2
+multiple	2
+decades	2
+arts	2
+Cheney's	2
+drive	2
+destroy	2
+leveraging	2
+shifted	2
+partisanship	2
+shift	2
+Ezra	2
+Klein	2
+governance	2
+losing	2
+ends	2
+direct	2
+Jews	2
+black	2
+tough	2
+Pap	2
+Pat	2
+differences	2
+Bill	2
+O'Reilly	2
+99	2
+C	2
+book	2
+populist	2
+outed	2
+non	2
+wasn't	2
+represents	2
+Kufi	2
+Rights	2
+act	2
+intense	2
+sustainable	2
+attempt	2
+Twitter	2
+Twitch	2
+independent	2
+extreme	2
+puts	2
+similar	2
+less	2
+areas	2
+candidates	2
+fighting	2
+credit	2
+words	2
+eight	2
+gang	2
+filibuster	2
+please	2
+allowed	2
+seniority	2
+committees	2
+greatest	2
+She's	2
+boomer	2
+Hakeem	2
+Jeffries	2
+perspective	2
+kid	2
+leader	2
+cloth	2
+picture	2
+piece	2
+abundance	2
+national	2
+candidate	2
+Biden	2
+close	2
+Bernie	2
+Sanders	2
+either	2
+elections	2
+popular	2
+label	2
+change	2
+argument	2
+consistent	2
+Even	2
+clips	2
+coverage	2
+member	2
+parties	2
+yet	2
+anniversary	2
+Of	2
+CO2	2
+levels	2
+office	2
+2024	2
+December	2
+David	2
+become	2
+reckoning	2
+talked	2
+changes	2
+soon	2
+Friday	2
+necessarily	2
+wow	2
+Hold	2
+hold	2
+Pack	2
+Sorry	2
+Hello	2
+mind	2
+stupid	2
+Basically	2
+For	2
+ideas	2
+anymore	2
+Gotta	2
+jump	2
+Every	2
+Calling	2
+area	2
+Who's	2
+Dude	2
+possibly	2
+Tell	2
+pitch	2
+ahead	2
+sky	2
+must	2
+taxes	2
+child	2
+available	2
+later	2
+understanding	2
+100	2
+Ben	2
+walked	2
+wonder	2
+cover	2
+administration	2
+laws	2
+week	2
+whether	2
+statutorily	2
+obligated	2
+heard	2
+Corolla	2
+Reagan	2
+surprise	2
+example	2
+meantime	2
+feed	2
+scripture	2
+Mr	2
+Didn't	2
+seems	2
+Brett	2
+she's	2
+Really	2
+legally	2
+Crowder	2
+posted	2
+grocery	2
+13	2
+income	2
+jobs	2
+general	2
+since	2
+kind	2
+baby	2
+daddies	2
+Pause	2
+dollar	2
+each	2
+economic	2
+Go	2
+copied	2
+knew	2
+Did	2
+D	2
+undercutting	2
+played	2
+videos	2
+Lee	2
+poll	2
+ready	2
+Put	2
+roll	2
+SUVs	2
+flee	2
+Mamdani	2
+largest	2
+history	2
+population	2
+definitely	2
+elected	2
+Mail	2
+Google	2
+scroll	2
+distributed	2
+Instagram	2
+Deborah	2
+becoming	2
+thinks	2
+types	2
+rest	2
+panic	2
+redistribute	2
+fear	2
+living	2
+electoral	2
+politics	2
+convinced	2
+respect	2
+capable	2
+viable	2
+streamers	2
+biggest	2
+peek	2
+metaphor	2
+wins	2
+Hopefully	2
+attempts	2
+missed	2
+earth	2
+comedians	2
+claim	2
+fraud	2
+incidentally	2
+immigrant	2
+visa	2
+countries	2
+voters	2
+kicked	2
+process	2
+documented	2
+40	2
+subsidized	2
+opposed	2
+importing	2
+takes	2
+vast	2
+His	2
+times	2
+aren't	2
+voter	2
+citizen	2
+impersonate	2
+shows	2
+swarthy	2
+Democrat	2
+revolution	2
+Michigan	2
+ticking	2
+pilot	2
+light	2
+shining	2
+episode	1
+favorite	1
+Foreign	1
+anxious	1
+Sunset	1
+Lake	1
+sunsetlake	1
+sabiday	1
+You'll	1
+smokables	1
+pre	1
+rolls	1
+keef	1
+tinctures	1
+relax	1
+sleep	1
+teh	1
+Say	1
+fudge	1
+coffee	1
+lotions	1
+salves	1
+SEBA	1
+grown	1
+sunshine	1
+pesticides	1
+integrated	1
+management	1
+grow	1
+crops	1
+counteract	1
+regenerative	1
+farming	1
+practices	1
+conjunction	1
+University	1
+top	1
+partners	1
+donated	1
+tens	1
+dollars	1
+strike	1
+funds	1
+carceral	1
+reform	1
+Planned	1
+Parenthood	1
+refugee	1
+resettlement	1
+They've	1
+engaged	1
+mutual	1
+floods	1
+coupon	1
+destiny	1
+safer	1
+hands	1
+conference	1
+rooms	1
+elite	1
+unanimous	1
+hate	1
+2025	1
+My	1
+award	1
+broadcasting	1
+steps	1
+industrially	1
+ravaged	1
+Gowanus	1
+Canal	1
+heartland	1
+downtown	1
+Brooklyn	1
+usa	1
+Show	1
+Election	1
+Whoo	1
+Trump's	1
+races	1
+Virginia	1
+Jersey	1
+governorship	1
+Key	1
+referendums	1
+significant	1
+mayor's	1
+implications	1
+disgraced	1
+uncharged	1
+dead	1
+Nosferatu	1
+Dems	1
+hinting	1
+caving	1
+longest	1
+exceedingly	1
+painful	1
+including	1
+Snap	1
+particularly	1
+restart	1
+delayed	1
+Manufacturing	1
+shrinks	1
+eighth	1
+Proposes	1
+UN	1
+Mandated	1
+international	1
+force	1
+Gaza	1
+sued	1
+regime's	1
+restrictions	1
+loan	1
+forgiveness	1
+Heritage	1
+turmoil	1
+gripers	1
+Lastly	1
+arrests	1
+leaker	1
+showing	1
+Israeli	1
+soldiers	1
+raping	1
+Palestinian	1
+detainee	1
+today's	1
+Welcome	1
+moments	1
+died	1
+minutes	1
+himself	1
+kazoo	1
+anyway	1
+Look	1
+passes	1
+vice	1
+president	1
+senator	1
+passed	1
+jail	1
+account	1
+Military	1
+personnel	1
+direction	1
+unitary	1
+executive	1
+theory	1
+empowered	1
+eviscerated	1
+Congress's	1
+curtailing	1
+military	1
+adventures	1
+worst	1
+challenges	1
+remembered	1
+electorate	1
+remotely	1
+known	1
+Project	1
+Century	1
+1991	1
+untold	1
+lies	1
+dramatic	1
+face	1
+powerful	1
+eyes	1
+eye	1
+famous	1
+Pen	1
+ultimate	1
+leak	1
+false	1
+eager	1
+Hoover	1
+reporter	1
+spent	1
+visit	1
+Pentagon	1
+bureaucratic	1
+comes	1
+decided	1
+Incidentally	1
+Judith	1
+sell	1
+barely	1
+asked	1
+quotes	1
+source	1
+attention	1
+untrue	1
+clearly	1
+Simply	1
+stated	1
+amassing	1
+friends	1
+allies	1
+aggressive	1
+regional	1
+ambitions	1
+lead	1
+neighbors	1
+involve	1
+develop	1
+Galactic	1
+Nurse	1
+Boogs	1
+Vice	1
+comedy	1
+Bale	1
+douche	1
+screening	1
+McKay	1
+enjoy	1
+humanize	1
+psychodrama	1
+Hitler	1
+mad	1
+diminished	1
+horror	1
+unleashed	1
+innocent	1
+Fireboarding	1
+inert	1
+dirt	1
+Minicker	1
+Said	1
+faced	1
+accountability	1
+pull	1
+hamstring	1
+morning	1
+Dancing	1
+denouncing	1
+remove	1
+online	1
+surveillance	1
+breaches	1
+enough	1
+vulnerable	1
+lunatics	1
+scrubs	1
+easily	1
+dmv	1
+suppose	1
+issue	1
+fishers	1
+P	1
+E	1
+R	1
+dark	1
+web	1
+steal	1
+identity	1
+links	1
+wiping	1
+family's	1
+websites	1
+knows	1
+worth	1
+protecting	1
+sign	1
+deleted	1
+experts	1
+regularly	1
+upon	1
+scrubbed	1
+personalized	1
+reports	1
+removed	1
+continues	1
+site	1
+sites	1
+repopulate	1
+monitoring	1
+removing	1
+thanks	1
+sponsoring	1
+while	1
+Take	1
+control	1
+Keep	1
+signing	1
+discount	1
+listeners	1
+website	1
+promo	1
+Enter	1
+Quick	1
+Before	1
+condemn	1
+Disavow	1
+Disgusting	1
+muscle	1
+confusing	1
+contemporaneous	1
+hologram	1
+Steel	1
+melt	1
+Games	1
+Matthew	1
+Broderick	1
+Accidentally	1
+computer	1
+World	1
+Three	1
+Dysfunction	1
+Knicks	1
+desperate	1
+boogeyman	1
+mainstream	1
+finance	1
+cable	1
+television	1
+platforms	1
+demonize	1
+ad	1
+understand	1
+Can	1
+weakness	1
+nationalism	1
+Lafayette	1
+Grand	1
+segue	1
+broader	1
+preempted	1
+dropping	1
+entity	1
+offered	1
+slowed	1
+barnacles	1
+ship	1
+Bloomberg	1
+Ackman	1
+dumb	1
+billionaire	1
+dump	1
+Paul	1
+Bless	1
+tweeted	1
+16th	1
+surmised	1
+More	1
+consumes	1
+Answer	1
+obsessed	1
+donor	1
+hurting	1
+walking	1
+terrorist	1
+cohort	1
+sending	1
+function	1
+period	1
+ilk	1
+bereft	1
+Janet	1
+Mills	1
+Particularly	1
+sensitivity	1
+writing	1
+brace	1
+retirement	1
+bracing	1
+cleave	1
+extremes	1
+Good	1
+danced	1
+grave	1
+lack	1
+awareness	1
+middle	1
+Newt	1
+Gingrich	1
+introduced	1
+conservatism	1
+underlying	1
+racism	1
+bullshit	1
+hatred	1
+tax	1
+cuts	1
+recipe	1
+changed	1
+balance	1
+believed	1
+Tea	1
+Cantor	1
+cosplaying	1
+Know	1
+Cantor's	1
+racist	1
+corporate	1
+cynic	1
+operate	1
+distinct	1
+ideal	1
+strategy	1
+noticed	1
+debate	1
+electability	1
+seamlessly	1
+Obama	1
+kkk	1
+Birch	1
+Society	1
+descendant	1
+split	1
+Nick	1
+Putting	1
+secretly	1
+gay	1
+grant	1
+Bucan	1
+Happy	1
+Canada	1
+bring	1
+MSNBC	1
+aughts	1
+Jew	1
+criticized	1
+dirty	1
+criticism	1
+span	1
+written	1
+FO	1
+quote	1
+effect	1
+airplane	1
+drink	1
+champagne	1
+orange	1
+juice	1
+mimosa	1
+yell	1
+stewardess	1
+faction	1
+ADL	1
+understood	1
+center	1
+collapses	1
+deliver	1
+static	1
+Semitism	1
+alienate	1
+matter	1
+aspirational	1
+values	1
+starting	1
+1965	1
+Voting	1
+Civil	1
+legacy	1
+contradiction	1
+fair	1
+tremendous	1
+knuckled	1
+TikTok	1
+tick	1
+tock	1
+rather	1
+creators	1
+yourself	1
+reaching	1
+millions	1
+problematic	1
+nuanced	1
+defections	1
+Schiff	1
+Heinrich	1
+meeting	1
+Gillibrand	1
+primaries	1
+Credit	1
+mentioned	1
+yesterday	1
+ten	1
+heels	1
+heat	1
+Only	1
+floor	1
+Otherwise	1
+trouble	1
+protected	1
+Imagine	1
+aisle	1
+fealty	1
+older	1
+atop	1
+starving	1
+oxygen	1
+Little	1
+younger	1
+Anybody	1
+kept	1
+loop	1
+functioning	1
+1990s	1
+chosen	1
+ourselves	1
+speaker	1
+minority	1
+considered	1
+attributes	1
+Yorker	1
+magazine	1
+socialism	1
+representing	1
+presidential	1
+remains	1
+points	1
+presidency	1
+2016	1
+2020	1
+ran	1
+loser	1
+contrast	1
+columnist	1
+where's	1
+base	1
+COVID	1
+Where's	1
+nobody	1
+Manchin	1
+helps	1
+electorally	1
+internalize	1
+sit	1
+position	1
+sacrosanct	1
+abortion	1
+rights	1
+numbers	1
+assessment	1
+brand	1
+extent	1
+exists	1
+appeal	1
+head	1
+listener	1
+8ish	1
+hopefully	1
+various	1
+Zoron	1
+stringer	1
+drinking	1
+here's	1
+Today	1
+4th	1
+Viglan	1
+onto	1
+Damn	1
+Roger	1
+came	1
+Everything	1
+jerry	1
+rigged	1
+window	1
+measures	1
+congratulations	1
+Thank	1
+appreciate	1
+Five	1
+suggestions	1
+mainvancereportersmail	1
+subject	1
+somber	1
+Don't	1
+suggestion	1
+Somebody	1
+Feldman	1
+ice	1
+Humorous	1
+Send	1
+emotion	1
+chart	1
+ballot	1
+jointhe	1
+MajorityReport	1
+:	1
+00	1
+Eastern	1
+Griscom	1
+Talk	1
+Catherine	1
+Lu	1
+conversation	1
+DSA	1
+algorithmic	1
+rental	1
+pricing	1
+Sandeep	1
+competes	1
+FTC	1
+implement	1
+gutted	1
+games	1
+programming	1
+afternoons	1
+clean	1
+announcements	1
+giggling	1
+bursting	1
+seams	1
+extra	1
+Head	1
+nine	1
+18	1
+path	1
+hack	1
+Bradley	1
+hello	1
+disappoint	1
+random	1
+boys	1
+Stop	1
+finish	1
+dude	1
+smoke	1
+7A	1
+Libertarians	1
+Though	1
+nailed	1
+Challenge	1
+men	1
+quivering	1
+0	1
+011	1
+trillion	1
+Sold	1
+zero	1
+sum	1
+satire	1
+Without	1
+Hey	1
+buddy	1
+Sun's	1
+guns	1
+entertain	1
+cares	1
+Our	1
+chat	1
+enabled	1
+gotta	1
+o	1
+late	1
+dick	1
+screw	1
+Sent	1
+gulag	1
+wrong	1
+port	1
+piker	1
+turning	1
+voicemail	1
+Callers	1
+populate	1
+receive	1
+own	1
+Med	1
+bed	1
+card	1
+Dilbert	1
+phones	1
+646	1
+fine	1
+early	1
+Solid	1
+Greyhound	1
+lowering	1
+rich	1
+I'M	1
+Mm	1
+Gotcha	1
+entirely	1
+Buses	1
+slower	1
+message	1
+subways	1
+misunderstanding	1
+Pie	1
+True	1
+ages	1
+Your	1
+contact	1
+hi	1
+suspect	1
+Easy	1
+invite	1
+holiday	1
+Zorron	1
+dozen	1
+unpaid	1
+definitionally	1
+Como	1
+Cannot	1
+handing	1
+Upper	1
+east	1
+Thursday	1
+doctor	1
+block	1
+hand	1
+Food	1
+stamp	1
+judges	1
+Boston	1
+Rhode	1
+Island	1
+Providence	1
+ordered	1
+problems	1
+One	1
+recipients	1
+42	1
+entitled	1
+under	1
+days	1
+miss	1
+Ilhano	1
+Mar	1
+meanwhile	1
+moved	1
+immediately	1
+mode	1
+deserved	1
+weight	1
+relevant	1
+Ronald	1
+Indiana's	1
+Lieutenant	1
+Governor	1
+Mika	1
+Beckwith	1
+nationalist	1
+timing	1
+Dinosaurs	1
+dinosaurs	1
+Too	1
+providing	1
+principal	1
+Bottom	1
+reading	1
+set	1
+explicitly	1
+courts	1
+ruled	1
+solo	1
+Independent	1
+bottom	1
+necessary	1
+Demonizing	1
+step	1
+shouldn't	1
+cited	1
+Shapiro's	1
+clone	1
+Wasn't	1
+developed	1
+taking	1
+hair	1
+taken	1
+advantage	1
+transition	1
+cost	1
+taxpayers	1
+145	1
+billion	1
+Recipients	1
+twice	1
+worker	1
+store	1
+loose	1
+Steven	1
+notes	1
+according	1
+Dumbass	1
+Institute	1
+conceivable	1
+comparing	1
+apples	1
+oranges	1
+workers	1
+tend	1
+groceries	1
+compare	1
+lower	1
+wage	1
+nevertheless	1
+everything	1
+helping	1
+needs	1
+stripped	1
+rebuilt	1
+enables	1
+exploitation	1
+guidelines	1
+standards	1
+purchase	1
+fancy	1
+nespresso	1
+pods	1
+999	1
+cheap	1
+Each	1
+federally	1
+funded	1
+generates	1
+79	1
+activity	1
+feeding	1
+local	1
+places	1
+cheaper	1
+hamburger	1
+healthier	1
+Assuming	1
+Brian's	1
+Grew	1
+headline	1
+labor	1
+fields	1
+winding	1
+Freaking	1
+Ma	1
+pause	1
+woman	1
+conservative	1
+influencer	1
+script	1
+redoing	1
+pending	1
+blocking	1
+auditioning	1
+somebody's	1
+plausible	1
+deniability	1
+At	1
+Carlson	1
+J	1
+vance	1
+tradcon	1
+babies	1
+Brad	1
+AI	1
+scanned	1
+ise	1
+Atwater	1
+deathbed	1
+N	1
+busing	1
+activate	1
+reconstruction	1
+literacy	1
+Were	1
+aimed	1
+freedmen	1
+punishing	1
+disenfranchising	1
+twofer	1
+feature	1
+bug	1
+reaction	1
+apparently	1
+tear	1
+sheet	1
+perhaps	1
+Mom	1
+nearly	1
+An	1
+incredible	1
+reportage	1
+feat	1
+dozens	1
+Dozens	1
+jets	1
+Runway	1
+Guys	1
+choked	1
+Peterborough	1
+waiting	1
+Cadillac	1
+Nearly	1
+mayor	1
+Possibly	1
+igniting	1
+exodus	1
+won't	1
+fast	1
+Scroll	1
+nice	1
+walk	1
+thousand	1
+Hundreds	1
+prepared	1
+bolt	1
+Apple	1
+socialist	1
+Zoram	1
+Hamdani	1
+potentially	1
+setting	1
+stage	1
+flight	1
+alarming	1
+Around	1
+765	1
+home	1
+preparing	1
+With	1
+sharing	1
+Donnie's	1
+one's	1
+Manhattan	1
+Reported	1
+JL	1
+Partners	1
+equal	1
+Washington	1
+las	1
+Vegas	1
+Seattle	1
+fleeing	1
+Another	1
+consider	1
+packing	1
+leaving	1
+Among	1
+earners	1
+250	1
+fleet	1
+beauty	1
+penthouse	1
+department	1
+modest	1
+800	1
+bedroom	1
+Curtis	1
+350	1
+cats	1
+board	1
+repeats	1
+Will	1
+Grace	1
+ruined	1
+22	1
+hours	1
+ongoing	1
+honest	1
+figure	1
+adding	1
+Morse	1
+version	1
+Be	1
+Messing's	1
+Couldn't	1
+Muslim	1
+Muslims	1
+throw	1
+roof	1
+suicide	1
+pack	1
+anybody	1
+Messing	1
+billionaires	1
+concerned	1
+arguments	1
+addressing	1
+putting	1
+Remember	1
+main	1
+Claire	1
+McCaskill	1
+seat	1
+Missouri	1
+model	1
+trick	1
+centrist	1
+pretend	1
+limited	1
+society	1
+redistributes	1
+Thing	1
+redistribution	1
+flow	1
+spigot	1
+existing	1
+begin	1
+widely	1
+gotten	1
+wealthy	1
+healthy	1
+slightly	1
+freeze	1
+realize	1
+partisan	1
+persuading	1
+establishment	1
+power	1
+amongst	1
+subscribe	1
+lose	1
+institutions	1
+tools	1
+virtually	1
+strength	1
+slight	1
+incline	1
+neutral	1
+gets	1
+rolling	1
+build	1
+obstacle	1
+movements	1
+Could	1
+ways	1
+often	1
+belabor	1
+ladder	1
+emancipation	1
+economically	1
+security	1
+compression	1
+forward	1
+Medicare	1
+associated	1
+protest	1
+organizing	1
+whatnot	1
+Care	1
+agree	1
+remain	1
+Always	1
+pleasure	1
+Elon	1
+Musk	1
+political	1
+analysis	1
+Us	1
+Mad	1
+rodeo	1
+prom	1
+2015	1
+Uday	1
+Kus	1
+Lutnik	1
+polite	1
+Being	1
+welcoming	1
+holding	1
+whom	1
+richest	1
+form	1
+intoxicants	1
+heads	1
+encountered	1
+dorm	1
+sophomore	1
+figured	1
+High	1
+turned	1
+attempting	1
+riddled	1
+eligibility	1
+incredibly	1
+ridden	1
+overstayed	1
+meager	1
+187	1
+whereas	1
+social	1
+welfare	1
+programs	1
+Wiley	1
+Coyote	1
+Holy	1
+cow	1
+ketamine	1
+difficult	1
+reintroducing	1
+bill	1
+nutshell	1
+normalizing	1
+asking	1
+Aside	1
+breaking	1
+pretending	1
+asks	1
+Maintain	1
+enhancement	1
+exchanges	1
+aca	1
+eligible	1
+chunk	1
+families	1
+bulk	1
+150	1
+terms	1
+size	1
+family	1
+Very	1
+copay	1
+instead	1
+6	1
+deductible	1
+flattery	1
+immigration	1
+foreign	1
+Venezuela	1
+economy	1
+Central	1
+crucial	1
+component	1
+propaganda	1
+ruse	1
+accept	1
+overwhelming	1
+worked	1
+Lying	1
+predominantly	1
+Wisconsin	1
+Carolina	1
+Proposition	1
+blue	1
+pass	1
+legislation	1
+legislature	1
+referendum	1
+organize	1
+piecing	1
+Probably	1
+imported	1
+citizens	1
+bait	1
+switches	1
+National	1
+Guard	1
+Democracy	1
+occasionally	1
+brainwave	1
+cruel	1
+unbelievable	1
+brain	1
+plastic	1
+Floating	1
+wind	1
+object	1
+16	1
+24	1
+2023	1
+Stavros	1
+Stav	1
+experience	1
+1255	1
+Have	1
+furious	1
+12	1
+illegally	1
+immigrate	1
+sought	1
+asylum	1
+trafficked	1
+tired	1
+shit	1
+wild	1
+waking	1
+fucked	1
+deserve	1
+regular	1
+fucking	1
+treatment	1
+safety	1
+net	1
+votes	1
+id	1
+fly	1
+Something	1
+discussed	1
+municipalities	1
+contemplating	1
+legal	1
+municipal	1
+ID	1
+redundant	1
+town	1
+interview	1
+potential	1
+finds	1
+distract	1
+Give	1
+teach	1
+Wordle	1
+sucked	1
+wormhole	1
+playing	1
+prank	1
+tomorrow	1
+Folks	1
+308	1
+cold	1
+Nothing	1
+worry	1
+curious	1
+cough	1
+syrup	1
+fueling	1
+Nebraska	1
+invade	1
+Dakota	1
+polls	1
+tsa	1
+nightmare	1
+wagon	1
+Quite	1
+Ms	1
+Farmer	1
+Nassau	1
+county	1
+spokesperson	1
+sleepwa	1
+1000	1
+battle	1
+test	1
+tested	1
+suggest	1
+Get	1
+red	1
+beret	1
+check	1
+Appreciate	1
+portion	1
+We've	1
+Let	1
+IMs	1
+Mark	1
+Monkey	1
+Dear	1
+Living	1
+felt	1
+pride	1
+minor	1
+misgivings	1
+feels	1
+Abdullah	1
+hoping	1
+boost	1
+Al	1
+state	1
+Todd	1
+Raleigh	1
+curiosity	1
+Cuomo's	1
+bank	1
+page	1
+hour	1
+banking	1
+session	1
+4pm	1
+Zoran	1
+shifts	1
+Got	1
+surpassed	1
+Again	1
+typically	1
+wondering	1
+full	1
+procrastinate	1
+lavender	1
+allergy	1
+convince	1
+evolve	1
+waste	1
+afford	1
+tires	1
+bald	1
+fashion	1
+dialectical	1
+Jay	1
+Tingle	1
+stove	1
+piping	1
+current	1
+practice	1
+functionaries	1
+insulting	1
+legislator	1
+leaders	1
+congressional	1
+hearings	1
+originated	1
+Addington	1
+rings	1
+bells	1
+Saturn	1
+girl	1
+forgot	1
+wash	1
+mug	1
+night	1
+UTI	1
+antibiotics	1
+thank	1
+graphic	1
+image	1
+Omega	1
+panicky	1
+Semitic	1
+wolf	1
+criers	1
+Pete	1
+Hegseth	1
+Nazis	1
+tats	1
+Graham	1
+Platner	1
+Nazi	1
+tat	1
+Elan	1
+gesture	1
+alarms	1
+brown	1
+Y	1
+notice	1
+Hill	1
+Line	1
+hobo	1
+forget	1
+openly	1
+immoral	1
+Lizard	1
+harmony	1
+heartbeat	1
+radar	1
+Sexual	1
+matador	1
+imposing	1
+religious	1
+fundamentalist	1
+imperatives	1
+LGBT	1
+issues	1
+via	1
+imperative	1
+responsibility	1
+final	1
+Sasha	1
+people's	1
+pour	1
+glass	1
+water	1
+it'll	1
+Deep	1
+caught	1
+truth	1
+meds	1
+kick	1
+bright	1
+somewhere	1
+choice	1
+option	1
+bends	1
+finally	1
+breaks	1
+somehow	1
+101	1
+teacher	1
+brighted	1
+While	1
+stay	1
+
+== Speaker C Word Frequency ==
+.	594
+,	556
+the	300
+like	219
+to	158
+I	154
+that	153
+of	141
+a	130
+and	120
+is	94
+in	92
+you	81
+Yeah	73
+it	62
+this	62
+And	61
+are	60
+they	58
+it's	55
+for	54
+think	53
+just	49
+have	49
+on	49
+what	42
+as	39
+we	39
+people	35
+was	34
+know	33
+about	33
+because	31
+that's	30
+be	29
+Like	29
+I'm	28
+at	27
+?	26
+so	26
+not	26
+But	25
+one	25
+don't	24
+they're	24
+me	23
+been	23
+do	23
+It's	23
+out	22
+but	22
+right	22
+or	21
+no	21
+actually	21
+That's	20
+all	20
+has	19
+The	18
+my	18
+going	18
+when	18
+with	17
+did	17
+So	17
+she	17
+from	16
+want	15
+can	15
+go	15
+also	15
+now	15
+there	15
+get	14
+these	14
+lot	14
+well	14
+up	14
+need	14
+who	14
+if	14
+video	14
+their	13
+I've	13
+doing	13
+anti	13
+were	13
+an	13
+more	13
+into	12
+yeah	12
+It	12
+would	12
+children	12
+party	12
+he	12
+thing	11
+They	11
+they've	11
+where	11
+say	11
+how	11
+your	11
+you're	10
+No	10
+which	10
+some	10
+Party	10
+New	10
+liberal	10
+even	9
+guy	9
+here	9
+real	9
+way	9
+left	9
+why	9
+could	9
+being	9
+then	9
+can't	9
+AI	9
+We	8
+Because	8
+what's	8
+This	8
+talking	8
+media	8
+see	8
+another	8
+same	8
+mean	8
+any	8
+there's	8
+him	8
+seen	8
+Israel	8
+much	8
+he's	8
+her	8
+by	7
+You	7
+very	7
+crazy	7
+Republican	7
+York	7
+different	7
+guys	7
+literally	7
+If	7
+Democratic	7
+far	7
+Right	7
+person	7
+He's	7
+seven	7
+script	7
+black	7
+against	6
+obviously	6
+oh	6
+Oh	6
+really	6
+able	6
+work	6
+trying	6
+time	6
+good	6
+popular	6
+American	6
+flank	6
+base	6
+Democrats	6
+Bernie	6
+over	6
+saying	6
+average	6
+exact	6
+general	6
+least	6
+Pat	6
+back	6
+only	6
+government	6
+never	6
+class	6
+kids	6
+Well	6
+original	6
+white	5
+always	5
+million	5
+He	5
+does	5
+Cuomo	5
+campaign	5
+too	5
+Nick	5
+Fuentes	5
+radical	5
+most	5
+positions	5
+position	5
+many	5
+those	5
+making	5
+start	5
+vote	5
+working	5
+Trump	5
+seeing	5
+Buchanan	5
+movement	5
+bring	5
+will	5
+wing	5
+them	5
+come	5
+Okay	5
+off	5
+She	5
+videos	5
+goes	5
+having	5
+hatred	4
+America	4
+9	4
+11	4
+myself	4
+stuff	4
+maybe	4
+People	4
+kind	4
+You're	4
+said	4
+style	4
+My	4
+exactly	4
+What	4
+almost	4
+big	4
+That	4
+live	4
+One	4
+interesting	4
+things	4
+something	4
+end	4
+around	4
+speaking	4
+sort	4
+though	4
+politics	4
+such	4
+fact	4
+voters	4
+heart	4
+especially	4
+election	4
+basically	4
+populist	4
+candidates	4
+reason	4
+third	4
+true	4
+Republicans	4
+than	4
+we're	4
+probably	4
+issue	4
+within	4
+Tucker	4
+still	4
+Semitic	4
+ever	4
+part	4
+country	4
+saw	4
+his	4
+give	4
+post	4
+none	4
+How	4
+AOC	4
+little	4
+opportunity	4
+They're	4
+feel	4
+illegally	4
+make	4
+bit	4
+particular	4
+poor	4
+taxpayer	4
+SNAP	4
+In	4
+baby	4
+daddies	4
+found	4
+compilation	4
+Yes	4
+identify	4
+whether	3
+Zoron	3
+woke	3
+$	3
+7	3
+side	3
+tied	3
+A	3
+Zionist	3
+best	3
+last	3
+second	3
+enough	3
+put	3
+friends	3
+should	3
+artists	3
+find	3
+doesn't	3
+someone	3
+overall	3
+objectively	3
+opposed	3
+isn't	3
+simply	3
+taking	3
+sure	3
+present	3
+successfully	3
+electability	3
+moment	3
+viability	3
+electable	3
+coming	3
+hate	3
+looking	3
+care	3
+comes	3
+centrism	3
+Kamala	3
+Harris	3
+funny	3
+talk	3
+force	3
+terms	3
+unfortunately	3
+yourself	3
+hear	3
+thinking	3
+figure	3
+focused	3
+two	3
+years	3
+looked	3
+believe	3
+either	3
+created	3
+grocery	3
+Biden	3
+marginal	3
+look	3
+less	3
+national	3
+Sanders	3
+successful	3
+okay	3
+method	3
+use	3
+take	3
+new	3
+move	3
+didn't	3
+might	3
+heard	3
+wants	3
+friend	3
+sense	3
+wait	3
+feeding	3
+shutdown	3
+church	3
+job	3
+feed	3
+Even	3
+fun	3
+snap	3
+mind	3
+cut	3
+giving	3
+eat	3
+insane	3
+shouldn't	3
+before	3
+Brett	3
+Cooper	3
+beginning	3
+glasses	3
+through	3
+actual	3
+already	3
+message	3
+quote	3
+race	3
+centrist	3
+lose	3
+fascist	3
+fascism	3
+United	3
+States	3
+oppose	3
+power	3
+build	3
+workers	3
+point	3
+welcome	2
+you've	2
+Dude	2
+snuck	2
+keep	2
+Michael	2
+Bloomberg	2
+attack	2
+scary	2
+politicians	2
+Some	2
+There	2
+shocked	2
+primary	2
+yet	2
+10	2
+year	2
+old	2
+age	2
+attacking	2
+ticket	2
+next	2
+getting	2
+between	2
+gonna	2
+away	2
+eventually	2
+instead	2
+room	2
+individual	2
+leftist	2
+majority	2
+Americans	2
+Medicare	2
+wanted	2
+Italian	2
+overtly	2
+racist	2
+am	2
+Elon	2
+Musk	2
+week	2
+after	2
+putting	2
+convince	2
+broader	2
+calcified	2
+sometimes	2
+victory	2
+comfortable	2
+opposition	2
+effective	2
+older	2
+establishment	2
+longer	2
+again	2
+times	2
+ones	2
+polls	2
+argument	2
+Israel's	2
+panic	2
+Something	2
+Democrat	2
+super	2
+sincere	2
+major	2
+openly	2
+wedge	2
+hand	2
+other	2
+massive	2
+Heritage	2
+foundation	2
+wouldn't	2
+Jewish	2
+As	2
+matter	2
+Christian	2
+everything	2
+boy	2
+worst	2
+Middle	2
+Eastern	2
+agenda	2
+our	2
+behind	2
+Carlson	2
+past	2
+Pappy	2
+Cannon	2
+month	2
+petitioning	2
+administration	2
+Medal	2
+Honor	2
+Post	2
+For	2
+ecosystem	2
+content	2
+opinion	2
+Banger	2
+Can	2
+else	2
+bad	2
+quite	2
+speak	2
+effectively	2
+continue	2
+try	2
+city	2
+example	2
+under	2
+actively	2
+oligarchy	2
+tour	2
+its	2
+Where	2
+abundance	2
+earnest	2
+What's	2
+trans	2
+economic	2
+lost	2
+loved	2
+five	2
+Let's	2
+discuss	2
+free	2
+favorite	2
+pitch	2
+day	2
+direction	2
+own	2
+buses	2
+Yorkers	2
+specifically	2
+allow	2
+system	2
+Sometimes	2
+culture	2
+Andrew	2
+felt	2
+highest	2
+who's	2
+group	2
+won't	2
+single	2
+guess	2
+John	2
+100	2
+needy	2
+hungry	2
+great	2
+interest	2
+areas	2
+courts	2
+bill	2
+long	2
+Foods	2
+About	2
+World	2
+absolute	2
+pro	2
+revenue	2
+higher	2
+options	2
+become	2
+understand	2
+released	2
+racialized	2
+she's	2
+baiting	2
+uses	2
+Of	2
+supposed	2
+pay	2
+conservative	2
+tiktoker	2
+had	2
+lady	2
+larger	2
+show	2
+benefits	2
+followers	2
+send	2
+watching	2
+nothing	2
+Isn't	2
+entitled	2
+got	2
+viral	2
+fucking	2
+L	2
+classic	2
+irresponsible	2
+advantage	2
+Getting	2
+exists	2
+man	2
+he'll	2
+empty	2
+pockets	2
+recognize	2
+Times	2
+Twitter	2
+Como	2
+Mamdani	2
+posted	2
+progressive	2
+points	2
+goyim	2
+whatnot	2
+fine	2
+zealotry	2
+ideological	2
+liberalism	2
+forced	2
+political	2
+center	2
+itself	2
+reality	2
+symbolic	2
+conditioned	2
+pushing	2
+interim	2
+alternative	2
+viable	2
+machine	2
+disagreements	2
+may	2
+expand	2
+self	2
+All	2
+thank	2
+Just	2
+please	2
+hundreds	2
+states	2
+stay	2
+must	1
+guard	1
+acquisition	1
+unwarranted	1
+influence	1
+sought	1
+unsought	1
+military	1
+industrial	1
+complex	1
+Majority	1
+Report	1
+Sam	1
+Cedar	1
+Ever	1
+feeling	1
+cheated	1
+With	1
+deserved	1
+Did	1
+event	1
+finding	1
+sneaking	1
+high	1
+profile	1
+events	1
+scarier	1
+Intifada	1
+enchiladas	1
+takiya	1
+lying	1
+secret	1
+jihad	1
+everyone's	1
+twitch	1
+streamer	1
+secretly	1
+Next	1
+ad	1
+Hasan	1
+Piker	1
+Muslim	1
+Sharia	1
+drop	1
+insiders	1
+democratic	1
+members	1
+focus	1
+confusing	1
+everyone	1
+Yet	1
+stopped	1
+street	1
+terrorist	1
+911	1
+Jet	1
+fuel	1
+melt	1
+Steel	1
+beams	1
+impressive	1
+cranking	1
+90s	1
+Fortnite	1
+flight	1
+simulator	1
+Turkey	1
+busy	1
+Planning	1
+feels	1
+gave	1
+appease	1
+billionaire	1
+donors	1
+unload	1
+3	1
+5	1
+watched	1
+came	1
+haven't	1
+hit	1
+Hassan	1
+hard	1
+pack	1
+text	1
+messages	1
+Capital	1
+architect	1
+Anybody	1
+portray	1
+nine	1
+agree	1
+Pay	1
+Commission	1
+commission	1
+rumor	1
+happened	1
+views	1
+hidden	1
+Whereas	1
+isolate	1
+overwhelming	1
+militarism	1
+world	1
+population	1
+nationalist	1
+mass	1
+deportations	1
+anyone	1
+pure	1
+genetics	1
+secure	1
+existence	1
+wrong	1
+neighbors	1
+languages	1
+Abolish	1
+Little	1
+Italy	1
+We're	1
+Me	1
+Zora	1
+Mumdani	1
+pretty	1
+ruthless	1
+dude	1
+secretive	1
+kingmaker	1
+enemies	1
+powerful	1
+number	1
+spent	1
+Charlie	1
+Kirk's	1
+assassination	1
+target	1
+crosshair	1
+There's	1
+plenty	1
+mega	1
+donor	1
+presented	1
+Nephews	1
+nieces	1
+exceptionally	1
+weak	1
+longest	1
+meant	1
+moderate	1
+civility	1
+institutionally	1
+figureheads	1
+stuck	1
+chairs	1
+80	1
+crowded	1
+reminds	1
+AOC's	1
+initial	1
+opportunities	1
+pounds	1
+seat	1
+assume	1
+realize	1
+forcibly	1
+2016	1
+aggressively	1
+Grant	1
+Platner	1
+regardless	1
+indisputable	1
+arguments	1
+previously	1
+convinced	1
+pick	1
+defeats	1
+uniquely	1
+embarrassing	1
+defeat	1
+Twice	1
+Three	1
+stolen	1
+hearing	1
+Whatever	1
+CNN	1
+msnbc	1
+says	1
+genocide	1
+place	1
+Maine	1
+pointed	1
+Panic	1
+Neoliberal	1
+constantly	1
+recirculating	1
+studies	1
+pieces	1
+yes	1
+hasn't	1
+tried	1
+Actually	1
+honest	1
+voter	1
+hates	1
+politician	1
+division	1
+noticed	1
+briefly	1
+alluded	1
+intro	1
+sincerity	1
+supremacists	1
+using	1
+Dinesh	1
+d	1
+'	1
+Souza	1
+brother	1
+son	1
+law	1
+married	1
+daughter	1
+advancing	1
+Indian	1
+fissure	1
+massage	1
+idea	1
+overt	1
+Semitism	1
+question	1
+galvanizing	1
+ideology	1
+racism	1
+bigotry	1
+sorts	1
+assumed	1
+inevitably	1
+crosshairs	1
+oldest	1
+tradition	1
+blaming	1
+Jews	1
+date	1
+gay	1
+cat	1
+awfulness	1
+involvement	1
+foreign	1
+policy	1
+driving	1
+sentiment	1
+absence	1
+prominent	1
+slots	1
+criticizing	1
+recently	1
+bow	1
+tie	1
+days	1
+possible	1
+becoming	1
+Humus	1
+Posthumous	1
+Good	1
+ADL	1
+mostly	1
+couldn't	1
+brought	1
+0	1
+October	1
+7th	1
+entirely	1
+efforts	1
+mine	1
+Twitch	1
+None	1
+hyper	1
+seemingly	1
+Zionists	1
+aren't	1
+mechanisms	1
+organs	1
+informing	1
+public	1
+pliant	1
+unison	1
+positive	1
+sudden	1
+explosion	1
+online	1
+nature	1
+hell	1
+charred	1
+Jake	1
+Tapper	1
+totally	1
+justifiable	1
+Israeli	1
+admiral	1
+Drew	1
+public's	1
+continuously	1
+defend	1
+celebrated	1
+prices	1
+down	1
+Which	1
+store	1
+shop	1
+Probably	1
+Trouble	1
+wow	1
+rizzless	1
+describe	1
+Hakeem	1
+Jeffries	1
+Riz	1
+charisma	1
+ineffective	1
+communicators	1
+unsuccessful	1
+leader	1
+demented	1
+convincingly	1
+modest	1
+changes	1
+improvements	1
+consistently	1
+dynamic	1
+environment	1
+dig	1
+talent	1
+pool	1
+fresh	1
+faces	1
+launch	1
+fight	1
+Donald	1
+underwater	1
+figures	1
+City	1
+eats	1
+attacks	1
+relatively	1
+Vermont	1
+normally	1
+cycle	1
+won	1
+establishing	1
+squeeze	1
+associated	1
+anymore	1
+stock	1
+prestige	1
+favorability	1
+likes	1
+outreach	1
+policies	1
+eyes	1
+support	1
+Marie	1
+Glosem	1
+Camp	1
+Perez	1
+whatever	1
+ridiculous	1
+Everyone	1
+whenever	1
+popularism	1
+David	1
+Shore	1
+strange	1
+candidate	1
+somewhat	1
+unique	1
+weirdly	1
+Marjorie	1
+Taylor	1
+Greene	1
+seizing	1
+task	1
+decide	1
+definitely	1
+state	1
+amongst	1
+consulting	1
+compact	1
+Every	1
+seems	1
+invent	1
+Yale	1
+graduate	1
+tanks	1
+moderation	1
+cultural	1
+issues	1
+light	1
+populism	1
+ok	1
+recirculated	1
+Matty	1
+Iglesias	1
+alarming	1
+You've	1
+shofar	1
+spiritually	1
+Sincere	1
+Fun	1
+Pack	1
+McKee	1
+Brandon	1
+Women	1
+markets	1
+capitalism	1
+96	1
+Poop	1
+losing	1
+bro	1
+Med	1
+Bed	1
+truther	1
+Freaking	1
+today	1
+excited	1
+Rolex	1
+Veblen	1
+slumming	1
+tapped	1
+course	1
+rich	1
+ZORA	1
+fast	1
+yuck	1
+rabble	1
+rousers	1
+counter	1
+listening	1
+love	1
+More	1
+vehicles	1
+subway	1
+tunnel	1
+Maybe	1
+Eyes	1
+prize	1
+vibes	1
+important	1
+instill	1
+hustle	1
+sigma	1
+grindset	1
+mentality	1
+early	1
+ages	1
+2	1
+4	1
+convincing	1
+hang	1
+sold	1
+Basically	1
+Thank	1
+honor	1
+Wow	1
+Peter	1
+Luger	1
+chat	1
+document	1
+potentially	1
+write	1
+reveal	1
+name	1
+unable	1
+watch	1
+makes	1
+retirement	1
+homes	1
+Mari	1
+Marriott	1
+Benjamin	1
+Many	1
+cases	1
+attempt	1
+sell	1
+Welfare	1
+Queen	1
+Arguments	1
+Here	1
+suffering	1
+Schumer	1
+full	1
+responsibility	1
+local	1
+step	1
+Floyd	1
+government's	1
+nowhere	1
+scripture	1
+God	1
+calling	1
+sick	1
+orphan	1
+widow	1
+church's	1
+Jesus	1
+Christ	1
+acting	1
+ready	1
+help	1
+Not	1
+philanthropic	1
+technically	1
+advocating	1
+craziest	1
+parts	1
+play	1
+ball	1
+legally	1
+consideration	1
+murdering	1
+random	1
+fishermen	1
+coastline	1
+Venezuela	1
+legality	1
+citizens	1
+red	1
+forcing	1
+Daily	1
+Wire	1
+originally	1
+went	1
+cloned	1
+footing	1
+36	1
+670	1
+pays	1
+corporate	1
+subsidies	1
+42	1
+16	1
+boggling	1
+whole	1
+endeavor	1
+40	1
+billion	1
+Argentina	1
+Scott	1
+Besson's	1
+default	1
+debt	1
+purchased	1
+prior	1
+Ridiculous	1
+surprised	1
+creator	1
+devastating	1
+qualify	1
+Whole	1
+Soul	1
+Economic	1
+Forum	1
+bugs	1
+cookies	1
+dictate	1
+decision	1
+psychopath	1
+Plus	1
+top	1
+chain	1
+National	1
+Grocery	1
+Retailers	1
+association	1
+12	1
+%	1
+percentage	1
+rural	1
+retailers	1
+rely	1
+additional	1
+subsidy	1
+dollar	1
+Maoist	1
+publicly	1
+countryside	1
+farmland	1
+farmhand	1
+importance	1
+programs	1
+Now	1
+ST	1
+I'mma	1
+deep	1
+dive	1
+trope	1
+disseminated	1
+everywhere	1
+angry	1
+women	1
+camera	1
+account	1
+suspect	1
+rage	1
+shows	1
+scripts	1
+used	1
+Another	1
+woman	1
+Who	1
+brings	1
+entitlement	1
+foot	1
+turns	1
+clipped	1
+known	1
+verbatim	1
+copying	1
+showed	1
+earrings	1
+Earrings	1
+takes	1
+Before	1
+Go	1
+further	1
+places	1
+we've	1
+disability	1
+checks	1
+hold	1
+cash	1
+taxpayer's	1
+taken	1
+2000	1
+tick	1
+tock	1
+50	1
+cents	1
+influencer	1
+entire	1
+dead	1
+ass	1
+timeline	1
+tax	1
+Tax	1
+winger	1
+elevated	1
+anger	1
+clickbait	1
+straight	1
+Rage	1
+Very	1
+clearly	1
+distinguish	1
+avido	1
+duped	1
+machines	1
+Also	1
+die	1
+Feed	1
+sorry	1
+Or	1
+Thomas	1
+Sowell	1
+Specific	1
+farm	1
+money	1
+addressing	1
+genuine	1
+grievances	1
+creates	1
+narrative	1
+large	1
+behavior	1
+multiple	1
+wedlock	1
+tropes	1
+board	1
+diminished	1
+welfare	1
+structure	1
+disgusting	1
+phenomenally	1
+tool	1
+LBJ	1
+lowest	1
+Than	1
+He'll	1
+robbing	1
+blind	1
+Hell	1
+precisely	1
+beautiful	1
+solving	1
+housing	1
+brownstone	1
+buck	1
+awesome	1
+17	1
+Curtis	1
+leaving	1
+Yorker	1
+shout	1
+rat	1
+king	1
+Mike	1
+Isaac	1
+tech	1
+reporter	1
+retweeting	1
+headline	1
+Zoramdani's	1
+aloof	1
+wife	1
+Rama	1
+Duaji	1
+quietly	1
+steered	1
+scenes	1
+retweeted	1
+Californian	1
+experiencing	1
+coverage	1
+six	1
+months	1
+social	1
+manager	1
+slowly	1
+descend	1
+mania	1
+outsiders	1
+every	1
+outlets	1
+tank	1
+increasingly	1
+manic	1
+neared	1
+swinging	1
+favorites	1
+Debra	1
+Messing	1
+completely	1
+Instagram	1
+stories	1
+lives	1
+locked	1
+including	1
+scientist	1
+straightforward	1
+forward	1
+Bringing	1
+Kahanes	1
+Meyer	1
+Kahan	1
+cattle	1
+thought	1
+Hollywood	1
+Judaism	1
+Christianity	1
+Love	1
+Back	1
+Is	1
+Shia	1
+Iran	1
+Everybody's	1
+loser	1
+eked	1
+done	1
+neoliberalism	1
+sounds	1
+silly	1
+inability	1
+arrive	1
+consistent	1
+zealot	1
+defense	1
+centrists	1
+broadly	1
+failing	1
+Western	1
+capitalist	1
+democracies	1
+resurgence	1
+movements	1
+vacuum	1
+Exactly	1
+themselves	1
+War	1
+II	1
+universe	1
+revolutionary	1
+initially	1
+incepted	1
+parties	1
+market	1
+terminology	1
+moving	1
+version	1
+restructuring	1
+without	1
+growth	1
+sooner	1
+wakes	1
+realizes	1
+servant	1
+you'll	1
+maintain	1
+faster	1
+genuinely	1
+leave	1
+open	1
+minded	1
+primed	1
+believing	1
+fancy	1
+others	1
+sheepdog	1
+ambition	1
+restructure	1
+society	1
+road	1
+achieve	1
+consciousness	1
+networks	1
+suggesting	1
+necessity	1
+create	1
+structures	1
+pressure	1
+certainly	1
+Exhaust	1
+weakest	1
+stage	1
+exist	1
+shut	1
+aside	1
+independent	1
+alternatives	1
+exhausting	1
+turnout	1
+favor	1
+socialist	1
+Regardless	1
+ultimately	1
+conversation	1
+people's	1
+vision	1
+stating	1
+order	1
+individuals	1
+utterly	1
+devoid	1
+antagonistic	1
+towards	1
+socialism	1
+Marxism	1
+passionate	1
+distance	1
+I'll	1
+later	1
+perfect	1
+spite	1
+danger	1
+drinking	1
+talked	1
+podcast	1
+Joe	1
+Marco	1
+holding	1
+modicum	1
+hug	1
+hope	1
+Everything	1
+shitty	1
+pull	1
+crumb	1
+Please	1
+Absolutely	1
+Standoff	1
+earth	1
+Then	1
+To	1
+paid	1
+Especially	1
+once	1
+normalizing	1
+threat	1
+democracy	1
+By	1
+importing	1
+strategy	1
+allowed	1
+gerrymandering	1
+occurs	1
+Have	1
+migrated	1
+Chicago	1
+freaking	1
+anything	1
+us	1
+fucked	1
+ID	1
+travel	1
+doors	1
+knocked	1
+strength	1
+somehow	1
+Won't	1
+better	1
+chicken	1
+Waiting	1
+
+== Speaker D Word Frequency ==
+.	347
+,	221
+the	143
+that	83
+to	69
+of	62
+I	58
+like	51
+in	50
+a	50
+is	45
+you	44
+and	33
+it	30
+Yeah	25
+was	24
+this	24
+And	23
+know	23
+just	21
+that's	21
+for	20
+on	20
+we	19
+It's	19
+?	19
+they	18
+not	18
+are	17
+what	17
+but	16
+it's	16
+have	16
+he	15
+saying	15
+about	14
+But	14
+out	14
+think	13
+people	13
+Right	13
+mean	12
+been	12
+I'm	12
+So	11
+as	11
+with	11
+right	11
+do	11
+be	11
+because	11
+he's	11
+That's	10
+get	10
+Party	10
+there	10
+can	9
+say	9
+don't	9
+New	9
+York	9
+so	9
+Well	8
+thing	8
+Democrats	8
+his	8
+where	8
+The	8
+here	8
+Democratic	8
+Oh	8
+who	7
+basically	7
+at	7
+all	7
+part	7
+them	7
+also	7
+years	7
+didn't	6
+well	6
+probably	6
+Zoron	6
+their	6
+which	6
+Like	6
+or	6
+Zionism	6
+when	6
+why	6
+way	6
+point	6
+doing	6
+anti	6
+can't	6
+from	6
+You	6
+if	6
+too	5
+It	5
+Yes	5
+good	5
+no	5
+Trump	5
+were	5
+an	5
+has	5
+position	5
+That	5
+then	5
+kind	5
+party	5
+day	5
+doesn't	5
+believe	5
+over	5
+being	5
+your	5
+He's	5
+He	5
+yeah	5
+There	5
+want	5
+actually	4
+off	4
+war	4
+talking	4
+how	4
+9	4
+now	4
+there's	4
+we're	4
+They	4
+even	4
+same	4
+amount	4
+did	4
+voting	4
+base	4
+I'll	4
+major	4
+trying	4
+she's	4
+Republican	4
+country	4
+10	4
+rich	4
+should	4
+City	4
+make	4
+Yep	4
+No	4
+$	4
+more	4
+Good	4
+campaign	4
+politics	4
+up	4
+If	4
+Matt	4
+election	3
+presidential	3
+open	3
+terror	3
+11	3
+put	3
+only	3
+guess	3
+something	3
+show	3
+money	3
+they're	3
+fact	3
+many	3
+within	3
+Cuomo	3
+other	3
+need	3
+Do	3
+maybe	3
+sound	3
+Gaza	3
+genocide	3
+see	3
+What	3
+first	3
+year	3
+things	3
+her	3
+by	3
+top	3
+political	3
+There's	3
+go	3
+Just	3
+insane	3
+hear	3
+makes	3
+my	3
+House	3
+leader	3
+Ezra	3
+All	3
+%	3
+against	3
+used	3
+me	3
+will	3
+Benjamin	3
+okay	3
+Okay	3
+lobster	3
+benefits	3
+already	3
+these	3
+episode	3
+look	3
+understand	3
+impolite	3
+ever	3
+Bowman	3
+Day	2
+most	2
+exciting	2
+last	2
+some	2
+reason	2
+effect	2
+wait	2
+government	2
+Dick	2
+Cheney	2
+crazy	2
+radical	2
+exist	2
+torture	2
+horrific	2
+waterboarding	2
+hell	2
+would	2
+work	2
+else	2
+Piker	2
+deserve	2
+every	2
+city	2
+during	2
+use	2
+ads	2
+getting	2
+revealing	2
+Islamophobia	2
+needs	2
+terms	2
+white	2
+never	2
+gotten	2
+losing	2
+credibility	2
+feel	2
+told	2
+us	2
+again	2
+Bernie	2
+Sanders	2
+Donald	2
+him	2
+means	2
+always	2
+threat	2
+Did	2
+really	2
+around	2
+Judaism	2
+rise	2
+figures	2
+made	2
+keep	2
+vacuum	2
+what's	2
+scary	2
+real	2
+podcast	2
+Sam	2
+touch	2
+This	2
+guy	2
+does	2
+literally	2
+everything	2
+communicator	2
+sounds	2
+speaking	2
+media	2
+They're	2
+ago	2
+Now	2
+got	2
+directly	2
+comes	2
+two	2
+Senate	2
+Not	2
+Mary	2
+Gluson	2
+Camp	2
+Perez	2
+Mamdani	2
+Israel's	2
+military	2
+action	2
+three	2
+independents	2
+five	2
+Wow	2
+still	2
+sorry	2
+Actually	2
+You're	2
+week	2
+Hey	2
+little	2
+bit	2
+than	2
+said	2
+apartheid	2
+events	2
+freaking	2
+Also	2
+much	2
+dependence	2
+groceries	2
+rewarding	2
+abuse	2
+system	2
+down	2
+looking	2
+average	2
+Don't	2
+tails	2
+let	2
+alone	2
+pay	2
+purchase	2
+food	2
+she	2
+Bernstein	2
+manic	2
+you're	2
+read	2
+back	2
+In	2
+commanded	2
+Islam	2
+run	2
+had	2
+anxiety	2
+final	2
+early	2
+Bye	2
+Minneapolis	1
+Omar	1
+Fateh	1
+news	1
+Tuesday	1
+importantly	1
+very	1
+try	1
+rehabilitate	1
+image	1
+negative	1
+happened	1
+Anybody	1
+crypto	1
+grifting	1
+lack	1
+accountability	1
+corruption	1
+trace	1
+indirectly	1
+profiting	1
+continued	1
+stake	1
+Halliburton	1
+throughout	1
+vice	1
+presidency	1
+waging	1
+illegal	1
+Iraq	1
+lectern	1
+we've	1
+brought	1
+home	1
+ice	1
+creation	1
+act	1
+abolishing	1
+isis	1
+prior	1
+Basically	1
+engaging	1
+conditions	1
+immigrants	1
+regime	1
+under	1
+Bush	1
+responsible	1
+abroad	1
+bringing	1
+unfortunately	1
+seems	1
+Because	1
+material	1
+Fireboarding	1
+Lava	1
+boarding	1
+Zoro's	1
+buddy	1
+Hassan	1
+disgrace	1
+life	1
+lost	1
+went	1
+Piker's	1
+spotted	1
+Zoron's	1
+event	1
+Mom	1
+dummy	1
+wrong	1
+For	1
+our	1
+Disavow	1
+I'd	1
+infiltrated	1
+Infiltrated	1
+air	1
+nine	1
+call	1
+sleeper	1
+cell	1
+Sleeper	1
+Numerology	1
+Isn't	1
+nuts	1
+blew	1
+AI	1
+cheaping	1
+actual	1
+artists	1
+participate	1
+Exactly	1
+leftist	1
+hasn't	1
+enjoyed	1
+race	1
+showing	1
+ass	1
+hopefully	1
+reckoning	1
+bigotry	1
+delayed	1
+multiculturalism	1
+Diversity	1
+necessarily	1
+distilled	1
+thinking	1
+idea	1
+races	1
+ethnicities	1
+separated	1
+safety	1
+purposes	1
+existing	1
+viewpoint	1
+emblematic	1
+move	1
+past	1
+nationalism	1
+supremacy	1
+Little	1
+Italy	1
+panic	1
+MSNBC	1
+Sunday	1
+pushback	1
+taken	1
+aback	1
+centrist	1
+wing	1
+ground	1
+You've	1
+hey	1
+ideas	1
+important	1
+defeating	1
+Losing	1
+drawn	1
+initially	1
+radicalized	1
+course	1
+dated	1
+Ann	1
+Coulter	1
+better	1
+dancing	1
+failure	1
+Ye	1
+continuously	1
+half	1
+allowed	1
+conflation	1
+Marjorie	1
+Taylor	1
+Greene	1
+who's	1
+herself	1
+2028	1
+Jeet	1
+returning	1
+wants	1
+establishment	1
+isn't	1
+gain	1
+tweeting	1
+AIPAC	1
+won't	1
+accept	1
+shekels	1
+stuff	1
+obviously	1
+Semit	1
+yet	1
+rush	1
+carry	1
+water	1
+filling	1
+sort	1
+fault	1
+seeing	1
+Eventually	1
+knew	1
+going	1
+genuinely	1
+Jewish	1
+hatred	1
+led	1
+Tucker	1
+Carlson's	1
+Candace	1
+Owens	1
+Probably	1
+none	1
+give	1
+alternate	1
+explanations	1
+shitty	1
+answers	1
+pain	1
+price	1
+gallon	1
+milk	1
+throw	1
+sweet	1
+overperform	1
+elections	1
+underperforms	1
+communication	1
+style	1
+cuts	1
+above	1
+goes	1
+direct	1
+appreciate	1
+cuff	1
+often	1
+Regardless	1
+lies	1
+Chuck	1
+Schumer	1
+social	1
+involved	1
+behind	1
+conversation	1
+you've	1
+sense	1
+such	1
+effective	1
+talented	1
+ways	1
+treat	1
+voters	1
+idiots	1
+policy	1
+platforms	1
+speaks	1
+antidote	1
+view	1
+Billy	1
+fundamentals	1
+replicated	1
+across	1
+Sell	1
+leaders	1
+selected	1
+argument	1
+City's	1
+shouldn't	1
+listen	1
+dynamic	1
+Shoot	1
+included	1
+op	1
+ed	1
+yesterday	1
+Times	1
+big	1
+tent	1
+likes	1
+Zoram	1
+Joe	1
+Manchin	1
+oh	1
+anymore	1
+cited	1
+Jared	1
+golden	1
+Which	1
+libertarian	1
+Democrat	1
+Israel	1
+committing	1
+Only	1
+8	1
+support	1
+months	1
+poll	1
+25	1
+supports	1
+add	1
+majority	1
+crap	1
+bunch	1
+million	1
+drops	1
+We're	1
+playing	1
+once	1
+clear	1
+shower	1
+curtain	1
+hanging	1
+between	1
+dead	1
+winter	1
+blanket	1
+locker	1
+wrap	1
+myself	1
+legs	1
+Five	1
+Let's	1
+Brandon	1
+Fundamentally	1
+false	1
+Where	1
+coming	1
+Gobbledygook	1
+79	1
+plus	1
+21	1
+3	1
+400	1
+1900	1
+5	1
+4	1
+making	1
+less	1
+weeded	1
+Obviously	1
+love	1
+Outrageous	1
+save	1
+luxury	1
+expensive	1
+competitors	1
+wealthy	1
+come	1
+horrendous	1
+Wait	1
+Sure	1
+sure	1
+earlier	1
+separate	1
+space	1
+Are	1
+Is	1
+advocating	1
+wouldn't	1
+word	1
+question	1
+might	1
+Instead	1
+renting	1
+hotel	1
+conference	1
+rooms	1
+PowerPoint	1
+presentations	1
+consultant	1
+class	1
+hour	1
+threatens	1
+ideologically	1
+socialism	1
+attacking	1
+represents	1
+new	1
+democratic	1
+30	1
+canvassing	1
+volunteers	1
+lot	1
+TV	1
+institutionally	1
+ideology	1
+increase	1
+church	1
+remove	1
+state	1
+takes	1
+defiance	1
+courts	1
+Fem	1
+Shapiro	1
+Trust	1
+Society	1
+true	1
+helping	1
+poor	1
+stripped	1
+rebuilt	1
+person's	1
+spending	1
+head	1
+snap	1
+payment	1
+187	1
+am	1
+assistance	1
+candy	1
+soda	1
+Who	1
+knows	1
+subsidizing	1
+corporations	1
+Walmart	1
+subsidy	1
+wages	1
+disproportionate	1
+workers	1
+restrictions	1
+SNAP	1
+including	1
+hot	1
+mistaken	1
+acting	1
+free	1
+sucking	1
+Putting	1
+aside	1
+second	1
+God	1
+forbid	1
+job	1
+Really	1
+received	1
+stamps	1
+She's	1
+incentive	1
+structure	1
+conservatives	1
+Give	1
+useful	1
+perhaps	1
+rewarded	1
+either	1
+click	1
+feels	1
+potentially	1
+generating	1
+welfare	1
+queen	1
+trope	1
+creating	1
+ish	1
+regurgitate	1
+exactly	1
+immensely	1
+racist	1
+We	1
+old	1
+Republic	1
+modern	1
+iteration	1
+decades	1
+Natalists	1
+babies	1
+offload	1
+shame	1
+almost	1
+another	1
+group	1
+deem	1
+personally	1
+undesirable	1
+they've	1
+choices	1
+Position	1
+elevated	1
+relatively	1
+using	1
+Millionaire	1
+Underground	1
+Railroad	1
+They've	1
+set	1
+place	1
+100	1
+abundance	1
+Citing	1
+survey	1
+though	1
+JL	1
+Partners	1
+Lady	1
+McBest	1
+Shout	1
+A	1
+fruity	1
+Lieb	1
+Deborah	1
+Messing	1
+liberal	1
+broadly	1
+People	1
+check	1
+live	1
+yes	1
+dots	1
+pointed	1
+sign	1
+posting	1
+Instagram	1
+stories	1
+Almost	1
+looks	1
+ad	1
+played	1
+Put	1
+switched	1
+post	1
+Hasan's	1
+referencing	1
+Christianity	1
+speak	1
+truth	1
+lie	1
+spreading	1
+disregard	1
+fundamental	1
+ideological	1
+difference	1
+take	1
+Apply	1
+basic	1
+rule	1
+Listen	1
+words	1
+watch	1
+actions	1
+goal	1
+Mass	1
+conversion	1
+These	1
+opposing	1
+civilizations	1
+cannot	1
+coexist	1
+both	1
+driven	1
+mental	1
+disease	1
+fair	1
+Klein	1
+Road	1
+Republicans	1
+democracy	1
+centrists	1
+maintain	1
+status	1
+quo	1
+zealotry	1
+centered	1
+ahead	1
+pop	1
+squiring	1
+fine	1
+drop	1
+fun	1
+tonight	1
+Even	1
+broadcast	1
+Maybe	1
+dip	1
+turn	1
+mic	1
+Ten	1
+intense	1
+keeping	1
+becoming	1
+Anyway	1
+could	1
+leave	1
+whenever	1
+wanted	1
+documented	1
+eligible	1
+bag	1
+floating	1
+through	1
+wind	1
+age	1
+children	1
+Object	1
+permanence	1
+kid	1
+play	1
+peekaboo	1
+googled	1
+happening	1
+How	1
+one	1
+immigrant	1
+phones	1
+hypnosis	1
+Great	1
+Replacement	1
+Theory	1
+without	1
+heart	1
+Jews	1
+ones	1
+distracted	1
+learning	1
+hypnotic	1
+gnosis	1
+Have	1
+seen	1
+Multiverse	1
+Marvel	1
+art	1
+Sounds	1
+Greater	1
+Nebraska	1
+Pollstone	1
+close	1
+quickly	1
+vote	1
+total	1
+time	1
+saw	1
+lines	1
+COVID	1
+covering	1
+Jamal	1
+camp	1
+purposefully	1
+throttle	1
+polling	1
+locations	1
+friendly	1
+areas	1
+anyway	1
+reminder	1
+AOC	1
+standing	1
+machine	1
+huge	1
+able	1
+corrupt	1
+gets	1
+Jacobs	1
+gross	1
+reference	1
+magnets	1
+Remember	1
+thought	1
+stop	1
+working	1
+underwater	1
+boats	1
+We'll	1
+PM	1
+Eastern	1
+
+== Speaker A Transcript ==
+It's, It's, it's, It's, it.
+Majority Rapport with Sam Cedar.
+It's it.
+What?
+Oh.
+Pvd.
+And, and, and we're we're not.
+The majority report.
+Is it safe?
+Who?
+I'm positive.
+Sam goes satire on top of it all.
+people just don't
+Yeah.
+Today.
+My name is John. How are you? I'm already Mahority maharity. Mahority rapport.
+Your name is Majority. My name is John. I'm calling on behalf of the Under Cuomo for Mayor campaign. How are you doing today?
+This is Majority. Your name is. Trust me, I've been doing a lot of phone calling today, and I. My name is John, which is a very common name, but I've had tons of different names. Vanity. I've talked to a mall like Malamar.
+How's it going today?
+Yes. How did you know my last name?
+Theater?
+Oh, my God. That's so crazy. It says you're on my call list. All right.
+Well, I'm. Phone bank. Yeah, I am. I didn't think I would. I don't know how I got this number that's so up.
+A campaign gave me a whole list of numbers. I don't know who I'm calling. I've been. You know, this is like my 300th call,
+Well. Calling for Cuomo. Yeah. Did I not tell you that?
+Well, I know you support the other candidate. That's fine. And I. I do. I don't know whether I should give you my pitch because.
+Hey, how are you?
+Sorry about this confusion.
+Yeah.
+Well. Well, okay. I mean, part of it is red. I don't know if that's. But, you know, it's election day. It's crucial. Crucial to get your voice heard.
+Do you have a plan to get out there and vote today?
+You voted already.
+I mean, are you all aware that we have an affordability, affordable affordability crisis here in New York?
+affordability.
+The other candidate, which I think, Sam, you already voted for, says the rents are too high. And here, the Cuomo campaign, and we really think that the rents are not high enough in New York.
+Well, we don't want to freeze the rent here in New York. Right. We want to free the rent. We want rents higher so that wealthier people in New York and outside of New York will come to live here. And the only way that's going to happen is if we raise the rent considerably in order for them to be able to do that. You understand?
+Emma and Hasan, you're talking my language right now because, yes, New York City is a luxury good. And I do mean that in both sense of the term good. Luxury is good. Good. It's. It's for the common good. I mean, we're. The Cuomo campaign, want to make sure that the less wealthy people and the poor people can be housed elsewhere, but not in New York City, where we want wealthier people to be here, to stay here and to have the luxury life that they're used to. We don't want them leaving and going to Florida. We want them coming here. I see how expensive it is to private jets of Florida.
+It certainly is. I've been invited on several private jets. It's. And then I can't afford it. But the people who were on the jet with me could.
+No, I mean, I, like I said, I don't fly commercial. I do. I. But I had, at the, at this point in my life, life, I have to do what's called Net shares, which is. It's a group of people that fly private together. So it's not like.
+There were like three. There were three families.
+Which was fine. Which was fine.
+I mean, have you considered these. Have you considered these points? I mean, we can think. We're thinking like, for instance, in New York, we can create certain zones for the wealthy class in order to stay, and those zones are only permitted to be entered by those people who live here and pay, you know, their fair. Not their fair share of taxes, but some taxes so they pay.
+Lower taxes on rich people and raising rents for rich people. Yeah.
+So that. So that richer people can make more money as well. I mean, so that we can have the city we deserve.
+an analogy just before you.
+Back. Because I know you're going to hit back. No, no, let's say you live. I'm sure a lot of you guys live in an apartment building, right?
+I live in an apartment building. I have a neighbor. Okay. My door is clean. I don't have anything on it except my door knocker. Right. My neighbor has a, has a bunch of stickers all over their door. One says, like, I climb on Washington. There's a ton of them. I don't know. They, like, they're hikers, they travel a lot. They put stickers on the outside of their door and it's sort of unseemly. Right, right. You share a space.
+Now, let's say I could live in a place where those stickers are gone. They're not there anymore. Their doors like my door.
+I don't speak entirely for the Cuomo campaign.
+I mean, I don't think that would be a good necessarily word to use to get out the vote.
+I appreciate.
+We need more votes. Yeah. So there you go. We want numbers.
+That is a good question. Slower buses.
+I mean, like, it sends a message.
+Well, that it's going to be harder to get into New York. It's going to take a lot more time. And, and we don't want that. We want to free. You know, we want more space, maybe. I would say less buses. Less buses entirely, for sure. So, like, buses are. Buses create congestion in the city. Certainly in Manhattan, and I think in a lot of the boroughs, buses create congestion, creates Traffic problems. We can't get our cars in and out. Yeah, I would say. I would say. I'm not. Like I said, I'm not speaking directly for Cuomo, but this is an incredible plan for a Cuomo run city. Eliminate buses.
+I would definitely make the subways slower and less available. I think that the subways are also create a congestion problem. Super high crime. Less people would start taking the subways. We can start now and in four years, completely eliminate the subway system.
+The Elon Musk tunnel plan is a great plan for New York. It was a great plan for. Look how it worked in Vegas. Yeah, it worked in Vegas.
+There are. There are tens. There are tens of Teslas transporting people one at a time from one place to another in Las Vegas, one of the most heavily visited cities in the country. And you're talking about four or five people accommodated at a time, one at a time in the Tesla. We could. We could do. This city could absolutely use a transformation of the subway system into Tesla tunnels. I think that's a great plan. Thank you.
+What's.
+Well, I think universal is crazy. That's the entire. We. Let's just focus on New York City.
+Yeah. So you think, like, that's. That's why Cuomo. Andrew Cuomo from there wants to focus on the city. Doesn't want to. Folks go.
+Right. I mean, I think that's like. That's pie in the sky.
+And I think. Well, right. Cuomo wants to get things done. He just doesn't want to say things. Right. Like, do you want every child take. Do you want every child in the city taken care of?
+Well, and sometimes kids can take care of themselves.
+And those are the kids would be who become. Who become very successful later in life.
+Cuomo thinks out of the box. These kids can probably at. Even at age 2, 3 and 4, some kids. I'm not saying all kids. Some kids can Travel on their own and navigate the city on their own.
+olds and go back, can go back to the, the ballpark or the basketball court and, and play with other children on their own and then find their way home. That's that. I know kids who do that.
+My kids. My kid did that.
+He's. Yes, he's 22 now and he's not doing well at the moment, but he did do that.
+There you go. I don't know what Sigma mindset is, but I'm sure Andrew Corner will be behind that.
+I didn't know that I can, I can certainly talk to him about that.
+it sounds like you guys. You guys sound like you're simpatico as far as.
+I mean, I, When I hear, when I listen to Hassan Piker, I hear a young Andrew Cuomo.
+I think you're online to do great things.
+Stay on. If you stay on track. Right. And do the right thing. To stay on track and do the right thing.
+That's always important.
+Well, Andrew will have your back. I know we don't have your vote, Sam, but I can see Emma, I can hear you changing your mind. Hasan. Same. Even though you're going to vote illegally, I think, think. I think like, like Andrew would say, I don't care how you vote. Vote.
+Get out there. I haven't met him yet, but I will and I'll try and get into the party tonight.
+You should come with me, bro.
+Andrew taught me to say bro. Bro.
+There.
+This is.
+Yep.
+Yeah.
+Yeah.
+Am.
+Yeah.
+Yeah.
+In.
+But the.
+Right.
+What's that?
+Yeah, it was.
+Y. Yeah.
+Yeah.
+The reason you have this, the standoff
+of billions of dollars to create a financial incentive to like to have this giant magnet to attract illegals from every
+leave because they're no longer being paid
+Immigrant.
+Whoa.
+If that is turned on off, the
+And then they will lose a lot of voters. The Democratic Party will lose a lot
+In a nutshell, the Democratic Party wants to destroy democracy by importing voters.
+the Republican Party disagrees with that.
+Yes.
+Yes.
+California super majority Democrat.
+It's crazy.
+Yep.
+Here.
+I don't know.
+From. Hey, it is Kowalski calling from Brown County, Nebraska.
+Very bad cold.
+Oh, it's fine. I've just been operating heavy machinery and drinking. Coughing syrup.
+Yeah, I'm on an isolated ranch. Don't worry. The. So, I'm actually calling in because we're staging an operation here in Northern Nebraska for the Greater Nebraska Movement. We want to reclaim our lost territories. And with the federal government being gone, I assume D.C. was wiped out. We're just going to push into the Dakotas and take it. We're going to do a blitz on Bismarck and take the oil fields.
+Which mayoral candidate in New York would be the best option to, you know, give us moral support?
+North Dakota is an artificial construct, all right? Like, it's all Nebraska and Minnesota.
+Yeah. Yes. This is part of the Greater Nebraska Project. I know that Cuomo has a history of supporting, like, the State of Israel Project, so I feel like that would be his route, but then again, Curtis seems like the more militant guy. However, since Mamdani clearly wants to destroy the country, I would feel like he would support this. As you know, this would be like a states right thing that would rip the republic apart. So I just need to know who's going to be best for the Greater Nebraska movement.
+See, that's the problem. I need to know which horse that we are going to send a half a million votes to. And you only have like an hour and a half.
+Yeah, but Flight barely got our hands on enough planes to get these ballots there. Okay, there's still flight time.
+Well, that's the good part. Without the TSA really being there in force, we can basically get anything until accordion.
+huh? Well, that is unfortunate.
+look. This is where the greatest ideas happen. This is what we call synergy. These types of ideas were never meant to come together and form a synthesis. This is how we get.
+I mean, that is true. I bet. You see, this would also work out well for you guys because if we need support, I know he would send us some nypd and then you guys would have less harassment on the subway.
+That sounds like a fantastic plan. So. Well, in all seriousness, I hope you all have a very good election tonight. We're all obviously rooting for Bomb Donnie or at least all God fearing Americans are because you know, we don't like Italians. But I plan on putting out a video in a couple hours on Brown County, Nebraska that I think your audience might enjoy. So yeah, this was just a long winded way for me to plug something for myself in a. You know, just like blatantly wasting your guys's time.
+Have a good one.
+Wow.
+out of thin air?
+Yeah.
+
+== Speaker B Transcript ==
+Hi, folks. Today's episode is brought to you by one of my favorite sponsors. Are we live? Okay. Great. Foreign. It's election day, ladies and gentlemen. Are you feeling a little anxious? Well, that's perfect. Well, it's not perfect actually, but it's a perfect use case for your Sunset Lake Saba day. You can find it@sunsetlake sabiday.com use the code left is best. You'll get 20% off. You get 20% off smokables, pre rolls keef. You get 20 off of tinctures. Tinctures to help you relax. Tinctures to help you go to sleep. Tinctures with a little teh. Say that will help you have fun. You can have seven day infused fudge and Saba Day infused coffee. You can have, you can use some of their lotions and their salves, all with SEBA Day grown in the, in the beautiful Vermont sunshine without any pesticides. That's right. They use integrated pest management, which means that they grow a bunch of different crops that counteract pest stuff. Also regenerative farming practices that they built in conjunction with the University of Vermont. And on top of it all, these guys are great movement partners. They have donated tens of thousands of dollars to things like strike relief funds, carceral reform, Planned Parenthood, refugee resettlement. They've engaged in mutual aid up in Vermont in the wake of the floods. Just an all around great company, all around great product and all around great deal. 20% off with the. You with the coupon code. Left is best. Check it out. And now time for the show
+The destiny of America is always safer in the hands of the people than in the conference rooms of any elite. They are unanimous in their hate for
+It is Tuesday, November 4, 2025. My name is Sam Cedar. This is the five time award winning Majority Report. We are broadcasting live steps from the industrially ravaged Gowanus Canal in the heartland of America, downtown Brooklyn, usa. On the program today from the Hasan Piker Show. What is the name of the show? Hasan Piker will be here. Also on the program today, Election day. Whoo. It is the first of Trump's second term. Big races in Virginia and New Jersey for the governorship. Key referendums in Maine, California, other states. And there's a significant mayor's race in New York City. It's not only going to have material implications for the city, but could very well provide a narrative for how Democrats can win across the country.
+That's right. Meanwhile, disgraced, uncharged war criminal Dick Cheney, dead at age Nosferatu. Some Senate Dems are hinting at caving as the shutdown becomes longest ever and exceedingly painful for a lot of people, including Donald Trump. Snap benefits most particularly will restart, but only at half the amount that beneficiaries have been getting. And it will also be delayed. US Manufacturing shrinks for the eighth month. US Proposes a UN Mandated international force for Gaza. Trump sued on its regime's restrictions on student loan forgiveness. Tucker Fuentes and Heritage. They're in turmoil on the right because of their love of gripers. Lastly, Israel arrests the leaker of a video showing Israeli soldiers raping a Palestinian hostage detainee. All this and more on today's Majority Report. Welcome, ladies and gentlemen.
+It's election day and we're gonna have a guest in studio in just moments.
+We found out that Dick Cheney died. He, he needed a couple of minutes to get himself together. He was very like kazoo anyway. He was very upset, honestly. Look, I think folks know my policy around here. When someone passes away, I think it is obviously, I only know Dick Cheney through his role as vice president and as a congressman and as a senator. It is a real shame that he passed away not in a jail cell and not having to have had to account for the absolute horrors he's brought on directly for literally hundreds of thousands, if not a million Iraqis and obviously US Military personnel who lost their lives in a complete lie of a war. He also is in many respects responsible not just for the Republican Party and the direction it took that brought us Donald Trump, but he was also more sort of directly involved in the unitary executive theory which has empowered Donald Trump, has eviscerated Congress's role in, in curtailing our, our military adventures, as it were. I don't think it's, it is hard to find one individual who is more responsible for the worst of America over the course of the past, let's say 35 years. I mean, there's, there's challenges.
+remembered Dick Cheney, which was, you know, about at least half the electorate directly, and then, you know, others who were, you know, even remotely aware of him would have known like this is he was a bad person. Yeah, he was a bad person.
+The entire Project for New American Century, which he was a big part of back in 1991, ended up bringing about just horrors untold. And here he is telling one of the lies that he told to the American public. Now, just a reminder, we, we couldn't find this clip for whatever reason. It's not as dramatic because he's not lying directly into your face. He's lying
+See here this clip is, is more powerful because you see both his eyes as he's lying to you. When he was on Meet the Press, it's shot from the side, so you really only get one eye. And on Meet the Press, the famous sort of like just, I don't, I don't know. Pen ultimate lie that he told was he had Scooter Libby, his chief of staff, leak false information to Judy Miller. She was so eager to Hoover it up. Judy Miller was a reporter at the New York Times. And they leaked fake information that Saddam Hussein had weapons of mass destruction. Now we know it's fake because Saddam Hussein did not have these weapons. So the information they had was fake. And he spent, he would visit the Pentagon, he was pushing for this type of information. They did it all in a bureaucratic way. And because, you know, all sorts of raw information comes in and then it is assessed. And what they did is they decided not to have any of the information assessed and they just took the raw information. Incidentally, that's how basically like the entire Republican Party functions now, to be clear. And Scooter Libby gave the information to Judith Miller. And then Dick Cheney to sell the war to Americans goes on Meet the Press at a time like when we barely had an Internet. People got their news from Meet the Press at the time. I know that sounds insane, but it's true. And he went on there and he said, they asked, like, what evidence do you have of these weapons mass destruction? And then he quotes the New York Times, which of course he was the source for the New York Times people are saying, but here he is. And just. I want you to pay attention to the word I think it is we know. You cannot know something if it's untrue. I cannot know that the moon is square because it's clearly not. But if I say the moon is. If I say I know the moon is square and that we know the moon is square and you don't have any other information, that's called a lie. Simply stated, there is no doubt that Saddam Hussein now has weapons of mass destruction. There is no doubt that he is amassing them to use against our friends, against our allies, and against us. And there is no doubt that his aggressive regional ambitions will lead him into future confrontations with his neighbors, confrontations that will involve both the weapons he has today and the ones he will continue to develop with his oil wealth. I don't know what else to say about him, frankly, but Galactic Nurse Boogs says the movie Vice comedy about Chaney is so good. Christian Bale is a douche, but the movie is so good. I saw that a screening with that.
+Was it McKay who made that?
+And I have to tell you, I did not enjoy the movie. I think that, like, there was too much of an effort to humanize Chaney in this. And I'm sorry, you know, like, it might be interesting. Is 70 years down the road to see sort of like a psychodrama like, why did Hitler do the things he did? And maybe his mom was mad, mean to him or something. But I'm sorry, I feel like it diminished the. The absolute horror that Dick Cheney unleashed on this country in many respects and obviously directly on hundreds of thousands of innocent Iraqis.
+Right.
+Fireboarding.
+I mean, he's. He's inert now. He's dirt. Dick Cheney. And it's. Yeah, like. And you said Sam and as will Minicker Said like it's a shame that he never faced any sort of accountability in his life. Now as, as upset I am about that, I will say I did actually pull a hamstring this morning. Dancing. So first a word from our sponsors and then in studio we've obviously we've got to clear stuff out to make room. Hasan Piker will be here and I mean well, we'll, we'll deal with the denouncing that we have to do. Today's sponsor, Delete Me makes it easy, quick and safe to remove your personal data online. When a time when surveillance and data breaches are common enough to make everyone vulnerable and of course there's a lot of lunatics out there, you want to keep your personal information safe. I've been using Delete Me for at least 10 years, way before they became a sponsor. It's a great service. It scrubs you from these data brokers and really like even if you're not somebody who for me obviously the primary use case for Delete Me is I don't want to be doxxed easily. I mean obviously some stuff, you know, I don't know if somebody works at the dmv, I suppose it's possible, but I don't want to be doxxed and but the other issue is, is that you have fishers P H I s H E R s who will buy information on the dark web about you and then couple it with stuff they can get from data brokers for a couple of bucks and use it to both steal your identity, to send you links, to, email you in such a way that it makes it sound like the they know you. Whatever it is, Delete Me does all the hard work of wiping you and your family's personal information from data broker websites. Delete Me knows your your privacy is worth protecting. You sign up, you provide Delete Me with exactly what information you want deleted. Their experts take it from there. And this is the the best part about Delete Me. They send you every month or regularly based upon how long they've scrubbed it, personalized privacy reports that show you what they found, where they found it and what they removed. So Delete Me is not a one time service. It just continues to do it because those media broker site or those information broker sites they repopulate. So Delete Me is constantly working, constantly monitoring the Internet and constantly removing your stuff on the thanks to Delete Me for sponsoring the program and frankly for their product that I've used for quite a while. Take control of your data. Keep your Private life. Private by signing up for delete me now at a special discount for our listeners. You get 20 off your delete me plan when you go to this website joinedeleteme.com Majority use the promo code majority at checkout. The only way to get 20 off go to join delete me.com majority. Enter the code majority at checkout. That's joinedeleteme.com Majority code is majority. Quick break. When we come back, we'll be talking to Hassan Piker.
+We are back. Sam Cedar, Emma Vigland on the Majority report. Before we introduce our next guest, let's we need to play this video.
+We are back.
+We are back. And I just want to introduce our first guest by saying I condemn him.
+Disavow. Disgusting and disgusting. And Hasan Piker not welcome here.
+I mean part of the problem is we're just too afraid to say get out.
+So now we're all just here looking your muscle.
+Exactly.
+What is the next election? Do you think that you're going to be used in? I mean this is if, if it doesn't work in this one, I just don't know which one it's going to work.
+So confusing.
+All right, well, let me ask you this, and then I want to move on to stuff that's more contemporaneous, but did you use a hologram to take down the building? Like, how exactly? Steel does not melt.
+Yeah. Okay, well, I just wanted to find out, like, how did you do this?
+There you go.
+This. I'll tell you something. I don't know if you saw the. The movie or War Games with Matthew Broderick, but almost the same thing happened in that too.
+Accidentally almost started to see that movie
+He was on a computer. He almost started World War Three because of it.
+You guys were 9, 9 and 11.
+Dysfunction says the Knicks game was more Hassan commercials than actual play.
+It is interesting though that the, they are desperate to try and find. I mean if they continue on with this with you, like try and use you as some type of, of of boogeyman down the future, it they're going to have to like, they're going to have to mainstream like what they really should do is finance like a cable television for you so that you're across a bunch of different platforms.
+Then go back and demonize. Because the 50 year olds and 60 year olds and 70 year olds, they're trying to communicate to just. They don't.
+Yeah. What you're talking about. Why are they like, like, I mean I can only imagine like if my father saw this ad and be like what's that? The guy. I don't get it. The guy's in his room.
+And he's what?
+They don't understand.
+He wants you all to have health care.
+Can be a weakness, too.
+And then just white nationalism in this country.
+From the Lafayette to the Grand.
+No, I honestly think you hit on it like the, the, the thing that. And this will give us a chance a little bit to segue to something a little bit broader. But the Cuomo campaign, at one point, and I feel like it was probably like two months ago when it, when it became clear that SLIWA was not going to drop out.
+And that it was so hard to get Adams out because somebody preempted Adams dropping out. When they leaked somebody, somebody interceded. I don't know who it is, but some entity interceded and reported that Adams was getting offered something. So they. Adams had to back off for a couple of weeks because it would have been too bad of a look to come out right at that time. And it slowed the whole role. And then it turns out SLIWA is not going to drop out. The Cuomo campaign, the, the the, the barnacles on the big ship Cuomo, the consultants who are, who like see this as an opportunity to soak Bloomberg and Ackman and all this dumb billionaire money. I think like you provide them. You were like, we can dump a bunch of money into this Hassan thing and make it look like we're doing something here. Paul Bless tweeted this out on October 16th. Why is a Cuomo doing this? Who is telling him to talk about Hassan Piker three weeks before an election which he's down 20. And I said what, I surmised what Hasan sort of said. More and more money consumes democracy. Answer will be an obsessed donor.
+It doesn't, yeah, it doesn't end up hurting you. I mean, obviously you don't want to be walking down the airport and people, you know, start, you know, yelling like, oh my God, like he's, he's, you know, watch him. He's a terrorist. But the, what this is so indicative of is that sort of cohort of Democratic of politicians like that world is such a money soak.
+And it is like you are sending, you know, one of these consultants kids to college. You know, just like on this, you know, just on this campaign maybe, you know, maybe two or three kids to college. And so, but it's indicative of like so much of what we see and why, you know, because we do have a situation now. Like the part, I think a good 25% of the vote for mom Donnie is a function of. Andrew Cuomo is just a disgusting human being, period. Like, and, and like this is the best they could do is they come up with Cuomo in this instance.
+The Democratic Party of this ilk is bereft. I mean, listen, Janet Mills is not Andrew Cuomo. But if I wanted to, you know, win in Maine, I wouldn't put up a 70 or 8 year old politician. Particularly now. Like, there has never been more sensitivity. Nancy Pelosi is even seeing the writing on the wall. I mean, I know this is hard for people. I read in the post that we're all having to brace for her retirement. I've been bracing, but this is like indicative of. I think an interesting thing that's happening in the Democratic Party is that there is a, there's a cleave that is happening on some level, you know, but at the extremes.
+Good question.
+This has been honestly, like, this has been a decade, multiple decades long story. Like the, you know, and it was happening in the arts. We just danced over Dick Cheney's grave and oh yeah, there was, even during that era, there was this notion of like, just a complete lack of awareness of. And this is, you know, the middle of the arts is 10 years out from Newt Gingrich, who at least, who basically introduced this movement, conservatism, which is really just means, like, we're going to basically use an underlying amount of racism and, and then just drive a lot of basically bullshit and hatred essentially to get our tax cuts and to destroy government. That's been the recipe. And the only thing that has changed in the past 20 years is that the balance between the people who thought they were basically leveraging that stuff and the people who actually believed it and were leveraging it in the party just shifted. And it happened, you know, during, like the, the, the Tea Party era, when Eric Cantor got voted out was like, oh, we've been, we've been. But we've been cosplaying on some level. Like, you Know, I mean, I don't, you know, Eric Cantor's like, well, I, I'm racist, but I don't really care that. I don't really care that much. And you know, I was just doing it to basically get a corporate cynic here. And, and then those people took over and the whole party is that way for the most part now. And I think, I think broadly speaking, this shutdown is indicative of that part of that same sort of dynamic, which is there's two different things that operate simultaneously. The partisanship, which is distinct from an ideal, from an ideology. Right. Like, the one thing is like, we're in a fight against these people. What's the best strategy to make our side win? That's the partisanship. Then the other is the ideology within the context of the Democratic Party. But the problem they also have is, and they'll shift, like I noticed this with, with, with my debate with Ezra Klein, they will shift from electability to governance to governance seamlessly. But now they're losing on both ends.
+you did with Obama?
+And so much of that kkk, sort of like that John Birch Society, which Buchanan is a direct descendant of, is that the Jews are the ones responsible for bringing in the immigrants and the black people. And that's why the Jews use them in that way. But I, I think, you know, the tough part, like as you say, is how do they split that difference? Because the difference between Pap Buchanan and Nick Fuentes is really just like the era they grew up in and what you could and could not say.
+Putting aside. I mean, listen, I have no idea, I have no idea if Pat Buchanan is or was secretly gay. So I grant you there's different. There's differences between these people. I have no idea about this, about Pat Bucan. I do know that Happy Canada would bring me on to MSNBC in the aughts because I was the only Jew he could find who criticized Israel. And it was one of the most dirty feeling things ever.
+To know that he was like, I was, he was using me in that way. But there was just no criticism at the time of Israel.
+He did the same thing with Bill O'Reilly in 99. He was on a C span. Maybe it was 99. He had written a book and he was talking about how Bill O'Reilly was a FO populist and he said like, eventually he's going to get the quote with something to the effect of like, he's going to be in an airplane. He's going to send back his what's that drink with the champagne and the orange juice, his mimosa, and yell at the stewardess. And it's going to be. He's going to get outed as a non. As not actually a populist. And then I think what happened with, with Tucker, and I think you saw this with Pap Buchanan too, is like he actually never got outed. It's not like that doesn't. It didn't. It wasn't a problem. And so he just said, that's what I'm gonna do.
+Exactly.
+I think, I think, I think that faction, like who the ADL represents understood that if support for Israel in the Democratic Party and broadly speaking, like the, the center to the left, if that collapses, they have a real problem problem because they've all, they've been able to deliver. Kufi has always been there, but that is basically static. They don't know that they can get outside of that and they know that there's actual anti Semitism there, that they would not fight so they would not alienate their Kufi people. Yeah, but what they have always been afraid of has, I think has happened and it is a matter of time and this is something that was, was clear was going to happen even 15 years ago, that eventually the Democratic Party, broadly speaking, because of its aspirational values, cannot support Israel. It just can't. You cannot, you cannot support things from like starting in 1965 with like the Voting Rights act and the Civil Rights act and have that as your legacy. And the contradiction is just too intense. You can't do it. It's not sustainable now. It's been sustainable for 60 years to be fair, but that's involved a tremendous amount of effort and what we're seeing now is like white knuckled attempt to stop that from happening. And it's happening.
+And that's why I think they come after you is because like you know, they can go and they can try and buy Twitter, I mean, or Twitch. They can buy Twitter, obviously they can buy Twitch. They can do all these other things TikTok, tick tock rather than, but independent creators like yourself who are, you know, are reaching millions of people. That's, that's problematic. And I think what's interesting is that this, this is, that dynamic is an extreme, puts it in like extreme relief. But it's, There's a similar dynamic happening, I think, with, within, like, in the context of like, less sort of. In more nuanced areas like the Democratic Party. Like, I think, like, you know, like, Chuck Schumer wouldn't have this problem that he has now 25 years ago. He wouldn't have like, you know, defections of like, people like Schiff of all people, or Heinrich going and meeting with candidates that Schumer and Gillibrand are running against in Democratic primaries. Now, with that said, let's look at. Chuck Schumer has been fighting the good fight. Credit where credit is due. There's words that there's, there's word now reporting that there's eight Democrats. I think I mentioned this yesterday that there was always going to be a gang of like five or ten. It looks like a gang of eight on the Democratic side, probably like four on the Republican side to come to some deal to make it look like, you know, to end the shutdown. The problem is like, it's quite clear that Trump is on his, his heels. I mean, he's yelling at them to get rid of the filibuster. And I would please get rid of the filibuster. But part of it is obviously Trump is feeling the heat from guys like Chuck Schumer. Check this out.
+Is he allowed to do that?
+Only do that on the Senate floor. Otherwise you get in trouble.
+You're protected because you're a congressman.
+Imagine him in an aisle.
+No.
+Yeah. I mean, I think, you know, the Democratic Party more so than the Republicans, has always had a sort of like, at least in the past couple of decades, a fealty to seniority.
+I mean.
+Republicans now, like, don't have the same seniority system that Democrats have on the committees that they're on. And that has been a real problem because you had literally a generation. Chuck Schumer is one of those. I mean, Pelosi is actually probably like the greatest generation. I don't know. She's actually a boomer. She may be just a little bit older than a boomer, but they were sitting atop the. These committees, these politicians, and they were basically starving oxygen for people who are my age and a Little bit younger. And so we didn't. Anybody who grew up with, like, new media or this and that, they're just kept out of the loop. And we see it in the context of, like, you know, Chuck Schumer is functioning as if it's in the 1990s. And. And I always say even Hakeem Jeffries was chosen by someone who also had a similar sort of perspective. Like, let's not kid ourselves. Hakeem Jeffries is speaker, or I should say majority or minority leader because Nancy Pelosi wanted him to. And so he was cut in that same cloth. What was considered attributes at that time was not, you know, the ability to communicate with the American public.
+Yeah, I mean, you see it right here. Wait a second. I don't think I have.
+I don't have the picture. But like there's a piece in the, the New Yorker magazine. You know, socialism or abundance. You've got a picture of a national leader and the only person representing any other, the, any other. Like you have a two time presidential candidate who remains. And I will say this, somebody else points, I guess Joe Biden maybe, but Joe Biden never got as close to the presidency as Bernie Sanders did in either 2016 or 2020. I mean he ran, but he didn't get very far in any of those elections. Who is as popular a two time loser who is as popular as Bernie Sanders is? And they put him into contrast with Ezra Klein.
+Who, I mean, okay, he's a New York Times columnist, but where is the, where's his base? Here's the COVID Where's the politician who represents abundance or whatever?
+I mean, that's what's sort of fascinating about it is that nobody wants that label.
+No politician wants that label. Yeah.
+Joe Manchin is an independent.
+mean, they'll move from like, what helps electorally to like, well, there's some things you can't really change.
+I think people really have to sort of internalize this, this Israel thing. If you wanted to sit down and you wanted to make the argument that there is no position that is sacrosanct, right. Like, I mean, we're going to put it all on the table. We're going to put abortion on the table, we're going to put trans rights on the table. You've got to put Israel on the table. And if you look at the numbers, I mean, if you look at just. And you say like, okay, there's no, we don't, we don't, we don't make an assessment on what is just or what is right or what is even consistent with the Democratic brand to the extent that it exists. Even if we imagine it, 70% of
+But even put aside what Democrats think about it.
+Because the whole idea is to appeal to the right. Like, where is there more opportunity than to come out and say we are no longer going to provide aid to Israel?
+All right, look, we got to take a break. When we come back, maybe we'll take some phone calls. We got some more clips to go through and we're gonna head into the fun half of the program and we'll talk about like what you're doing for coverage tonight. If, listen, if you're a free member, you're free listener. We're gonna be back here tonight probably around 8ish, to start doing coverage and we hopefully we're gonna have some people call in from the various Zoron parties. I think there's like multiple ones around the, the city and people call in. We may even, we may even like send a stringer to one of them. We're not sure yet, but we'll be probably drinking and.
+Oh, and oh, here's the other thing I wanted to say. Today is Tuesday, November 4th. It is the five year anniversary.
+Of Emma Viglan coming onto this program. Damn.
+see that Roger first came in, there
+Everything was jerry rigged and the window
+I, I had one of those CO2 measures and I could actually get the CO2 levels in this office to be essentially consistent with being outside.
+So congratulations. Thank you very much. I appreciate that.
+Five years.
+Well, you've done a great job job so far. We'll see.
+That's also best of Sam. Oh, yes. And folks, if you have best of suggestions, send us an email@mainvancereportersmail.com put in the subject line best of. And again, they can go all the way back into 2024 in November. Now things were a little somber I think, you know, in November 2024. But maybe in, in, in December, there was some past of. I Don't know but just put in your suggestion. It can be a fun half thing too. Somebody said David Feldman calling in about. I think it was ice. Oh yeah. Humorous clips you've seen from the fun half. Send those into the emotion chart.
+Oh yeah. That's an easy first ballot.
+Just a reminder to your support makes the show possible. You can become a member@jointhe MajorityReport.com when you do, you not only get the free show free of commercials, you also get the fun half. Matt, left reckoning. Yeah. Big show tonight at 7:00 Eastern. Griscom Talk with Catherine Lu. Great conversation there. And I talked with some North Texas DSA folks about anti algorithmic rental pricing campaign that they're running in Sandeep for. He's in on these non competes that the FTC was trying to implement and that Trump has gutted. So big show. So no post game. In fact the post games might be done because some changes are coming to a left reckoning soon and there's going to be a little bit of programming changes. But I would just say keep your Friday afternoons clean, folks. Some announcements like you're giggling like, like, like you're bursting at the seams and we're no.
+We don't have any more extra show coming on Friday. All right, quick break. Head into the fun half three months from now, six months from now, nine months from now. And I don't think it's going to be the same as it looks like in six months from now. And I don't know if it's necessarily going to be better six months from now than it is three months from now. But I think around 18 months out we're going to look back and go like wow, what, what is that going on? It's nuts. Wait a second. Hold on, hold on for a second.
+Emma, welcome to the program.
+Matt, do Fun Pack. What is up everyone? Fun path. No.
+Fun Pack.
+Fun hack. Bradley, you want to say hello? Sorry to disappoint everyone. I'm just a random guy. It's all the boys today.
+Stop talking for a second and let me finish.
+But dude, you want to smoke this? 7A.
+Hi, me.
+Yes. Is this me? Is it me? It is you. If it's me. Hello, it's me. I think it is you who is you no sound every single freaking day. What's on your mind?
+I'm gonna go start right.
+Libertarians. They're so stupid. Though common sense says of course.
+We nailed him.
+Challenge men.
+Basically quivering.
+I want to say. 8, 5, 7, 2, 1 0. 35. 5, 011 half. 3, 8, 9, 11. For instance.
+$3 trillion. Sold. It's a zero sum game.
+But. But let me say this.
+You can call it satire.
+Without a doubt. Hey, buddy. We see you. All right, folks, folks, folks.
+Yeah. Sun's out, guns out. I, I, I don't know.
+like to entertain ideas anymore. I have a question. Who cares? Our chat is enabled, folks. I love it.
+Gotta jump. Gotta be quick. I gotta jump.
+Two o', clock, we're already late and the guy's being a dick. So screw him. Sent to a gulag.
+Like, what is wrong with you? Love you. Bye. Love you. Bye. Bye. We are back. Sam Cedar, Emma Vigland on the Majority port and sitting in with us in the fun half. Hassan piker. Do you want to take some calls?
+All right, folks, we are turning off the the call in the voicemail. Callers are in. Let's let them populate for a second. Every American will soon receive their own Med bed card.
+He made one for Dilbert. It's happening.
+All right, let's go to the phones. Calling from a 646 area code. Who's this? Where are you calling from? Hold on. Hello?
+Wait, who's this? Where are you calling from?
+This is the Majority report for Majority.
+I'm fine. This is Majority. John.
+It's your last name.
+Is this Benjamin? Is your last name John. Benjamin? John Benjamin?
+Dude, you just called into my show. You just called into my show. What are you doing?
+Yeah. What are you doing?
+Wait, wait, wait, wait, wait. You're calling for Cuomo?
+So you've been. Wait, wait, you've been.
+and you're calling for Andrew Cuomo?
+No, you didn't. Why? What. What. What is your. Why are you calling for Cuomo? You vote. Like, why would you possibly support Andrew Cuomo?
+Yeah.
+Hasan Piker is sitting in, too. Well, let's see. Tell us all. Tell all three of us your pitch.
+Yeah.
+I actually vote early, but go ahead.
+Yeah.
+Yes,
+Right. Yeah.
+Why is that?
+Is it expensive? I would imagine it's expensive.
+Solid point. I see. Yeah. Okay.
+Greyhound in the sky.
+Yeah. That must.
+Wait, you're saying that in support of Cuomo, you're calling around, calling for lowering taxes on rich people people.
+Oh, I see.
+Right.
+So I'M sorry, let me give you
+Mm.
+Gotcha.
+Not entirely.
+Buses than they are now. Why would you want slower buses?
+What's the message?
+And what about subways?
+I mean, what do you mean by.
+What about universal child care?
+What's the Cuomo plan for that?
+Well, I think. I think. I think you're misunderstanding what universal means. It means universal, like, everybody. It's available to everybody in New York City.
+Pie in the sky.
+True.
+Well, we're talking. When we talk child care, we're talking like ages, like, 2, 3, 4.
+2, 3. Some 2 to 3 to 4 year
+You know two, three and four year old kids who do that. Why would you even. Why would you know 2, 3, 4 year old kids?
+Your kid did that.
+Wait, wait, wait. You. You're in direct contact with Cuomo?
+Well, John, I'll let you, I guess, get back to doing your call.
+Okay. Love that Andrew. All right, well, say hi to Andrew for us.
+I suspect there's going to be room. Easy invite.
+Well, talk to you later.
+Okay.
+Where the Cuomo watch party is tonight?
+Like they would have it.
+That a holiday. Honestly, my understanding with the Zorron campaign, they have. They had 100,000 volunteers.
+There's no way they can have. I mean, my understanding is it's like a half a dozen parties around the city. They're obviously not going to be able to get all the volunteers. And they.
+How many unpaid or I guess definitionally, how many volunteers do you think there were for Andrew Como?
+Ben.
+Cannot believe that Benjamin would be doing this for free, but it's possible. But honestly, I mean, I. In the primary, I found one person handing out Cuomo things. I was on the Upper east side. It was a Thursday. I was going to see the doctor, and I walked by, the guy gave me the thing, and then I walked like half a block and I'm like, I wonder. And I went back and I was like, why? What is it about Cuomo that you like? And the guy was like, I'm getting paid. Yeah, there you go.
+Like, he didn't even know. They didn't give him any sort of. This is what you say. You just hand it out.
+All right, let's cover some of this here. Food stamp funding. Two different judges, one in Boston, one in Rhode Island. I imagine Providence ordered the administration to continue funding snap. There's two problems. One is the administration says we're only going to do half. So recipients, 42 million Americans are going to get half of what they are entitled to under SNAP laws. And because of the system that we have, it's going to take 10 days for them to get the money. So they're going to miss a week, week and a half of funding. Here is. What is it? Which number is that? The Ilhano Mar. Which one? That's. Oh, sorry, this is Schumer.
+Oh, okay.
+Oh, oh yeah. And meanwhile, and I'm sure you've seen this, the, the right after, after they lost the argument about whether they could provide SNAP benefits. Right. Which was a lie. In fact, they were statutorily obligated. They then moved into immediately the mode of like SNAP benefits are not deserved. Yeah, we heard like Corolla lie about like the average weight of SNAP benefits people, which is relevant to me. But it's like yes, we're going back to like Reagan era stuff.
+no surprise that Corolla does that. Right. Like he's of that generation, generation my age, probably where we grew up on Ronald Reagan. Here is, here is an example of that. This is Indiana's Lieutenant Governor Mika Beckwith, who turns out to be a Christian nationalist.
+You know, I think in the meantime,
+People are so there you go. God did not call on the American government to feed people. That is in scripture. Now of course there was a timing problem. The didn't really have a government at that time. Mr. Dinosaurs over here believe in dinosaurs. Too. But I think the idea was. I mean, I don't know. I don't know scripture either, but. But I feel like there was, like. Didn't Jesus say stuff about, like, providing for the poor? There was no church at the time of Jesus, as far as I remember. I don't know. It seems like it's more like the principal. Right.
+It's a great opportunity for the church. Bottom line, the church cannot do it. Yeah, that's what I was gonna say. I'm reading that Trump is saying he's not gonna pay even the half now. Oh, is that right? Yeah.
+Yes. I mean, the fact is, is that statutorily, there is money set aside explicitly for a situation like this. Two courts have ruled that way. But here is what they're doing now. This is Brett Cooper. Where does she. On the Brett Cooper show solo? Oh, she's not on the Daily now.
+Independent media. But the bottom line is we're seeing the. Right. Really pushing this narrative. Like it is not necessary. Demonizing SNAP now. Right. Like that's the next step.
+Okay. Maybe legally allowed to continue funding. We may be legally obligated to continue funding, but we shouldn't. And why. Here's evidence as cited by Ben Shapiro's clone. Didn't. Wasn't she?
+The one who was developed by taking a piece of his hair and they. Yeah, okay.
+That is going to be taken advantage of as it has been today when there is no real transition program to get people off of snap. Why would people even try Crowder posted about this and he said SNAP cost taxpayers $145 billion a year. Recipients spend twice what the average worker
+I fact checked that.
+This is why the entire thing just
+They spend it at your grocery store.
+I just don't think a month.
+Just a loose. There is the. This is not true that they spend that. There is some. Yeah. Steven Crowder fact checks all of his stuff and puts all the information in the show notes.
+This is according to the Dumbass Institute.
+Now it is conceivable that they spend anywhere from 13 to 20%, possibly more. But this, it's comparing apples and oranges because workers tend to spend a 13 to 15% of their. Their income on groceries. And it's hard to compare that to SNAP beneficiaries because they are working in probably lower wage jobs in general. But nevertheless, let's continue to see where she's going with this since she fact checks everything, which is insane. And that is true. I fact checked that. That is not helping the poor.
+This is why the entire thing just needs to be stripped down and rebuilt.
+a black and white way, but I, I am against a system that enables this kind of exploitation. We need new guidelines on who can
+We need new standards on what people can purchase. Like no more fancy nespresso pods.
+lobster tails for your seven kids from your seven freaking baby daddies. Pause it for a second. For a second. First off, if you can get lobster tails for 999, I would tell you. Do.
+All right. Not cheap.
+No, I don't.
+Yeah, yeah. Each dollar on SNAP, each dollar in federally funded SNAP benefits generates $1.79 in economic activity because you're feeding people and giving the money to your local grocery,
+Yeah, in California you can, but in most places you can't.
+And I mean, honestly, that's cheaper than hamburger. It's probably healthier for you too. Assuming it's actually.
+Brian's with me. Grew up in Maine. Yes, I'm with you. 100%. $9 lobster. I think we're both going for that right now. That's the headline of this video is $9 lobster.
+And like a undocumented labor too. Go go the fields. But this is not. This is like this. She's just winding up now for the real pitch. Freaking lobster tails for your seven kids from your seven freaking baby daddies. And yes, that is a real thing.
+Ma'.
+This is an insane video to pause it.
+This woman is a conservative influencer who copied the script.
+And then said, I'm just redoing essentially a real thing.
+They're still pending.
+I'm blocking you.
+Do you think she knew they're auditioning? Did she. Do you think that she knew that like somebody's going to clip this, they'll use it. I'll have the, I'll have the plausible deniability in that. At the end of the thing I said all of this is just stuff that I saw.
+They do whatever they see.
+You have more than, let's say, let's just call it four kids. Sorry.
+First of all, what's also amazing is that you've got Tucker Carlson and J.D. vance and all of those sort of tradcon saying we need to have more babies. So it's sort of undercutting.
+Yes, of course. And I just want to make this clear. Let's go back just to the Brad Cooper thing because she fact checks stuff, ladies and gentlemen. Let's just remember that she played what, like three AI videos and just what we just scanned through there, maybe, maybe two a ise and one that was just copied of.
+been going on for. This has. You know, I think it was Lee Atwater. You know, this is on his deathbed. He's like, you know, we used to say the N word and now we say busing. And then it's like, I mean, it's all just a way to activate that sort of, like, notion of. Yeah.
+I mean, this is what, in the wake of reconstruction, we also saw. It was like we're going to, you know, literacy, poll taxes were. Were aimed at freedmen, but of course, you know, also ended up punishing or disenfranchising poor white folks. But that was almost like a twofer.
+Like we can. We can. You know, it's. That's a. That is a feature, not necessarily a bug. Oh, we should say this, too. I want to get your reaction on this because I know that you got to apparently do a show eventually.
+Are you aware of this? Let's do a number 11. I just want to do this tear sheet. People should be aware of this because people are still going out to vote. If you have not voted, make sure you go out and vote. Here is another reason to perhaps vote for Mom. Donnie?
+I don't know if you're aware of this.
+But it is being reported in the New York Post that nearly a million New Yorkers. You know, it's amazing, is that the Post had the ability to send out. This is a. An incredible reportage feat to find out that a million New Yorkers are ready. This is the. Put it back up there.
+There are, There are literally dozens and Dozens of private jets that are on the Runway. Guys are choked with Peterborough airport just waiting for someone to roll up in. In like SUVs in. In one of those Cadillac SUVs and to drop people off. Nearly a million New Yorkers ready to flee New York City if Mamdani becomes mayor. Possibly igniting largest exodus in history.
+And listen, you talk about free buses. You don't even like, you won't even. The buses are going to be so freaking fast you're not going to believe it.
+Scroll up here. It's going to be so nice to walk on the. On this thousand. Hundreds of thousands of New Yorkers are prepared to bolt from the Big Apple if socialist candidate Zoram Hamdani went on to Tuesday, potentially setting the stage for the largest population flight in US history. This is an alarming new poll. Around 765,000 of the 8.4 million residents who call New York City home preparing to leave. With 9% of New Yorkers sharing that they would definitely leave the city if mom Donnie's elected. And this one's got to be Manhattan. I too right. Reported by the Daily Mail. Okay, so the Post didn't do the reporting out on this. This was the Daily Mail doing the reporting. Two of the best.
+I wonder who JL Partners is. Let's Google them as you scroll down. Matt, keep going down here.
+If those residents were to believe it would be equal to the population of Washington D.C. las Vegas or Seattle fleeing the city. Another 25% of New Yorkers about 2.2 said they would consider packing up and leaving. Among high earners, 7% of those making over $250,000 a year said they would definitely fleet. So the beauty of this is it's going to be distributed it seems like across different income levels.
+So maybe you don't need a, like a, a 15, 000 square foot penthouse department or something like that. Maybe you just need something more modest.
+Like an 800 square foot one or two bedroom and you know, or even like you could get a Curtis Lee, a 350 square foot place for your cats.
+They're all going to be available all across the board.
+I can't watch any more of those repeats of Will and Grace has been ruined for me.
+Like, they have no idea.
+Yeah.
+book in.
+She posted you 22 hours ago.
+This is like an ongoing, like. I don't know. I don't. I. To be honest. Like, I. I have never been able to figure out Instagram. So what does that mean? Like, there she. These are all adding to her story. She has, like, individual story for folks who can't see it. It looks like Morse code version of Be Dick.
+I mean, amazing. There's no way could you ever. You would literally, like Deborah Messing's mom. Couldn't, couldn't, wouldn't read all this.
+Not scroll. Yeah. This is insane.
+So are we becoming Muslim or are we becoming trans?
+I thought the Muslims would throw the trans off the roof. So it's all. That's what they mean. It's like a suicide pack.
+This is nuts. Like, who thinks that anybody could watch this?
+I mean, there's two types of. There's two types of people who are freaking out about this. Right? Like, there's people like Deborah Messing, and then there's also sort of like billionaires who are concerned because they know. I mean, this is what's sort of fascinating about this, is that you hear all of these arguments that, like, okay, this is New York. It doesn't work for the rest of the country, but they're addressing it in a way that they know. They're afraid that it's going to work for the rest of the country.
+I mean, the. The. You never saw this level of panic when they were putting up. I can't Remember what her name was for the last main race, you know, and you never heard this level of panic when Claire McCaskill was running again and losing her seat, Missouri. I mean, this is. You never. They said Eric Adams was going to be the model for Democrats. And in.
+But that's what they say. But I, I think the greatest trick the centrist ever played was to pretend there was no ideology.
+Because in fact, of course, there is an ideology and it is a. It is, it is a limited one in the sense that it really is just about how we redistribute wealth. Like, because every single society redistributes wealth. Every single one. Yeah, every single one. There is no such thing. Thing as a government that does not redistribute. The question is which way it does the redistribution flow. And there is, I think, an intense fear that the spigot where the benefits of government existing begin to get distributed more widely within this country. Yeah. And because a lot of people have gotten wealthy, healthy because of it, and they are living their, their best lives and they see that this is a problem for them to live their best lives. But that's why other people are living a slightly better life.
+Yes. Yeah, let's stop the. The we. Let's freeze things right now as they
+I don't think that they wake up to it. I don't, I don't think that's the way it works. I mean, I think there are some who realize like, like they have to be more partisan, but for the most part I think we are not in the, the idea of persuading and winning over folks in the Democratic establishment. That's not, that's not how it works.
+How it works is we keep building power amongst both in an electoral perspective, but also outside of electoral politics. But in simultaneously there's, I don't, I, you know, I, I, I subscribe to the notion that both can be done simultaneously so that this is, they don't have to be convinced of anything.
+They just lose.
+You use the institutions that you feel like you can. You can use at this point. I mean, there's a bunch of, of tools.
+Exactly. And because there is virtually no evidence that a third party, at least on a, on a. On a national level, has the ability now or the strength to do anything in that.
+I will also say that with all due respect to you and with all due respect to us, that we're not capable. It is not like what we're capable of doing is seeing a car that is like, maybe on a slight incline and it's in neutral and we can start to, you know, join other people and help pushing it so that it gets on a roll. Yeah, but we don't have the ability to stop a car that is rolling in any way. We don't have the ability to build a car. Like, if there's. If, if, if the obstacle to a viable third party is 1 to 10 streamers, 20 streamers, I have news for you. Yeah, no, it is not a viable party.
+I am of the mind and, you know, maybe this is for another day that the biggest movements happen when there is where. Where you actually sort of get to peek over the other side of the wall and. And get a notion of what things could. Could be. And the ways in which you get to peek over that other side of the wall is very often when a. You're not afraid. Where there is actually like to just belabor this metaphor, there are. There's a ladder or there's scaffolding and you're not afraid of somebody coming and undercutting that scaffolding. You know, we had the biggest sort of like emancipation movement in the country during an era where people were economically had a little bit more sort of like economic security during, you know, the great compression going forward, the ability to have something like, you know, Medicare for all, where you're not afraid, where the fear associated with protest or organizing or whatnot is not. Are my kids going to have health care? Care I think will make a big, big difference. But I agree. We'll see. We're. How are you for time?
+I got.
+I. I could tell Emma was getting like, I.
+I didn't see.
+I think it's good.
+Okay.
+I think it. I think it gives. If he wins, I think what it does, aside from the material differences it's going to make in the lives of New Yorkers, which we will remain, you know, we'll see. Hopefully he's able to do it, but it gives. It gives scaffolding for other attempts around the country.
+Always a pleasure.
+Let's get to the. To the real stuff. That being, of course, Joe Rogan and Elon Musk. We're going to do some political analysis. Us what we need to do.
+Yeah, I mean, I think, like, I got it. We got it. And Mad, it's not his first rodeo. I would have needed that prom. So. Yeah, some of us have been around here for 10 years. Wait, when was your anniversary? Is that like, actually, you don't know when it was, like, in the last couple.
+Was it?
+Well, we missed October.
+2015. October, I think. Wow. Jesus.
+Uday and Kus Lutnik says, please stop fighting, guys. We don't like that.
+Who is in polite.
+Being welcoming.
+I'm not holding him hostage. Right, we hold on to that.
+all right, let's. Let's get to. Honestly, we. We can't let this lie too much. What happens when two people, one of whom is the richest human being on earth, the other is who? The last of the true comedians. The last of the true comedians. And they are put in the same room with each other and have only ideas and also some form of intoxicants. They're both so high out of their heads right now. Honestly, it's like. It is. I've encountered this, but not since, like, college dorm room, sophomore year of college, where you see, like, two people who are so convinced that they have figured out the world and are also so high. High.
+is because if I should say where they're talking about the government shutdown. Go ahead.
+part of earth to every part of
+turned off, they, the, the illegals will
+I just want to say, like, there's not. What's fascinating about this is like not even the Republicans are making the claim that they're attempting to cut off funding for, for so called illegals. I mean, there you hear some attempt to say that like SNAP is riddled with fraud and it's a bunch of undocumented immigrants, which incidentally is not the case. They don't have eligibility for snap. And SNAP is incredibly not fraud ridden. But the idea that immigrants, broadly speaking, and he's literally the one who's talking, is an immigrant.
+He is one. And overstayed a student visa.
+That they come here for the meager SNAP benefits of an average of $187 a month. The magnet, it's like, whereas, like there are countries all over the world with much better social welfare programs. Like, like, like why would you come here if that's what you're looking for? Rogan is saying.
+Because he thinks there's an actual magnet like that Wiley Coyote. So like a people magnet. Okay. Wow. Where is it? Holy cow. All right, but let's go back. What's amazing though is like you don't even hear this claim from Republicans. Like, this is made up whole cloth by whole ketamine based off that. Exactly.
+illegals will leave because they're no longer
+Wow.
+of voters and they would have a very difficult job if this is kicked out of reintroducing it into a new bill.
+So like, in a nutshell, what are they saying? What is going to get kicked out? I think normalizing. First of all, I think the only thing, the only material ask that the Democrats are asking, right. Aside from like a process thing of like, hey, don't keep breaking laws like you are with the SNAP benefits and pretending like there's no money there. The only material asks, they're saying Maintain the enhancement of the ACA exchanges. In other words, the subsidies to private insurance that we're doing through the aca,
+Which if you're not documented, you're not eligible for. And also, these subsidies go to people who are, like, the big chunk of this is going to people who are. And remember, the ACA is only for people who don't get their health insurance through work.
+And when you're talking about these subsidies, they are for people who. And families who are making anywhere from, like, the big bulk of the. Of it is through like 40 to 40 to $150,000 a year in terms of the size of the family. So, like the, the idea that these people are here and they're coming for ACA subsidies, they have jobs, they're making money. It's just that they. They. They want expensive private health insurance that is subsidized. Very.
+Exactly right, exactly. As opposed to the. Like, let's go to a country where they have, I don't know, subsidized health care. Like, it's, like it's actually paid 20 bucks copay instead of like a $6,000 deductible. This flattery, where people say the only reason people there's immigration across the world is because of how great America is and not say what our foreign policy has done to a lot of these countries that people end up having to flee, whether it's Venezuela, across their oil economy, for instance, or across Central America, is a crucial component of American propaganda.
+And the ruse is that if you don't accept what they're doing, then you're
+As they try to destroy the democracy.
+That is literally what they want people to only vote for them and overwhelming the system.
+and in fact, has worked.
+It's.
+Pause it for a second. Okay. The reason you have. First of all, he's lying. Lying about the gerrymandering. The gerrymandering we know has is been predominantly in Republican areas. You see it in Wisconsin, you see it in North Carolina. Hopefully Proposition 50, like in the blue states, they have to pass legislation not to have a vote in The. In the legislature. But they have to literally have a referendum them to change the way that they organize part, which is indicative of the fact that there is no gerrymandering there. But put that aside. This is like, with Rogan sort of like piecing it together, like, oh, they're importing people to vote, incidentally. Probably the average person who's imported. It takes anywhere from like 10 to 15 years before they become citizens.
+And then in the vast majority. The vast majority don't. They're importing them. And in the meantime, the bait and switches, they're saying that you're. The other side is against him. I get it now. That's why they have to send the National Guard to all the city. Exactly. Democracy.
+So much sense. How big was the magnet? This is a good example of why you don't need to credit Rogan, when he occasionally has a brainwave would be like, we need to be less cruel to immigrants. It's unbelievable. It's literally like he's like. It's. He. He. His. His brain functions like a. Like one of those videos you've seen, like a video of, like, a plastic
+Floating in the wind, yeah. Basically, what is called object.
+Like, no, it's in the months, like, 16 to 24 times.
+But yeah.
+This is From December of 2023, when Stavros was on and Stav talked about his experience coming have an immigrant father and the voting thing.
+Here's Rogan 1255. Have you. Did you see that video? There's a video that was going around today of people in Chicago that are furious that the government is giving so much money to all these immigrants that are.
+They're giving them cell phone and 12 bucks. Whatever is. They weren't. They didn't illegally immigrate to Chicago. They sought asylum in Texas and were human trafficked by the Texas government up to Chicago.
+And you know, these people that were Democrats are like, hey, if Trump wants to talk to us, come talk to us. We're tired of this shit. Yeah. And I'm like, wow, this is wild to see. These people are waking up.
+aren't even from here all this money and a free phone all this, you're
+And that, I mean, yeah, that is fucked. It's like I think those people deserve. But that's what it's like we're seeing the, it's like why aren't regular people getting that same. Why doesn't everybody just get that? Why are the fucking. Why is that person getting special treatment
+I mean the safety net.
+What they're doing is they're trying to buy votes.
+I try. They're trying to get rid of voter
+and make it easy for them to
+And if someone like let you in a country when you vote for them, but they can't vote, can they?
+It's a, I mean, but they're talking about not having voter id. What if we could all fly. They were talking about it in New York. They were going to try to make it so that you weren't. If you weren't a citizen, you could still vote New York. Something that was discussed, right?
+Google that thing about New York attempts to have.
+I think there was like some municipalities contemplating being having legal residents, let's be clear. As opposed to a citizen like people who maybe on a long term work visa vote in municipal elections. But again this whole ID thing, if someone went to impersonate, let's say Sam Cedar and to go to the polling place and vote. What happens when Sam Cedar shows, goes up, they go, oh, you already voted. We thought you were that other swarthy looking guy. And so you don't get a vote. Okay, but how did that swarthy guy know who I was going to vote for? Like it's a little redundant. What if we're both voting for the same person? So the whole plan with the undocumented documented is what they do is they go around, they go into a town, they interview all the potential voters. Who are you voting for?
+They find out who is not voting for the Democrat maybe voting for the Republican. They then they go out and impersonate that person and then wait because you have that problem. What happens when then Brian shows up at the polling place and finds out that Brian already voted and may have even voted for a Democrat? You've got to distract Brian from going to the polling place.
+There's all sorts of different things you could do. Give them a phone to play with,
+You teach them Wordle, and they get sucked down a wormhole. Or they're like. They're playing, you know, some type of video game, and they like, oh, I missed the voting day. Right? Or you keep prank phone calling them, or you tell them, like, oh, election day is tomorrow. It's not today.
+Okay, wait, but is there two me? Really? What? Is there really two of me? There could be three. Well, it could be others they're going into.
+Okay, that's actually the only movie I've ever seen.
+Folks, I'm sorry about the phone calls. Let's take one phone call. Calling from a 308 area code. Who's this? Where are you calling from?
+Dude, what do you got a cold?
+Oh, no, I'm sorry to hear that.
+Nothing to worry about.
+I was curious.
+Well, I'm sure Mamdani would send more cough syrup, because it sounds like that's what's fueling your revolution. Wait, you're Nebraska is going to invade North Dakota? I wouldn't do. I wouldn't start that in November.
+It's sort of a tough call.
+Yeah, polls don't close for another.
+Yeah, with the shutdown in tsa, it's a nightmare.
+I, I really I, I, I, I, I don't, I, I don't know who to to tell you to hit your wagon to, I guess. Quite a literally,
+This is, this is what happens when you. Ms. Farmer,
+Nassau county spokesperson says sleepwa was shot 1000 times. He's battle test tested for the revolution.
+Here's what I would suggest. Get a red beret and then post on Instagram.
+Well folks, check it out. We'll be here tonight. Appreciate the call.
+All right folks, that ends the call in portion of our program. We've got to get going. I guess we were only on show number one of the day. Let me read five IMs that we'll get out of here. Mark Monkey. Dear Mr. Living in Michigan, I've never felt pride in voting for someone in a general election. I have had at most minor misgivings about what does it feel like vote for someone like that, that it feels good. Michigan, they said. Yeah, I mean Abdullah said you got your chance. Here's hoping this boost Al said to win the Democratic primary in this beautiful but stupid state. I do think it's going to help all sorts of candidates like this. I really do if he wins. Todd from Raleigh out of curiosity I checked to see Cuomo's phone bank page. They only have one 2 hour phone banking session today at 4pm Meanwhile Zoran is having shifts all day. Yeah, that's fascinating. Got an email that they surpassed 3
+Wow, that's nuts.
+Again that doesn't surprise me because I always vote on election day or typically and I've never had to wait in line like I did today.
+We were wondering why you did that and they had full I don't know, I just procrastinate.
+go lavender allergy Even if it was possible to convince Democratic elected they need to evolve in their politics it's a waste of time we can't afford the tires are bald. Put on new ones. All right is that a metaphor about we should just fashion a third party
+Because I think it kind of has to be built through a dialectical process. Jay Tingle stove piping the current practice of Republican functionaries lying to an insulting Democratic legislator leaders in congressional hearings originated with Cheney's second chief of staff David Addington. Oh God, that name rings bells. Saturn girl hey Sam, I forgot to wash my majority report mug out last night and now it looks like Andrew Cuomo gave it a UTI but my insurance company doesn't cover antibiotics anymore. Left his best thank you for that graphic image.
+Omega. All the panicky anti Semitic wolf criers didn't say anything about Pete Hegseth Nazis tats or Graham Platner having a Nazi tat back then. Or Elan doing that gesture. Not one word at yet. All the alarms about a brown guy running for office. Y' all notice that?
+Yes. Hill Line hobo. I forget that Dick was openly criminal and immoral. Lizard without a harmony heartbeat. He was off the public radar for a decade. All right, two more. Sexual matador. Republicans have no problem imposing religious fundamentalist imperatives on LGBT issues via the government. But Jesus imperative to feed the poor must be an individual responsibility. Exactly. And the final I am of the day. Sasha.
+It's a people's magnet. So if you pour a glass of water on it, it'll stop working, right? I don't get it.
+Deep cut. Matt, Brian, Emma, great job today. See you later.
+Bye.
+I wasn't looking when I just got caught between the truth and the life.
+I know the clock is ticking but the meds are gonna kick in and my pilot light shining bright I get somewhere the choice was made for the option where you don't get paid for the road that bends before it finally breaks you I guess somehow I lost my drive between the 101 and the 5 do you know how far the teacher takes you? Yeah, I know the clock is ticking
+and my pilot light shining brighted into you While I shifted in and out
+happen I don't know how much longer I can stay in how much more I.
+
+== Speaker C Transcript ==
+the
+me and I welcome their hatred. We must guard against the acquisition of unwarranted influence, whether sought or unsought, by the military industrial complex. The Majority Report with Sam Cedar. Ever get the feeling you've been cheated?
+With.
+America deserved 9 11. Dude.
+America.
+Did you know?
+Yeah, I just, I snuck in like I snuck into the Zoron event.
+I just keep finding myself sneaking into these like high profile events.
+Yeah.
+Yeah.
+Because that's what's scarier Intifada obviously to do enchiladas.
+Yeah.
+I've been doing a lot of takiya. That's what it is. I just like I keep lying to people about my, my secret woke anti white jihad that I want to do and everyone's always like oh, you're just like a twitch streamer. But it's like secretly I have, you
+Oh no. This is going to be in the Next Michael Bloomberg $7 million attack ad.
+Hasan Piker, scary Muslim. He does woke Sharia.
+I don't think they're going to drop it. I, I, I've been, I've been talking to a lot of politicians and insiders on the, on the democratic side about this stuff and maybe and even Some members of the media as well. And they're. There are people. People are just like kind of shocked, shocked that this has been like a primary focus of the Cuomo campaign. Because, like, it's so. It's so confusing to everyone.
+Yet to be stopped in the street, to be like, you're the guy. You're the terrorist guy. You did 9 11. I've. No one is. No one has tied me to 911 yet.
+Yeah. Jet fuel does not melt. Steel beams.
+Yeah, it was. I was a very impressive 10 year old.
+A lot of people, A lot of people said like, you know, you were. I was really. I was cranking 90s Fortnite style on my. My flight simulator, and I was just. So. I was able to do all of it at the age of 10 from Turkey.
+I did not see.
+because I was too busy doing. Planning out another 9 11.
+Yeah, exactly. What did we know?
+And yeah, I, I just, I think it's. It's. It almost feels like they just kind of gave up on like attacking Zoron, but they did want to like, appease their big ticket billionaire Zionist donors. And they were like, what's the next best thing that we can just like unload? 3.5 million? Because that's what that. That what you just watched. Michael Bloomberg came in at the last second and was like, we haven't hit this Hassan guy hard enough. And that pack put that out. And they're like, I'm getting text messages from my friends that live out here.
+Yeah, no, they, like, in between, like Capital One, you just have like, this guy is the architect of 9 11, like, which is crazy. I think it's gonna go away eventually. I don't know. I don't think Anybody.
+They should get real artists to portray me as doing nine.
+That's what I think as well. I agree.
+Yeah. Pay some. Yeah. Commission some real artists. Like commission some real artists to do the real work instead of these.
+Yeah.
+I want to find.
+Yeah.
+Yeah, the room. The rumor. It all happened.
+Yeah. It's. I, I think it's like, it's interesting because like it doesn't really work in the same way for someone like myself because it's not like my views are hidden. Whereas like I think they're trying to maybe isolate me as like a Nick Fuentes style individual but on the left this time, like a radical leftist. But like my most radical positions are like, like things that the overwhelming majority of Americans want or would be good overall. So it's not like something that I need to.
+That's like my most radical positions are like Medicare for all. You know what I mean? So. And also an end to like all the militarism around the world. And, and these are positions that are objectively very popular with the American population as opposed to just like what the white nationalist flank of the Republican Party. Like what they want to do is just like, like mass deportations of, of anyone that isn't like pure enough in their genetics.
+simply wanted to secure an existence for Italian children. That's what it is. It's like, what's wrong with that? You know, I don't want my neighbors in New York to be speaking different languages in New York.
+No. Abolish Little Italy. We're taking it out. That's my position. I'm the anti Italian ticket. Me and Zora Mumdani, best friends, by the way, for sure.
+It has been, it has been pretty crazy because, like, like, they've been so ruthless about the way that they've been attacking this guy and, and so overtly racist about it. Like, yeah, I'm just one dude. I don't know why they, like, present me as some sort of, like, secretive leftist kingmaker.
+Yeah.
+Yeah, yeah, it could be. I am a, you know, I do have many enemies that are very powerful. So I, I, it could be any number of different people. Like Elon Musk spent the, the week after Charlie Kirk's assassination talking about me and you know, putting the target, putting the crosshair on me. So it could be one of those guys. There's plenty of people in the, on the, the Zionist mega donor side that have, you know, they've, they've presented me as like this guy who is. But it doesn't, Nephews and nieces.
+Yeah.
+Yeah.
+It's good, though, that they are exceptionally weak right now because I think for the longest time they were able to successfully convince the broader liberal base that electability meant moderate positions, civility, politics, and institutionally calcified, sometimes literally calcified figureheads that are stuck to these chairs at the age of like 80. And this was a moment where it was a crowded primary. It almost reminds me of AOC's initial victory. Like they, those are the opportunities, the pounds. I think when the Democrats just think that they're comfortable in a seat and assume that there's not going to be like a left flank opposition or there's no viability to such a left flank opposition because when they do actually realize that we are forcibly making the party more effective and more electable, that's when they start, start. That's when they start doing the 2016 Bernie stuff, right? Like aggressively coming after their left flank. So even with the Grant Platner stuff, regardless of whether you like him or hate him, one thing that I think is indisputable here is the fact that the electability arguments that previously successfully convinced a lot of older voters, a lot of voters in the heart of the liberal base to vote for the establishment pick is no longer working because they've seen all of the defeats over and over again, especially with Trump, because that's a uniquely embarrassing defeat. Twice, right? Three times. If you think the election was, you know, stolen. I do.
+But, but basically now they're actually saying, no, no, no. I think the populist candidates are the electable ones we like. That's what I'm hearing and that's what I'm seeing from average voters. That's what I'm seeing from the polls that I'm looking at, where they're like, like, I don't care. Whatever argument you're making on CNN or msnbc, a guy that comes out and says, I don't like Israel, Israel's doing a genocide, I want Medicare for all. I like that guy. I think that guy is electable in a place like Maine. And, and I think it's, that's the reason why we see so much panic. Something you pointed out as well. So much Panic around the third way. Neoliberal guys who are just constantly recirculating the same exact, like, studies and think pieces over and over again to be like, yes, the real true centrism hasn't been tried. Actually. Like, what we need to do is do exactly the same thing that Kamala Harris did.
+be honest, I think, think the average Democrat, and I'm being super sincere when I say this. The average Democratic Party voter hates the Republicans as much as we do. And it's far more hatred than the average Democratic politician has for the Republicans in general. That's what's, that's the major division.
+Yeah, yeah, I, I think the, the, the funny thing that I've at least noticed, and I know we're probably going to talk about this because you briefly alluded to it in the intro, is also the, the sincerity in which, like a lot of the base of the Republican Party are just openly white supremacists now, as opposed to just kind of using it as like a wedge issue where you're seeing on the one hand, like Dinesh d' Souza being like, how did we get so racist? And it's like, brother, have you seen your son in law married to your daughter? He is like advancing the, the anti Indian hatred on the Republican Party side. And you know, did you see what
+Yeah, there's that. And, and also on the other hand, you have this massive fissure now within the Heritage foundation coming out and being like, we like Tucker and we like Pat Buchanan, but we don't like Nick Fuentes or we should still talk to Nick Fuentes, where they're like trying to massage this idea of like being, you know, overtly anti Semitic and being comfortable with like overt anti Semitism. And the question always is like, if your galvanizing force at the heart of your ideology, at the heart of your movement was like racism and bigotry and hatred of all sorts of, why did you ever think that it wouldn't eventually also go back to Jewish people as well? As a matter of fact, you should have always assumed it was inevitably going to be Jewish people that are at the crosshairs of this because that's like the oldest Christian tradition is blaming Jews for everything.
+Yeah, I don't think Pat Buchanan is like, Right. I don't think Pat Buchanan is going on a date with like a, like a gay cat boy. You know what I mean? Like, Nick Fuentes did do that.
+Yeah.
+Yeah. The worst part about guys like that is that they, there is so much like, like there is, there's so much awfulness going on in terms of like Israel's involvement in like Middle Eastern agenda in our Middle Eastern foreign policy that like you, you hate to have people like that be the driving force behind the, the anti Zionist sentiment in the country. And unfortunately, when in the absence of people like yourself getting prominent slots in media, that's the only person that people hear from. So they end up thinking Tucker Carlson, who in the past, I saw an older video of him actually criticizing Pappy Cannon recently from when he was in his bow tie days where he's talking about how like anti Semitic Pat Buchanan is, but he's doing it in the most like Tucker way possible. And, and Tucker Carlson now becoming the Pat Buchanan figure in the, in the base of the party.
+Yeah. The Heritage foundation was as of like I think last month petitioning the government to give Pat. Like petitioning the administration to give Pappy Cannon a Medal of Honor. Like a Post Humus. Yeah. Posthumous Medal of Honor.
+Yeah.
+Yeah. Good thing the ADL was mostly focused on your boy.
+For the last two years I looked it up and I couldn't believe it. They brought up Nick Fuentes 0 times post October 7th, and they almost entirely focused their efforts on me and like friends of mine on Twitch. None of which were anti Semitic at all. They were just anti Israel and they just hyper focused on, on, well, seemingly the only anti Zionists who aren't anti Semitic in media.
+Yeah, no, it's, it's, it's because you no longer have a. The only mechanisms, the only organs of like informing the public were a much more pliant media ecosystem that in unison was talking about how either never talking about what Israel was up to or only talking about it in like super positive terms. And then all of a sudden when you have this explosion of, of online content and things of that nature and people are like what the hell? Like I'm seeing charred children. But then you know, Jake Tapper is talking about how this is actually totally justifiable with like an Israeli admiral and, and that, that Drew, that created a massive wedge between what the public's opinion is and what like the media ecosystem and the, and the politicians opinion is on, on Israel and how to like continuously defend it.
+Trump also celebrated that grocery prices are going down. Which grocery store does he shop in? Probably none. Banger. Banger. Can he say that? How can he say.
+That's crazy.
+Trouble, wow.
+He's just rizzless. Like, I don't know how else you would describe it. Like him and Hakeem Jeffries are so bad. They just have no Riz. Like no charisma.
+I mean, so. So ineffective as communicators. And this is quite literally a major part of the reason why Biden was unsuccessful as a leader, because he was demented and old and could not speak effectively and could not speak convincingly on some of the modest changes that they were making, some of the marginal improvements that they were making. And it's crazy to me that the Democrats have consistently, in this dynamic media environment especially, continue to not look within and dig into their talent pool to try and bring out fresh faces that will actually effectively launch a fight against Donald Trump and the Republicans. And that's why they are underwater and less popular than the Republican Party is right now.
+Yeah.
+Yeah.
+Oh, yeah.
+And they are the least popular national figures from the city City because, like, AOC eats a lot of attacks, but she is a relatively popular national figure. Bernie Sanders is another example, is from Vermont, but like, there, I. I would go so far as say that like, normally, I think if they were to attack Zoron, for example, they would have tied him back to Bernie and AOC and instead they tied him to someone like myself.
+I think that's a little interesting because is think about what this media cycle would have looked like under Trump one or not Trump won, but like, you know, under the Biden administration, if they're Republican or like, establishing Democrats were actively trying to squeeze out their left flank, they probably would have associated him with AOC and Bernie. The reason why they're not doing that anymore is because the oligarchy tour, like the stock oligarchy tour and things like that have actually created a lot of. A lot more prestige and. And a lot more favorability for the likes of AOC and Bernie Sanders. So, like, that wing of the party is objectively more successful and more popular in its outreach and also in its policies in the eyes of the broader base of support.
+Yeah.
+Where are the abundance. Where is the abundance movement?
+Yeah.
+Because they would have to put like what Marie Glosem, Camp Perez or whatever and that would look ridiculous. Everyone be like, okay, yeah, I don't. I know exactly who I'm going for.
+It's just, it's funny because like whenever they talk about like popularism, even like the David Shore method. Right, right. It's always strange that they never bring up Israel. Israel, which is like the objectively most popular thing that you could, you could use as an issue if you wanted to present yourself as an earnest candidate, especially right now when there is an opportunity to do that. Because it's still somewhat of a unique issue that weirdly enough, none of the Democrats are speaking out on and none of the Republicans are speaking out on. Like this is the opportunity. And that's why I hate to like Marjorie Taylor Greene and them are like seizing on that moment to be like, we are the people who are earnest because we do actually, you know, take Israel the task. But they never bring up Israel. And they always, well, that's what I
+And they decide what those are and what's also. What's also. What I've seen that is really interesting is like there is definitely a state of panic amongst the consulting class because they're doing the, well, compact. They're doing all of these like different. Every other week it seems like they invent like a new, new Yale graduate to come in and you know, come from one of these think tanks to be like, actually it's. We need moderation. We need to move away from the cultural issues. We need to just say, we need to also be like anti trans. But also we need to at least have light economic populism in our agenda. And it's like, ok, that's what Biden did and that's what Kamala Harris did. Like you're. And they lost. So obviously that method didn't work because like everything that they have recirculated is exactly what Matty Iglesias loved about the Kamala Harris campaign. How is that an alarming thing?
+You've been here for five years. That's crazy.
+Yeah, it's the shofar. What do you mean I can't hear it? I can feel it in my heart spiritually.
+Sincere so far. So far so good. That's.
+Yeah.
+Fun Pack.
+McKee, you did it.
+Let's go, Brandon.
+Women.
+Dude?
+We can discuss free markets and we can discuss capitalism.
+I believe 96.
+Poop.
+My favorite part about you is just
+I'm losing it, bro.
+Let's do it.
+I loved when he did that. That's real.
+I'm a Med Bed truther.
+Freaking pitch.
+I am going to illegally vote, vote today on the day of the election. So I'm excited for this pitch. I might go in either direction.
+Like a Rolex, like a Veblen.
+I mean, it's basically slumming it. Like you need your own.
+Okay, what about, what about the buses? Because like I said, I'm, I'm not very tapped in on what's going on. I'm about to vote illegally. And I've heard, I've heard that, by the way.
+Yeah. Oh, yeah, of course. I'm doing it for New York and New Yorkers, rich New Yorkers specifically.
+Yeah. So I, I heard that ZORA wants to make the buses fast and free, which, yuck, obviously, because that would, that would allow the, the rabble rousers to move around the city and we don't want that. What's the, what's the Cuomo counter to that?
+Okay, I'm listening.
+I love this. More room for vehicles. I think we could use the subway tunnel system. Maybe even get like the Elon Musk also.
+Eyes on the prize.
+Sometimes kids. No, he's right. Sometimes kids have bad vibes, like they
+Yeah.
+I think it's important to instill hustle culture and sigma grindset mentality in children as early as the ages of 2 and 4. You are convincing me to illegally vote for Andrew.
+There was a little bit of hang up. It felt like he was against me in particular in the campaign. He did bring me up quite a bit, but I think now you've sold.
+Basically, yeah. Thank you.
+The highest honor.
+Yeah.
+Wow.
+It's probably a Peter Luger. No, I, I've, I've. I have a friend who's been trying to go to one and he can't find it. He's in, like, all the group chat because he's like, he wants to document it and potentially write about it. I won't reveal their name here, but he has been unable to find a single Andrew Cuomo watch party, which is. It makes sense, I guess, like. Like retirement homes maybe, or probably a Mari Marriott.
+I didn't think about that. No, I just.
+Yeah.
+Well, I was one of them, and I think your friend John.
+John Benjamin was another.
+Many such cases, he wouldn't even attempt to sell Cuomo.
+The Welfare Queen Arguments 100 and it's
+Oh, I can't wait. I can't wait to hear what a good Christian has to say about feeding the needy and the poor. Here you go, feeding the hungry. People are suffering because of this government shutdown. It is the Democrat Schumer shutdown. They are, are the ones taking full responsibility for it.
+I think it's, this is a great opportunity for the church, the local church, to step up. Like Floyd said, this is really, it's not the government's job really to feed people. I mean nowhere in scripture do we see, you know, God calling the government to care for the sick, the orphan, the poor, the needy, the widow. That's the church's job. And so this is a great opportunity for the church of Jesus Christ in America to actually start acting like it and to be ready to feed the hungry and welcome those who need help.
+Not the government, though. That's an individual philanthropic person. So I guess technically, that's what they're. That's what they're advocating for here.
+One of the. One of the craziest parts about this has been the. That they were like, we're gonna play ball. We just have to figure out how to do this legally. And it's like, you don't have that as a consideration when you're murdering random fishermen off the coastline of Venezuela. Like, there's no interest in legality there. But when it comes to, like, feeding American citizens, majority of which are, you know, Republican or from red areas in general, then you have to think about the courts. Even though the courts are literally forcing you to do it.
+Yeah.
+Yeah, she was. She was at the Daily Wire originally, and then she left and went on her own. And she.
+They cloned her.
+I have a. I have another fun fact that's not so fun. But the average American taxpayer footing the bill for snap is $36 as opposed to. I think it's like $670 at. The average American taxpayer pays for corporate subsidies.
+And it's 42 million Americans. I think it's like 16 million children in general. And, and it is mind boggling that these guys are now actively saying like, no, we, we need to cut snap. It is such a marginal part of this, this whole endeavor at a time when we're giving, you know, 40 billion to Argentina so that Scott Besson's friend can, can. Can not default on the, on the debt that he purchased many, many years prior.
+Ridiculous.
+I'm actually surprised. He's my favorite content creator.
+This is devastating me right now.
+qualify and for how long.
+That's Whole Foods, Soul Foods. Okay, well also, but like, I can't be the only one who doesn't give a. About what the.
+The working poor eat. Like, that's such an insane thing because like, these are the people who are like, oh, the World Economic Forum wants you to eat the bugs. And now they're literally like, no, actually, if you're working poor, then you shouldn't have cookies for your children. And it's like, you don't get to dictate that decision. You absolute psychopath. Plus, on top of that, the national grocery chain, like the National Grocery Retailers association, which is like a right wing group, is also pro snap because 12% of their overall revenue, especially a higher percentage of overall revenue in rural areas where there are less retailers and less options in general, rely on SNAP as a, as a additional subsidy. What is it like a dollar on SNAP also?
+I think. I think we need, like, Maoist style. If you. If you say stuff like this publicly, you have to live off of SNAP for like a year. They have to just like, force you to the countryside to go work in the. In the farmland, become a farmhand for a little bit, and live off of SNAP so that you understand the importance of programs like this.
+Because of the government shutdown. Now I can't get my ST next month. How I'mma feed my 7 kids. I have 7 different baby daddies, and none of them no good for me.
+Okay, I. I felt good.
+Okay, so I did a deep dive into this before Brett Cooper released this video. And there are the. The seven baby daddies. And the seven children is like a racialized trope in general. And it has been a script that is disseminated everywhere with AI videos of angry black women speaking to the camera. That person in particular, we actually looked at. We found the original account.
+Yeah. That person in particular is not AI, but we suspect that she's rage baiting and, like, saw the AI video and just basically did the exact same thing. Because another one of the videos that she uses, Brett Cooper uses in her compilation that she shows in the beginning of her. Of her video. And yeah, this is the one. This is one of the many different seven baby daddies, seven children scripts that we found. That's a AI one. But there was one that she used another. Another black woman who's like, who. Who brings up, like, a sense of entitlement about how. How the taxpayer is supposed to foot the bill. The taxpayer is supposed to pay for my seven baby daddies. And it turns out that they actually clipped it. It was actually a right wing conservative tiktoker that is like, not a very well known conservative tiktoker that was verbatim copying the script of the AI video that they had seen. And then at the end of it, they go, that's literally a video that I saw, not the one that you just showed. But there's another one in the Brett Cooper video. If you go back. It's a lady with, like, big earrings and, like, she has a. She has glasses on. And it's a black lady with, like, big Earrings. She has glasses on. She takes the glasses off in the beginning of the. Yeah, wait, I think it's in that compilation. Before that, right before that one. Go. No, no, go back, go back further. Yeah, it's in the beginning. Yeah, this one.
+This one.
+Yes.
+The original video of this is so crazy because they cut it in this larger compilation and they put it into two different places. But we found the original video and in the original video she just goes through here. You can show the video for a second. She like is basically doing the exact same script, the exact same AI script script that we've seen. It's been day five and I have
+My disability checks is on hold. My cash benefits is not coming no more.
+I. It is the taxpayer's job to pay for my kids to eat and for my kids to be taken care of. I have over 2000 followers on tick tock and I can't get not one person to send me 50 cents is your watching video and you can't send me nothing.
+Right, so. Right. So that's from a compilation from a right wing influencer. Right. But we found the original video and the, in the original video she just goes through this entire thing and at the end goes, that's dead ass. Something that I saw on the timeline. Isn't that crazy how entitled some of these people are in terms of like what they want out of their, you know, what they want out of tax. Tax.
+Yeah.
+I just could not believe that that was actually a right winger making fun of the AI script that she had seen. And then it got elevated to this, this position as though like she's being sincere about her anger.
+I think right now we have this like clickbait culture in general. People are just straight up Rage baiting.
+Even if they see like AI videos. Right. Very clearly created AI videos, they might not be able to distinguish whether it's an avido or not, but they see those videos going viral, they go, oh, I want to go viral. I'm just going to literally do the exact same script, but this time it's like a real person. And I mean, they're being duped by machines. It's insane.
+Yeah. Also, even if someone has seven children, like they, the children shouldn't die. Like, what are we talking about? Yeah, okay, okay. Feed the fucking seven kids.
+Yeah, no, yeah. L for you. L for you. No, but sorry.
+Yeah, no, it's just, it's, it's the classic like, oh, these people are irresponsible. Or the classic Thomas Sowell bit where it's like they're having children. Specific black people are having children specifically so they can farm the government for more money.
+Some of them are real, some of them are actual people addressing their genuine grievances. But all of this creates this narrative that by and large, black people are taking advantage of the system. They're entitled and they're being irresponsible with their behavior by having multiple children out of wedlock. And like, it, it goes back into the exact same racialized tropes this has
+Getting. Getting white people on board to cut the. The already, like, diminished welfare structure that exists that they take advantage of as well, that they need as well. Well, because they're out there thinking, well, some black people are doing it too, and I don't want that. It's. It's disgusting. But it's also a phenomenally effective tool to go against any sort of, like, left populist economic message, unfortunately.
+Yeah, it's the LBJ quote that comes to mind. It's just like you can. If you can convince the lowest white man that he's still higher than. Than the highest black man that he'll. He'll empty out his pockets for you. He won't recognize that you're robbing him blind. Hell, he'll empty out his pockets for you. I mean, that's. That's precisely what it is.
+Yeah.
+Yeah.
+Oh, yeah.
+Yeah.
+Isn't it beautiful? He's solving the housing issue.
+You're about to. You're about to get a. You're about to get a brownstone for a buck. It's nothing.
+Yeah, it's awesome.
+Yeah.
+Yeah.
+17.
+Well, Curtis is not leaving, that's for sure because he's a real New Yorker. I do want to give a shout out to rat king Mike Isaac from. I think he's still at the New York Times. Yeah, New York Times tech reporter who said on Twitter, quote, retweeting a New York Post headline this time about. About how Zoramdani's aloof wife, Rama Duaji, quietly steered his campaign from behind the scenes.
+Yeah. He, quote, retweeted, saying, as a Californian experiencing the post Twitter coverage of this race over the past six months, it has been like watching a social media manager slowly descend into mania. And it's. It's true. I feel like for the outsiders looking into this race, trying to make sense of it all, it's like every single one of these outlets and all of the people that are like, in the tank for Como or just like, no one is really pro Como, but, like, anti. Mamdani have become increasingly more manic as the election has neared and the polls don't actually show any sort of swinging in the direction of Cuomo. One of my favorites is Debra Messing, who has completely lost her mind.
+If you look at her Instagram stories right now. Yeah, she has like 100.
+I don't even know. I don't know if you know, she lives in New York, but she is very locked in on the race and including, like, she posted something. It's so funny that, like, a lot of people who are like, oh, I'm a liberal scientist, I'm a progressive, are like straightforward forward. Bringing up like Kahanes points now. Like, they are just like followers of Meyer Kahan. Like, they, they're literally like. No, it's actually the, the, the goyim. The goyim cattle don't understand.
+Yeah, they don't know what's going on. It's like, I thought you were progressive Hollywood person. This is what I was looking at.
+Oh, she posted me too.
+Yeah. It's the most insane thing I've ever seen. So it's all just about, like, Mamdani and whatnot.
+But the best one is when she goes to the. In Judaism and Christianity. Love that.
+Back.
+The worst kind. Yeah. Is a woke.
+Well, he's Shia, so, like, it's like Iran. It's. It's. Everybody's trans.
+This.
+No, but that's, that's. But that's what it is. It's like you can have a loser, but as long as they've like, eked out a marginal victory or, or they've done it with the third way neoliberalism, like the centrist method, then that's fine. It's fine if you lose. Even if you lose as a centrist, it's zealotry. I feel like it's ideological zealotry. It sounds silly to say because you're like, well, centrism is just like an inability to arrive at any sort of. Of like, consistent ideological position. But like, they have almost this, this zealot style, this defense of, of centrism. But they're the radical centrists.
+Yeah.
+Yeah, but, but at a time when liberalism is broadly failing in, in Western liberal capitalist democracies, that is the reason why you're seeing this resurgence of fascist movements. And many of which are, are obviously there's a vacuum forced. Exactly. They're obviously forced to identify themselves as like something different because we live in a post World War II universe where like people fascism can't be seen as like a revolutionary movement or a new movement. Right. As it was initially when it was incepted. But in the United States of America in particular, it's actually very interesting that like we have two liberal parties. Like liberal as in, you know, market. The, the actual political terminology. We have a center right liberal party in the Democratic Party and we have a far right liberal party in the Republican Party. And the far right liberal party party is now moving into a post liberal version of itself and it's actually restructuring itself to be a fascist party without openly saying that they're fascist. And the, the centrist center right liberalism is, is never going to be able to oppose this, this right wing populist growth. They're never going to be able to successfully oppose it. And, and the sooner I think the Democratic establishment wakes up to that reality and, and realizes that do you want to oppose fascism or do you think that you will actually be a servant of fascism and you'll maintain your symbolic power, symbolic position of power, the faster we can try to genuinely build a successful movement against this.
+Yeah.
+Yeah.
+They just need to leave. Yeah, no, for sure. And, and I think the base is more open minded to that than ever before. And you can make that electability argument that they've been, that they've been conditioned and they've been primed into believing that's the big, with a left populist message. And I think that that's what we need to continue pushing. I know a lot of people, some people fancy me to be far too radical and others say that I'm a sheepdog for the Democratic Party. But like, the reality of the matter is I obviously have a larger ambition to, to restructure American society in a way that benefits all workers.
+And I think that the road to achieve that does, does move from within the Democratic Party, at least in the interim, to at least build class consciousness and build the networks that you were suggesting that are an absolute necessity to create points like structures of pressure against all people in positions of power. And certainly the Democrats, I think you use.
+Exhaust all options.
+In that this is the weakest the Democratic Party has ever been.
+If there was a viability for a third party alternative at this stage, I think that. I think that that would exist. And a lot of people say, like, oh, it's people like yourself and myself that like, actually shut off that viability when in fact, like, I don't, I don't have any. I don't have any interest in, like, pushing aside people who are viable independent candidates or viable third party alternatives. I'm just simply saying that exhausting the election machine that already, the turnout machine that the Democrats already have have in favor of socialist candidates, at least in the interim, is, I think, more successful. Yeah. And it's what Bernie Sanders did as well. Regardless of, of the disagreements that we may have, like the political disagreements that we may have with any of these candidates, I think ultimately they are able to expand the conversation and expand people's vision for, for what a alternative exists within the actual true left flank of American politics.
+And this isn't to say that there will never come a point when there isn't like a true workers party in this country. I'm not saying that at all. I'm just simply stating that in order for people to even get there, they have to identify. They have to self identify as workers, self identify as working class individuals and recognize their class position, which unfortunately they're utterly devoid of at this point point. They are sometimes even antagonistic towards class politics because they've been conditioned into thinking that that's like, you know, scary socialism, Marxism or whatnot.
+I got.
+He's just. He's passionate. He's too.
+In the distance.
+Yeah.
+Yeah, maybe I'll see you guys later.
+All right, perfect. Well, thank you guys for having me on in spite of the danger that I present. But I will be drinking, I think.
+This is like I've talked about on another podcast that is not going to be released yet with Joe Marco. But like, I've been holding on to this. This campaign like, like just a modicum of hug hope. Just like a little. Everything else is so shitty where I'm just Like, please. Like, please, we have to pull through, like, something just a. Just a crumb for. For working class politics in this country. Please.
+Absolutely. But thank you for so much for having me on, guys.
+All right,
+Standoff is because if the hundreds, hundreds
+earth to these states, if that is
+to come to the United States and stay here.
+Then, then they will lose it for a second.
+To, to these states.
+being paid to come to the United States and stay here.
+Yes.
+Especially once things start normalizing. Yes.
+And
+a threat to democracy.
+Yes. By importing voters.
+And by the way, it's a strategy that if allowed to work, would work
+Yeah. And there's so much gerrymandering that, that that occurs.
+Have illegally migrated into Chicago. I didn't see that.
+People are fucking freaking out. Yeah.
+Like, why are you giving people that
+not giving anything to us.
+where it's like we're just fucked.
+They shouldn't get it either.
+That's what I think they're doing.
+ID and they're trying to bring people in or allow people to get in
+travel all around the country.
+Well, what if they can?
+million doors knocked on.
+It might take a strength like to get to where I want But I know somehow I'm going to get there
+Won't make me feel any better yeah,
+but the message like on a chicken
+of here Waiting for my moment to
+
+== Speaker D Transcript ==
+Minneapolis too. Omar Fateh.
+It is news Day Tuesday, but most importantly, it's election Day.
+Yes, very exciting.
+Well, good thing that the Democrats didn't try to rehabilitate his image in the last presidential election for some reason to no effect, to actually negative effect. So wait, that actually happened Anybody who
+And the Trump crypto, like grifting off the government and the lack of accountability on that open corruption. I mean, I think you can trace it to Dick Cheney as well, where he was basically indirectly profiting with his continued stake in Halliburton throughout the, his vice presidency as we were waging an illegal war in Iraq.
+at a lectern.
+Yeah.
+Well, we've been talking about how the war on terror has been brought home, and ice is a creation of the war on terror. I know people act like abolishing isis, this crazy radical position, but it didn't exist prior to 9, 11. The. The. Basically the torture that we are now engaging in and this horrific conditions that we put immigrants in. Dick Cheney and the torture regime under Bush was responsible for that abroad. It's bringing the war on terror here. And the only thing I can say is that unfortunately, it seems like there's probably no waterboarding in hell.
+Because they just don't have the material for waterboarding. I would guess they can work on something else. Right.
+Fireboarding. Lava boarding.
+That Zoro's buddy Hassan Piker saying we deserve 9 11. It's a disgrace to every life lost. Zoron went on Piker's show and now Piker was just spotted at Zoron's event. Mom dummy is wrong. For New York, for our city.
+Disavow.
+Yeah.
+I'd say infiltrated.
+Infiltrated.
+Right.
+know, you know we're on air. Right.
+And Zoron was what, like nine, right during 9 11. So that's what we call a sleeper cell Sleeper.
+Numerology.
+Isn't it nuts that they use like that. They blew all their money on that. But then they do AI ads which is like probably they're cheaping out on getting actual artists to participate. Yeah.
+Exactly.
+That's the leftist position.
+Well, hasn't it been kind of revealing, I mean that what I have enjoyed about this race is not the Islamophobia but the fact that so many Democrats are showing their ass on this. And there's hopefully a reckoning of the bigotry within the party here. Like Cuomo delayed, but Cuomo saying the other day that multiculturalism or what do you say? Diversity doesn't necessarily.
+Like, that was just. That's Zionism distilled. And that's the kind of thinking that needs to get out of the Democratic Party. The idea that, like, other races or ethnicities of people need to be separated for safety purposes. The fact that that's even an existing viewpoint in the party. I mean, it's, it's emblematic in Zionism, but that's part of what we need to move past.
+But, but, but Democrats believe that. Right. And they don't think about it in the same terms as white nationalism supremacy when they think about, you know, Zionism
+Do you believe that Little Italy has a right to exist?
+I mean, the panic. I was on MSNBC on Sunday, and I have never gotten the amount of pushback that I did in it. Like, I was taken aback about, like, basically saying that the centrist wing of the party was losing ground and losing credibility with the voting base because they feel it too. Right. I mean, there's just like a, the, the, the voting base is saying, we don't believe you. You've told us over and over again that, hey, maybe Bernie Sanders ideas sound good and exciting to you, but the most important thing is defeating Donald Trump now. Losing to him again means, well, maybe the thing that I was drawn to initially was always the right thing to do. And that's, I think, part of why the base is being radicalized. It's a threat to them. And of course, the Gaza genocide, I'll
+Did you see who you dated? Ann Coulter?
+That's better. That's the right way to say it. But like, what. What we're really kind of dancing around here with this is it's a major failure of the Democratic Party. Ye continuously for the first year and a half of this genocide allowed for the conflation of Zionism with Judaism. And then you get the rise of figures like Marjorie Taylor Greene, who's trying to position herself for 2028. Jeet here made this point. I keep returning to it that she's doing the Trump, which is saying all the things that the base wants you to say, but that the basically the Republican establishment isn't saying the gain credibility with them. But she's like tweeting at AIPAC like, I won't accept your shekels and stuff like that. And it's so obviously anti Semit and yet there's this like, I don't know, rush to carry water for her. I think probably because she's filling some sort of vacuum. But the vacuum is the fault of the Democratic Party.
+And that's what's scary about it, is that we're seeing a real. Eventually we knew we were going to get here. But a major, major rise in genuinely anti Jewish hatred in the country. It's being led by major figures in the Republican Party. And what, Tucker Carlson's a top 10 political podcast in the country. Candace Owens also a top 10 political podcast in the country. That's scary.
+Yeah.
+Probably none.
+There's a way to do that where like to, to, you know, Sam, you give like, alternate explanations for like, shitty political answers where you just go, he's so out of touch. This, this guy, this rich guy doesn't feel your pain. He's never, he probably doesn't know what the price of a gallon of milk is.
+Yeah, but like, not this throw, but, but probably not. It's so sweet.
+Yeah. And also, just. Just to say, like, why does Donald Trump overperform in presidential elections and the Republican Party underperforms an off year? It's because he has a communication style that cuts above literally everything else. He goes. He's a direct communicator. It sounds insane, but he appreciate people, like, think he sounds like he's speaking off the cuff because he often is. Regardless of, like, what he's saying in terms of the lies is that is where, like, you hear Chuck Schumer talking about the social media that we have to get involved in.
+They're so behind. That should have been the conversation 10 years ago. Now you've got to be speaking directly to people in a way that makes sense to them. That's part of why Zoron is so such an effective communicator. I know that, like, you know, he's talented in many ways, but it's also the fact that he doesn't treat voters like idiots, and he comes out with policy platforms where he speaks directly to you about what he's trying to do. And that is the antidote as well, in my view.
+The Billy. The fundamentals. Yeah, that's the thing that I can't get over is when they say, like, it's New York City, it's New York City, Zoron can't be replicated across the country. Sell that to the two leaders of your party in the Senate and the House that you selected. Like, they can't make the argument that New York City's out of touch and that the Democrats shouldn't listen to that dynamic and also have the leader of the House and the leader or leader of the Democrats in the House and Senate be from that city. So it's just insane.
+Yep.
+Shoot.
+And well, not to Ezra. Not to Ezra. He included Mary Gluson Camp Perez as his other. You know, in that horrific op ed that we were talking about yesterday in the New York Times, he was saying, saying the Democrats have need to be a big tent from the likes of Zoram Mamdani and Bernie Sanders to Mary Gluson, Camp Perez and Joe Manchin. It's like, yeah, oh yeah. All the people that are.
+I know he's not even in the party anymore. But then the. I think he cited Jared golden too. Right. Which is basically. He's basically a libertarian kind of Democrat at this point.
+Right.
+Democrats think Israel is committing genocide. Only 8% of Democrats support Israel's military action in Gaza. And that was from three months ago.
+Yeah.
+Just like that same poll, 25% of independents are the only. That's the amount that supports Israel's military action in Gaza. Just to add to your point is that the majority of independents are against, against this crap too.
+I know. There's a bunch of. You can't hear it, but a million sound drops. We're playing it once right now.
+Yes. It's been five years, I guess. Yeah. Wow. So that's crazy. There used to be, if you can
+was a clear shower curtain hanging between us because it was a thing there.
+would always be open even the dead of winter. I still have a blanket in that locker over there that I used to wrap myself, my legs in.
+Yeah.
+It's been, I can't believe it's been five years.
+Five years.
+Let's go, Brandon.
+Fundamentally false. No. I'm sorry.
+Where is this coming from?
+Yes.
+Gobbledygook.
+So what's 79 plus 21?
+$3,400. $1900. 5, 4.
+Actually. You're making me think less.
+like every day, all day, like everything you do.
+It's just the week being weeded out. Obviously.
+But you should know,
+I do love that.
+Outrageous.
+That's what will save him.
+Hey, Benjamin.
+Hey.
+It's okay.
+Yeah, me, too.
+Yeah. Like to make the luxury good. Like, you know how when, you know, you make something a little bit more expensive than the competitors, it makes it so that the wealthy people will want to come here.
+Yeah, Good. Good point.
+Actually, that's horrendous.
+Wait, wait.
+Sure, sure.
+So, Benjamin, I just. You said earlier that you want a separate space for rich people. Are you trying to. Is the Cuomo campaign advocating for apartheid within New York City?
+Okay. You wouldn't use the word apartheid, maybe.
+Good question.
+might not deserve it.
+You didn't hear about this, Benjamin, because
+Yeah, he's been basically. Instead of doing campaign events. Oh, right.
+Yeah, he's been doing campaign events. He's been renting out, like, hotel conference rooms, do PowerPoint presentations.
+But that's also when we were talking about the consultant class freaking out in the first hour of the show. That is part of what Zoron threatens, not just ideologically with Democratic socialism. Also, you know, attacking the Islamophobia from within the Democratic Party. He represents a new way of doing politics that doesn't make the same people rich who have been getting rich in democratic politics for 30 years. There is no money in canvassing and in volunteers. There's a lot of money in TV ads, and I think that's as much of a threat institutionally to the Democratic Party as is his ideology.
+So yeah.
+They want to increase dependence on things like the church and remove dependence on things like the state. And that takes.
+That's open defiance in the courts.
+Yeah.
+Fem Shapiro Trust Society.
+does on groceries, which is insane. And that is true.
+That is not helping the poor. It is rewarding the people who abuse the system.
+needs to be stripped down and rebuilt.
+Okay. Also, I, Sam is I think looking up the average person's spending on groceries. But the. I know off the top of my head that the average snap payment is $187 a week.
+Right.
+It is rewarding the people who abuse the system.
+I am not against government assistance in
+No more candy or soda or freaking
+Don't. No, don't.
+Yeah, that's the point. Don't get lobster tails for $9. Who knows where the hell that's from?
+let alone that it's subsidizing corporations like Walmart that pay subsidy wages where you have like in disproportionate amount of their workers who are on benefits like this, let alone that there are already restrictions on what SNAP benefits can be used on at the point of purchase, including you can't purchase hot food. If I'm not, if I'm not mistaken, right, Matt?
+Right. So I mean, this is like she's acting like this is, you know, a free for all. Oh, they're, you know, sucking the lobster out of these, out of the tails.
+Okay, well, I. Putting the lobster aside for a second. God forbid.
+Good job.
+Really?
+There it is.
+not received no food stamps.
+She's doing. Right?
+But, but don't you think that that's part of the incentive structure is, is if these conservatives get. Give them something useful, then perhaps they're rewarded either with click. I mean, it feels like that's probably part of it potentially.
+And they are literally generating basically the welfare queen trope and just creating real ish looking people that will regurgitate exactly what they want to say. What she said there was immensely racist. We should just put that out there. And it's as old as the Republic. I mean the Republican Party, the modern iteration of it, for decades.
+Natalists.
+They mean white babies.
+Well, they can offload their shame. Right. It's almost like when you can have another group of people that you can deem personally undesirable or like they've made choices in a way that put them in that position. Position that makes your position elevated to them relatively, even if you are using the same benefits.
+This is Millionaire Underground Railroad. They've already gotten set in place.
+100% abundance.
+Oh. Citing a survey though by JL Partners.
+It's a.
+Lady McBest.
+Shout out to the show. A bit fruity. I did actually with Matt Lieb and Matt Bernstein, an episode on Deborah Messing that was. And liberal Zionism more broadly. People should check out that.
+Yeah, yeah, look, she live in New York.
+Yes, yes.
+So I'm saying. So first of all, look at her. The amount of dots. Matt Bernstein pointed this out. It's like a sign of a manic episode. If you're posting that many Instagram stories. Almost looks like a
+There you are. Oh, that was the ad we played.
+Yeah.
+I'll read it here because we're.
+Put this up. I mean, we just got to just see these.
+He switched back.
+But I'll read this post that Hasan's referencing. In Judaism and Christianity, we are commanded to speak the truth. In Islam, they are commanded to lie. If it means spreading Islam. Do not disregard this fundamental ideological difference. Now take a look at Mamdani. Apply that basic rule. Listen to his words, then watch his actions. He's revealing their goal. Mass conversion. These two opposing civilizations can, cannot coexist.
+It's both.
+It's a manic episode. I mean, driven by Zionism, which is also a mental disease, to be fair.
+Yeah.
+I mean, yeah, he's, he's Ezra Klein Road, I believe.
+They're anti politics. If the Republicans are anti democracy, it's like the radical centrists are anti politics because they want to maintain the status quo. And that's what their zealotry is kind of centered around.
+are, because I'm already ahead anti pop.
+Yep.
+He has to run. Yeah, that's why I'm squiring.
+You. It's fine.
+I understand.
+It's okay.
+I told her we had sound drop.
+No. All right. Well, have fun tonight.
+Even if we don't broadcast there. Maybe I'll just dip in for a little.
+Yes.
+All right, all right, all right.
+You're just saying turn down his mic.
+Ten years?
+Oh, it's been actually 10 years.
+I'm back.
+I'm sorry. I just have intense anxiety about being impolite.
+Well, just keeping people over there. I understand. I understand.
+I'm not, I'm not. I'm not saying we were being impolite. I'm saying that I have anxiety of about it ever becoming impolite. Anyway, he could get up and leave whenever he wanted.
+Wow.
+Right.
+What?
+which if you're not documented, you are not eligible for.
+Yeah.
+That they still have to pay for.
+Yeah.
+bag floating through the wind.
+I was just about to say, what age did children get? Object permanence. Do we know, like, three?
+Well, I don't have a kid, so I don't know.
+Oh, that's why you play peekaboo.
+They googled it. Not happening there, there, there.
+Right.
+How do you do that?
+one of the immigrant phones.
+Well, that's where the hypnosis comes in, because he's saying the Great Replacement Theory without saying it, and he didn't get to the heart of it, which is that the Jews are the ones doing it. So, like, that's how you keep them distracted with the learning so much, the media, hypnotic gnosis.
+Have you ever seen the Multiverse in Marvel?
+That's art to me.
+Sounds okay.
+Greater Nebraska.
+Oh, Pollstone close that quickly?
+And that's a good thing.
+Did you see that the final day of early voting was more of a vote total than the final day of early voting in the presidential election last year in New York City.
+There you go.
+The only time I ever saw lines like that was well I guess it was during COVID when I was covering the Jamal Bowman camp campaign. But the New York Democratic Party was also like purposefully trying to throttle I think polling locations in Bowman friendly areas. But you know anyway it's just a good reminder of like the part Bowman and AOC and what they did in standing up to this Democratic Party machine is a huge reason to like why Zoron is able to run in this way just because they it's as corrupt as it gets and Jacobs has to
+Yep. Yeah, that was really gross.
+Yep.
+Oh, no. It's a reference to Trump who didn't know how magnets work. Remember, he thought that they didn't stop working underwater. It had to do with boats. Yeah.
+We'll be here PM Eastern.
+Bye. Bye.
+

@@ -1,5 +1,8 @@
 data/merged/merged_file.txt
 create_transcripts.py
+categorize_words.py
+HasanAbi November 12, 2025.m4a
+HasanAbi November 13, 2025.m4a
 data/one_grams/HasanAbi 1-1-2026 transcript__1gram.txt
 data/one_grams/HasanAbi 1-2-2026 transcript__1gram.txt
 data/one_grams/HasanAbi 1-5-2026 transcript__1gram.txt
@@ -190,3 +193,4 @@ data/wordfreq/HasanAbi 12-27-2025 transcript_wf.txt
 data/wordfreq/HasanAbi 12-28-2025 transcript_wf.txt
 data/wordfreq/HasanAbi 12-29-2025 transcript_wf.txt
 data/wordfreq/HasanAbi 12-31-2025 transcript_wf.txt
+data/audio_files/
